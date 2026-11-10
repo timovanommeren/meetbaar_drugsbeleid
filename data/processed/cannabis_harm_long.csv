@@ -204,17 +204,17 @@ H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2022,4.8,"e
 H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2023,4.9,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
 H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2024,4.2,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
 H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2025,4.1,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
-H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2015,4.1,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2016,3.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2017,4.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2018,4.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2019,4.8,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2020,4.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2021,4.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2022,4.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2023,4.8,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2024,4.1,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2025,4.0,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population 12+ (CBS Leefstijlmonitor),2015,4.1,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population 12+ (CBS Leefstijlmonitor),2016,3.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population 12+ (CBS Leefstijlmonitor),2017,4.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population 12+ (CBS Leefstijlmonitor),2018,4.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population 12+ (CBS Leefstijlmonitor),2019,4.8,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population 12+ (CBS Leefstijlmonitor),2020,4.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population 12+ (CBS Leefstijlmonitor),2021,4.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population 12+ (CBS Leefstijlmonitor),2022,4.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population 12+ (CBS Leefstijlmonitor),2023,4.8,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population 12+ (CBS Leefstijlmonitor),2024,4.1,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population 12+ (CBS Leefstijlmonitor),2025,4.0,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
 H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2015,6.7,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
 H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2016,6.6,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
 H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2017,7.2,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
@@ -226,17 +226,17 @@ H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2022,7.8,"ex
 H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2023,7.6,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
 H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2024,6.9,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
 H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2025,7.1,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
-H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2015,6.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2016,6.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2017,7.1,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2018,7.4,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2019,7.1,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2020,7.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2021,7.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2022,7.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2023,7.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2024,6.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2025,7.0,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population 12+ (CBS Leefstijlmonitor),2015,6.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population 12+ (CBS Leefstijlmonitor),2016,6.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population 12+ (CBS Leefstijlmonitor),2017,7.1,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population 12+ (CBS Leefstijlmonitor),2018,7.4,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population 12+ (CBS Leefstijlmonitor),2019,7.1,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population 12+ (CBS Leefstijlmonitor),2020,7.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population 12+ (CBS Leefstijlmonitor),2021,7.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population 12+ (CBS Leefstijlmonitor),2022,7.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population 12+ (CBS Leefstijlmonitor),2023,7.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population 12+ (CBS Leefstijlmonitor),2024,6.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population 12+ (CBS Leefstijlmonitor),2025,7.0,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
 H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2015,21.1,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
 H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2016,20.9,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
 H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2017,21.8,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
@@ -248,17 +248,17 @@ H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2022,23.6,"e
 H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2023,24.3,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
 H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2024,23.4,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
 H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2025,25.2,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
-H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2015,20.1,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2016,19.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2017,20.6,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2018,22.4,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2019,21.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2020,21.8,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2021,23.3,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2022,22.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2023,23.0,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2024,22.1,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
-H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2025,23.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population 12+ (CBS Leefstijlmonitor),2015,20.1,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population 12+ (CBS Leefstijlmonitor),2016,19.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population 12+ (CBS Leefstijlmonitor),2017,20.6,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population 12+ (CBS Leefstijlmonitor),2018,22.4,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population 12+ (CBS Leefstijlmonitor),2019,21.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population 12+ (CBS Leefstijlmonitor),2020,21.8,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population 12+ (CBS Leefstijlmonitor),2021,23.3,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population 12+ (CBS Leefstijlmonitor),2022,22.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population 12+ (CBS Leefstijlmonitor),2023,23.0,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population 12+ (CBS Leefstijlmonitor),2024,22.1,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population 12+ (CBS Leefstijlmonitor),2025,23.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
 H02,use,h02_cast_risk_adults_pct,% of adults 18+ with positive CAST,2022,1.7,exact (NDM page text),https://www.nationaledrugmonitor.nl/cannabis-problematisch-gebruik-jongeren/
 H02,use,h02_cast_risk_adults_pct,% of adults 18+ with positive CAST,2024,1.7,exact (NDM page text),https://www.nationaledrugmonitor.nl/cannabis-problematisch-gebruik-jongeren/
 H02,use,h02_cast_risk_users_pct,% of last-year users with positive CAST,2016,22.1,exact (NDM page text),https://www.nationaledrugmonitor.nl/cannabis-problematisch-gebruik-jongeren/

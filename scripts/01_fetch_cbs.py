@@ -1,4 +1,4 @@
-"""Download cocaine, cannabis and drug-crime series from the CBS open data API (StatLine).
+"""Download cocaine, cannabis, ecstasy and drug-crime series from the CBS open data API (StatLine).
 
 Writes data/raw/cbs/cbs_series.json: {series_name: {year: value}}.
 Tables: 85457NED (Leefstijlmonitor), 7233 (deaths by cause), 83648NED/83363NED
@@ -22,7 +22,7 @@ out = {}
 # Leefstijlmonitor: cocaine and cannabis use (total population, point estimate)
 dp = get("85457NED/DataProperties")
 rows = get("85457NED/TypedDataSet", "Persoonskenmerken eq 'T009002' and Marges eq 'MW00000'")
-for title in ("Cocaïnegebruik", "Cannabisgebruik"):
+for title in ("Cocaïnegebruik", "Cannabisgebruik", "Ecstasygebruik"):
     group = next(x["ID"] for x in dp if x.get("Title") == title)
     for x in dp:
         if x.get("ParentID") == group:

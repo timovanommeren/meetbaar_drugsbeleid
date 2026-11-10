@@ -1,6 +1,6 @@
 """Correlation matrices (Pearson r, pairwise complete years, min. 5 shared years), one per dimension.
 
-Usage: python scripts/06_plot_correlations.py cocaine|cannabis
+Usage: python scripts/06_plot_correlations.py cocaine|cannabis|mdma
 Reads data/processed/<drug>_harm_long.csv; writes output/figures/<drug>_*_correlations.png and output/tables/<drug>_*_correlations.csv.
 Indicators per drug are defined in scripts/_config.py.
 """
@@ -8,6 +8,7 @@ import csv, math, sys, matplotlib
 from _paths import PROCESSED, FIGURES, TABLES
 from _config import CORR
 DRUG = sys.argv[1] if len(sys.argv) > 1 else "cocaine"
+NAME = {"mdma": "MDMA"}.get(DRUG, DRUG)
 MINN = 5
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
@@ -58,5 +59,5 @@ def fig(items,title,out,csvout):
     f.savefig(out,dpi=150,facecolor=SURF)
     with open(csvout,"w",newline="") as fh: w=csv.writer(fh); w.writerow(["var1","var2","r","n"]); w.writerows(rows)
     print(out)
-fig(CORR[DRUG]["crime"],f"Correlations between crime harm indicators, {DRUG}, Netherlands",FIGURES / f"{DRUG}_crime_correlations.png",TABLES / f"{DRUG}_crime_correlations.csv")
-fig(CORR[DRUG]["use"],f"Correlations between use and dependency harm indicators, {DRUG}, Netherlands",FIGURES / f"{DRUG}_use_correlations.png",TABLES / f"{DRUG}_use_correlations.csv")
+fig(CORR[DRUG]["crime"],f"Correlations between crime harm indicators, {NAME}, Netherlands",FIGURES / f"{DRUG}_crime_correlations.png",TABLES / f"{DRUG}_crime_correlations.csv")
+fig(CORR[DRUG]["use"],f"Correlations between use and dependency harm indicators, {NAME}, Netherlands",FIGURES / f"{DRUG}_use_correlations.png",TABLES / f"{DRUG}_use_correlations.csv")

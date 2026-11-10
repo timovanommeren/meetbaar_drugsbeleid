@@ -1,6 +1,6 @@
 """Small-multiple time-series plots, one figure per harm dimension.
 
-Usage: python scripts/05_plot_indicators.py cocaine|cannabis
+Usage: python scripts/05_plot_indicators.py cocaine|cannabis|mdma
 Reads data/processed/<drug>_harm_long.csv; writes output/figures/<drug>_*_indicators.png.
 Panels per drug are defined in scripts/_config.py.
 """
@@ -8,6 +8,7 @@ import csv, sys, matplotlib
 from _paths import PROCESSED, FIGURES, TABLES
 from _config import PANELS, TEXT
 DRUG = sys.argv[1] if len(sys.argv) > 1 else "cocaine"
+NAME = {"mdma": "MDMA"}.get(DRUG, DRUG)
 T = TEXT[DRUG]
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
@@ -55,5 +56,5 @@ def fig(panels,title,sub,out):
     f.text(0.012,0.004,f"Filled dot: exact value. Open dot: approximate, derived, uncertain or partial-year value{T['note']}. Dashed line: years missing in between.\nEach panel has its own y-axis starting at zero. Source: {DRUG}_harm_long.csv ({T['sources']}).",fontsize=8.5,color=T2)
     FIGURES.mkdir(parents=True, exist_ok=True); TABLES.mkdir(parents=True, exist_ok=True)
     f.savefig(out,dpi=150,facecolor=SURF); print(out)
-fig(PANELS[DRUG]["crime"],f"Crime harm indicators, {DRUG}, Netherlands",T["crime_sub"],FIGURES / f"{DRUG}_crime_indicators.png")
-fig(PANELS[DRUG]["use"],f"Use and dependency harm indicators, {DRUG}, Netherlands",T["use_sub"],FIGURES / f"{DRUG}_use_indicators.png")
+fig(PANELS[DRUG]["crime"],f"Crime harm indicators, {NAME}, Netherlands",T["crime_sub"],FIGURES / f"{DRUG}_crime_indicators.png")
+fig(PANELS[DRUG]["use"],f"Use and dependency harm indicators, {NAME}, Netherlands",T["use_sub"],FIGURES / f"{DRUG}_use_indicators.png")
