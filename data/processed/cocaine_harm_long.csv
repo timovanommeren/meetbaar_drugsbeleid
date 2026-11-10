@@ -1,0 +1,505 @@
+indicator_id,dimension,column,unit,year,value,flag,source_url
+C01,crime,c01_seized_douane_maritime_kg,kg,2016,14154,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_maritime_kg,kg,2017,9328,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_maritime_kg,kg,2018,20074,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_maritime_kg,kg,2019,38406,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_maritime_kg,kg,2020,25599,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_maritime_kg,kg,2021,69479,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_maritime_kg,kg,2022,50044,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_maritime_kg,kg,2023,56858,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_maritime_kg,kg,2024,34877,exact,https://www.regioplan.nl/wp-content/uploads/2025/12/24184.-NDM-Factsheet-2025.pdf
+C01,crime,c01_seized_douane_total_kg,kg,2016,15581,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_total_kg,kg,2017,10219,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_total_kg,kg,2018,21188,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_total_kg,kg,2019,40095,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_total_kg,kg,2020,48891,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_total_kg,kg,2021,71796,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_total_kg,kg,2022,51447,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_total_kg,kg,2023,59116,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_total_kg,kg,2024,38000,approximate ('bijna 38.000'),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_harc_rotterdam_kg,kg,2020,40000,approximate ('ruim 40.000'),https://www.om.nl/actueel/nieuws/2021/01/13/harc-team-onderschept-ruim-40.000-kilo-cocaine-in-2020
+C01,crime,c01_seized_harc_rotterdam_kg,kg,2021,72808,exact,https://www.om.nl/actueel/nieuws/2022/01/10/harc-team-onderschept-72.808-kilo-cocaine-in-2021
+C01,crime,c01_seized_harc_rotterdam_kg,kg,2022,47000,approximate ('bijna 47.000'),https://www.om.nl/actueel/nieuws/2023/01/10/harc-team-onderschept-bijna-47000-kilo-cocaine-in-2022
+C01,crime,c01_seized_harc_rotterdam_kg,kg,2023,45000,approximate ('ruim 45.000'),https://www.om.nl/actueel/nieuws/2024/01/15/2023-harc-team-onderschept-ruim-45.000-kilo-cocaine
+C01,crime,c01_seized_harc_rotterdam_kg,kg,2024,25900,exact,https://www.om.nl/actueel/nieuws/2026/02/13/2025-minder-kilos-cocaine-onderschept-in-rotterdam-en-vlissingen
+C01,crime,c01_seized_harc_rotterdam_kg,kg,2025,11466,exact,https://www.om.nl/actueel/nieuws/2026/02/13/2025-minder-kilos-cocaine-onderschept-in-rotterdam-en-vlissingen
+C01,crime,c01_seized_schiphol_kg,kg,2022,1300,approximate,https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_schiphol_kg,kg,2023,2250,approximate,https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_schiphol_kg,kg,2024,2360,exact,https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_maritime_n,seizures,2016,79,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_maritime_n,seizures,2017,65,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_maritime_n,seizures,2018,99,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_maritime_n,seizures,2019,127,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_maritime_n,seizures,2020,77,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_maritime_n,seizures,2021,166,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_maritime_n,seizures,2022,162,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_maritime_n,seizures,2023,151,exact (page text),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_maritime_n,seizures,2024,161,exact (page text),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_total_n,seizures,2016,962,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_total_n,seizures,2017,1146,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_total_n,seizures,2018,1251,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_total_n,seizures,2019,1109,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_total_n,seizures,2020,1426,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_total_n,seizures,2021,3586,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_total_n,seizures,2022,3965,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C03,crime,c03_uithalers_apprehended,persons,2020,284,exact,https://www.cbs.nl/nl-nl/longread/statistische-trends/2026/kenmerken-van-drugsuithalers/1-inleiding
+C03,crime,c03_uithalers_apprehended,persons,2021,415,exact,https://www.cbs.nl/nl-nl/longread/statistische-trends/2026/kenmerken-van-drugsuithalers/1-inleiding
+C03,crime,c03_uithalers_apprehended,persons,2022,261,exact,https://www.cbs.nl/nl-nl/longread/statistische-trends/2026/kenmerken-van-drugsuithalers/1-inleiding
+C03,crime,c03_uithalers_apprehended,persons,2023,452,exact,https://www.cbs.nl/nl-nl/longread/statistische-trends/2026/kenmerken-van-drugsuithalers/1-inleiding
+C03,crime,c03_uithalers_apprehended,persons,2024,266,exact,https://www.cbs.nl/nl-nl/longread/statistische-trends/2026/kenmerken-van-drugsuithalers/1-inleiding
+C03,crime,c03_uithalers_apprehended,persons,2025,83,partial year (Jan-Oct),https://www.cbs.nl/nl-nl/longread/statistische-trends/2026/kenmerken-van-drugsuithalers/1-inleiding
+C05,crime,c05_murders_criminal_milieu,cases,2016,21,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C05,crime,c05_murders_criminal_milieu,cases,2017,35,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C05,crime,c05_murders_criminal_milieu,cases,2018,20,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C05,crime,c05_murders_criminal_milieu,cases,2019,15,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C05,crime,c05_murders_criminal_milieu,cases,2020,16,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C05,crime,c05_murders_criminal_milieu,cases,2021,9,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C05,crime,c05_murders_criminal_milieu,cases,2022,12,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C05,crime,c05_murders_criminal_milieu,cases,2023,13,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C06,crime,c06_liquidations,cases,2016,13,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C06,crime,c06_liquidations,cases,2017,15,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C06,crime,c06_liquidations,cases,2018,11,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C06,crime,c06_liquidations,cases,2019,9,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C06,crime,c06_liquidations,cases,2020,5,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C06,crime,c06_liquidations,cases,2021,4,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C06,crime,c06_liquidations,cases,2022,4,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C06,crime,c06_liquidations,cases,2023,3,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C07,crime,c07_murder_victims_firearm,victims,2005,63,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2006,43,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2007,47,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2008,52,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2009,55,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2010,41,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2011,60,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2012,54,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2013,35,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2014,47,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2015,41,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2016,31,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2017,46,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2018,40,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2019,33,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2020,32,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2021,34,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2022,38,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2023,29,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2024,23,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_firearm,victims,2025,26,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2005,197,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2006,159,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2007,164,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2008,176,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2009,175,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2010,158,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2011,165,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2012,157,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2013,147,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2014,144,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2015,120,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2016,108,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2017,158,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2018,119,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2019,125,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2020,121,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2021,126,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2022,143,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2023,125,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2024,122,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C07,crime,c07_murder_victims_total,victims,2025,103,exact,https://opendata.cbs.nl/ODataApi/odata/84726NED
+C08,crime,c08_explosive_attacks,attacks,2021,212,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C08,crime,c08_explosive_attacks,attacks,2022,439,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C08,crime,c08_explosive_attacks,attacks,2023,1017,exact,https://politie.nl/binaries/content/assets/politie/onderwerpen/publicaties/2024/fenomeenbeeld-geweld-2024.pdf
+C08,crime,c08_explosive_attacks,attacks,2024,1543,derived (2025 + 18),https://nos.nl/l/2597539
+C08,crime,c08_explosive_attacks,attacks,2025,1525,exact,https://nos.nl/l/2597539
+C09,crime,c09_harddrug_offences_registered,offences,2005,9925,exact (older table 83363NED),https://opendata.cbs.nl/ODataApi/odata/83363NED
+C09,crime,c09_harddrug_offences_registered,offences,2006,10465,exact (older table 83363NED),https://opendata.cbs.nl/ODataApi/odata/83363NED
+C09,crime,c09_harddrug_offences_registered,offences,2007,10230,exact (older table 83363NED),https://opendata.cbs.nl/ODataApi/odata/83363NED
+C09,crime,c09_harddrug_offences_registered,offences,2008,9395,exact (older table 83363NED),https://opendata.cbs.nl/ODataApi/odata/83363NED
+C09,crime,c09_harddrug_offences_registered,offences,2009,8750,exact (older table 83363NED),https://opendata.cbs.nl/ODataApi/odata/83363NED
+C09,crime,c09_harddrug_offences_registered,offences,2010,8255,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2011,7615,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2012,7870,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2013,7470,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2014,7715,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2015,7390,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2016,6760,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2017,6570,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2018,7050,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2019,7820,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2020,6960,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2021,6540,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2022,7335,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2023,8770,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2024,8975,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_offences_registered,offences,2025,9125,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2010,11400,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2011,10705,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2012,10570,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2013,10010,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2014,10290,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2015,9725,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2016,8890,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2017,8465,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2018,8980,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2019,10185,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2020,9620,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2021,8855,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2022,9315,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2023,10950,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2024,10860,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09_harddrug_suspect_registrations,registrations,2025,10570,exact,https://opendata.cbs.nl/ODataApi/odata/83648NED
+C09,crime,c09b_harddrug_incidents_ndm,incidents,2022,8201,exact,https://www.regioplan.nl/wp-content/uploads/2025/12/24184.-NDM-Factsheet-2025.pdf
+C09,crime,c09b_harddrug_incidents_ndm,incidents,2023,9359,exact,https://www.regioplan.nl/wp-content/uploads/2025/12/24184.-NDM-Factsheet-2025.pdf
+C09,crime,c09b_harddrug_incidents_ndm,incidents,2024,9442,exact,https://www.regioplan.nl/wp-content/uploads/2025/12/24184.-NDM-Factsheet-2025.pdf
+C10,crime,c10_investigations_cocaine_heroin,OM investigations (cocaine & heroin),2015,125,exact (NDM chart data; page text gives 515/549 for 2023/24),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cocaine_heroin,OM investigations (cocaine & heroin),2016,184,exact (NDM chart data; page text gives 515/549 for 2023/24),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cocaine_heroin,OM investigations (cocaine & heroin),2017,217,exact (NDM chart data; page text gives 515/549 for 2023/24),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cocaine_heroin,OM investigations (cocaine & heroin),2018,252,exact (NDM chart data; page text gives 515/549 for 2023/24),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cocaine_heroin,OM investigations (cocaine & heroin),2019,250,exact (NDM chart data; page text gives 515/549 for 2023/24),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cocaine_heroin,OM investigations (cocaine & heroin),2020,248,exact (NDM chart data; page text gives 515/549 for 2023/24),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cocaine_heroin,OM investigations (cocaine & heroin),2021,324,exact (NDM chart data; page text gives 515/549 for 2023/24),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cocaine_heroin,OM investigations (cocaine & heroin),2022,394,exact (NDM chart data; page text gives 515/549 for 2023/24),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cocaine_heroin,OM investigations (cocaine & heroin),2023,472,exact (NDM chart data; page text gives 515/549 for 2023/24),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cocaine_heroin,OM investigations (cocaine & heroin),2024,497,exact (NDM chart data; page text gives 515/549 for 2023/24),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_org_drug_crime,OM investigations (all drugs),2015,341,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_org_drug_crime,OM investigations (all drugs),2016,476,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_org_drug_crime,OM investigations (all drugs),2017,514,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_org_drug_crime,OM investigations (all drugs),2018,578,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_org_drug_crime,OM investigations (all drugs),2019,613,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_org_drug_crime,OM investigations (all drugs),2020,651,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_org_drug_crime,OM investigations (all drugs),2021,746,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_org_drug_crime,OM investigations (all drugs),2022,786,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_org_drug_crime,OM investigations (all drugs),2023,893,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_org_drug_crime,OM investigations (all drugs),2024,885,exact (NDM chart data),https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C14,crime,c14_ocindex_cocaine_trade,score 1-10,2023,7.5,exact,https://ocindex.net/assets/downloads/2023/english/ocindex_profile_netherlands_2023.pdf
+C14,crime,c14_ocindex_cocaine_trade,score 1-10,2025,8.0,exact,https://ocindex.net/assets/downloads/2025/english/ocindex_profile_netherlands_2025.pdf
+C15,crime,c15_trade_value_bn_eur,EUR bn,2021,10.7,exact,https://www.cbs.nl/nl-nl/nieuws/2024/21/meeste-verdiensten-cocainehandel-stromen-naar-het-buitenland
+C16,crime,c16_nuisance_drug_dealing_pct,% residents (often in neighbourhood),2021,3.4,exact,https://opendata.cbs.nl/ODataApi/odata/85146NED
+C16,crime,c16_nuisance_drug_dealing_pct,% residents (often in neighbourhood),2023,3.5,exact,https://opendata.cbs.nl/ODataApi/odata/85146NED
+C16,crime,c16_nuisance_drug_dealing_pct,% residents (often in neighbourhood),2025,3.7,exact,https://opendata.cbs.nl/ODataApi/odata/85146NED
+C16,crime,c16_nuisance_drug_use_pct,% residents (often in neighbourhood),2021,3.0,exact,https://opendata.cbs.nl/ODataApi/odata/85146NED
+C16,crime,c16_nuisance_drug_use_pct,% residents (often in neighbourhood),2023,3.3,exact,https://opendata.cbs.nl/ODataApi/odata/85146NED
+C16,crime,c16_nuisance_drug_use_pct,% residents (often in neighbourhood),2025,3.6,exact,https://opendata.cbs.nl/ODataApi/odata/85146NED
+C18,crime,c18_retail_price_eur_g,"EUR/gram (DIMS, mean)",2016,48.55,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-prijzen/
+C18,crime,c18_retail_price_eur_g,"EUR/gram (DIMS, mean)",2017,48.6,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-prijzen/
+C18,crime,c18_retail_price_eur_g,"EUR/gram (DIMS, mean)",2018,49.25,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-prijzen/
+C18,crime,c18_retail_price_eur_g,"EUR/gram (DIMS, mean)",2019,50.25,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-prijzen/
+C18,crime,c18_retail_price_eur_g,"EUR/gram (DIMS, mean)",2020,50,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-prijzen/
+C18,crime,c18_retail_price_eur_g,"EUR/gram (DIMS, mean)",2021,51.3,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-prijzen/
+C18,crime,c18_retail_price_eur_g,"EUR/gram (DIMS, mean)",2022,51.45,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-prijzen/
+C18,crime,c18_retail_price_eur_g,"EUR/gram (DIMS, mean)",2023,51.65,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-prijzen/
+C18,crime,c18_retail_price_eur_g,"EUR/gram (DIMS, mean)",2024,51.5,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-prijzen/
+C18,crime,c18_retail_price_eur_g,"EUR/gram (DIMS, mean)",2025,51.3,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-prijzen/
+C19,crime,c19_paymentcode_fraud,cases,2023,23,exact,https://www.om.nl/actueel/nieuws/2026/02/13/2025-minder-kilos-cocaine-onderschept-in-rotterdam-en-vlissingen
+C19,crime,c19_paymentcode_fraud,cases,2024,6,exact,https://www.om.nl/actueel/nieuws/2026/02/13/2025-minder-kilos-cocaine-onderschept-in-rotterdam-en-vlissingen
+C19,crime,c19_paymentcode_fraud,cases,2025,0,exact,https://www.om.nl/actueel/nieuws/2026/02/13/2025-minder-kilos-cocaine-onderschept-in-rotterdam-en-vlissingen
+C20,crime,c20_cocaine_labs_dismantled,sites,2022,17,exact,https://nationaledrugmonitor.nl/wp-content/uploads/2024/04/1736433161311.pdf
+C20,crime,c20_cocaine_labs_dismantled,sites,2023,21,exact,https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C20,crime,c20_cocaine_labs_dismantled,sites,2024,24,exact,https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2015,0.6,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2016,0.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2017,0.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2018,0.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2019,0.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2020,0.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2021,0.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2022,0.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2023,0.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2024,0.8,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastmonth_use_pct,% population (CBS Leefstijlmonitor),2025,0.8,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2015,1.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2016,1.6,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2017,1.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2018,1.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2019,1.7,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2020,1.6,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2021,1.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2022,2.2,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2023,2.0,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2024,2.2,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lastyear_use_pct,% population (CBS Leefstijlmonitor),2025,2.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2015,3.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2016,4.5,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2017,4.8,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2018,4.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2019,5.0,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2020,5.0,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2021,6.0,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2022,5.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2023,6.1,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2024,6.9,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01_lifetime_use_pct,% population (CBS Leefstijlmonitor),2025,7.3,exact,https://opendata.cbs.nl/ODataApi/odata/85457NED
+H01,use,h01b_lastyear_use_18plus_ndm_pct,% 18+,2015,1.6,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H01,use,h01b_lastyear_use_18plus_ndm_pct,% 18+,2016,1.7,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H01,use,h01b_lastyear_use_18plus_ndm_pct,% 18+,2017,1.8,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H01,use,h01b_lastyear_use_18plus_ndm_pct,% 18+,2018,1.6,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H01,use,h01b_lastyear_use_18plus_ndm_pct,% 18+,2019,1.9,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H01,use,h01b_lastyear_use_18plus_ndm_pct,% 18+,2020,1.6,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H01,use,h01b_lastyear_use_18plus_ndm_pct,% 18+,2021,2.0,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H01,use,h01b_lastyear_use_18plus_ndm_pct,% 18+,2022,2.4,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H01,use,h01b_lastyear_use_18plus_ndm_pct,% 18+,2023,2.2,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H01,use,h01b_lastyear_use_18plus_ndm_pct,% 18+,2024,2.4,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H01,use,h01b_lastyear_use_18plus_ndm_pct,% 18+,2025,2.7,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2003,2.0,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-scholieren-veranderingen-gebruik/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2007,1.5,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-scholieren-veranderingen-gebruik/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2011,1.4,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-scholieren-veranderingen-gebruik/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2015,1.3,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-scholieren-veranderingen-gebruik/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2019,1.1,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-scholieren-veranderingen-gebruik/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2023,1.4,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-scholieren-veranderingen-gebruik/
+H04,use,h04_lastyear_use_nightlife_pct,% nightlife-goers,2016,25.0,exact,https://www.trimbos.nl/wp-content/uploads/2025/10/AF1862-Nationale-Drug-Monitor-2020.pdf
+H04,use,h04_lastyear_use_nightlife_pct,% nightlife-goers,2020,26.2,exact,https://www.trimbos.nl/wp-content/uploads/2025/10/AF1862-Nationale-Drug-Monitor-2020.pdf
+H05,use,h05_treatment_all_institutions,clients (primary problem),2006,8736,"exact (older report, different institution base)",https://www.trimbos.nl/wp-content/uploads/2025/10/af1568-jaarbericht-nationale-drug-monitor-2017.pdf
+H05,use,h05_treatment_all_institutions,clients (primary problem),2015,7295,"exact (older report, different institution base)",https://www.trimbos.nl/wp-content/uploads/2025/10/af1568-jaarbericht-nationale-drug-monitor-2017.pdf
+H05,use,h05_treatment_all_institutions,clients (primary problem),2016,6382,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2017,6972,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2018,7305,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2019,7459,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2020,7509,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2021,7473,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2022,7423,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2023,7910,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2024,8212,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2025,7788,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2016,6382,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2017,6809,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2018,7071,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2019,7122,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2020,6924,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2021,6803,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2022,6541,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2023,6652,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2024,6439,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2025,6212,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2016,45.0,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2017,47.6,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2018,49.0,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2019,49.0,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2020,47.2,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2021,46.1,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2022,44.0,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2023,44.1,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2024,42.3,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2025,40.5,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2016,5215,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2017,5515,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2018,5631,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2019,6156,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2020,6353,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2021,6567,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2022,6702,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2023,6872,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2024,6958,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2025,6591,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2016,5215,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2017,5351,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2018,5441,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2019,5924,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2020,5941,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2021,5975,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2022,5864,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2023,5871,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2024,5809,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2025,5464,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-hulpvraag-en-incidenten/
+H06,use,h06_incidents_ambulance_n,cocaine incidents,2019,239,"derived (2019: cocaine share per service, rounded %, x service total N from MDI 2023 report)",https://www.trimbos.nl/wp-content/uploads/2025/04/MDI-jaarrapportage-2023.pdf
+H06,use,h06_incidents_ambulance_n,cocaine incidents,2020,194,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_ambulance_n,cocaine incidents,2021,96,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_ambulance_n,cocaine incidents,2022,146,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_ambulance_n,cocaine incidents,2023,173,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_ambulance_n,cocaine incidents,2024,146,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_first_aid_events_n,cocaine incidents,2019,207,"derived (2019: cocaine share per service, rounded %, x service total N from MDI 2023 report)",https://www.trimbos.nl/wp-content/uploads/2025/04/MDI-jaarrapportage-2023.pdf
+H06,use,h06_incidents_first_aid_events_n,cocaine incidents,2020,3,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_first_aid_events_n,cocaine incidents,2021,30,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_first_aid_events_n,cocaine incidents,2022,214,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_first_aid_events_n,cocaine incidents,2023,273,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_first_aid_events_n,cocaine incidents,2024,231,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_forensic_doctors_n,cocaine incidents,2019,115,"derived (2019: cocaine share per service, rounded %, x service total N from MDI 2023 report)",https://www.trimbos.nl/wp-content/uploads/2025/04/MDI-jaarrapportage-2023.pdf
+H06,use,h06_incidents_forensic_doctors_n,cocaine incidents,2020,104,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_forensic_doctors_n,cocaine incidents,2021,191,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_forensic_doctors_n,cocaine incidents,2022,192,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_forensic_doctors_n,cocaine incidents,2023,202,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_forensic_doctors_n,cocaine incidents,2024,121,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_hospital_ed_n,cocaine incidents (MDI + LIS hospital EDs),2019,525,"derived (2019: cocaine share per service, rounded %, x service total N from MDI 2023 report)",https://www.trimbos.nl/wp-content/uploads/2025/04/MDI-jaarrapportage-2023.pdf
+H06,use,h06_incidents_hospital_ed_n,cocaine incidents (MDI + LIS hospital EDs),2020,395,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_hospital_ed_n,cocaine incidents (MDI + LIS hospital EDs),2021,391,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_hospital_ed_n,cocaine incidents (MDI + LIS hospital EDs),2022,444,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_hospital_ed_n,cocaine incidents (MDI + LIS hospital EDs),2023,471,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_hospital_ed_n,cocaine incidents (MDI + LIS hospital EDs),2024,418,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_lis_hospitals_n,cocaine incidents,2019,200,"derived (2019: cocaine share per service, rounded %, x service total N from MDI 2023 report)",https://www.trimbos.nl/wp-content/uploads/2025/04/MDI-jaarrapportage-2023.pdf
+H06,use,h06_incidents_lis_hospitals_n,cocaine incidents,2020,210,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_lis_hospitals_n,cocaine incidents,2021,188,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_lis_hospitals_n,cocaine incidents,2022,236,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_lis_hospitals_n,cocaine incidents,2023,225,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_lis_hospitals_n,cocaine incidents,2024,196,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_mdi_hospitals_n,cocaine incidents,2019,325,"derived (2019: cocaine share per service, rounded %, x service total N from MDI 2023 report)",https://www.trimbos.nl/wp-content/uploads/2025/04/MDI-jaarrapportage-2023.pdf
+H06,use,h06_incidents_mdi_hospitals_n,cocaine incidents,2020,185,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_mdi_hospitals_n,cocaine incidents,2021,203,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_mdi_hospitals_n,cocaine incidents,2022,208,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_mdi_hospitals_n,cocaine incidents,2023,246,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_incidents_mdi_hospitals_n,cocaine incidents,2024,222,"derived (MDI 2024 report fig. 3.2: share by service x total, read from vector chart)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_mdi_incidents_n,incidents (all services),2019,1091,exact,https://www.trimbos.nl/wp-content/uploads/2025/10/AF1862-Nationale-Drug-Monitor-2020.pdf
+H06,use,h06_mdi_incidents_n,incidents (all services),2020,696,exact (as revised in MDI 2024 report),https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_mdi_incidents_n,incidents (all services),2021,708,exact,https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_mdi_incidents_n,incidents (all services),2022,996,exact,https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_mdi_incidents_n,incidents (all services),2023,1119,"exact (revised; MDI 2023 report gave 1,103)",https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_mdi_incidents_n,incidents (all services),2024,916,exact,https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_mdi_incidents_share_pct,% of drug incidents,2019,17,exact,https://www.trimbos.nl/wp-content/uploads/2025/10/AF1862-Nationale-Drug-Monitor-2020.pdf
+H06,use,h06_mdi_incidents_share_pct,% of drug incidents,2020,20,exact,https://www.nationaledrugmonitor.nl/wp-content/uploads/2022/03/TRI_AF1911_NDM-glossy_DEF-digitaal-1.pdf
+H06,use,h06_mdi_incidents_share_pct,% of drug incidents,2021,18,exact,https://www.trimbos.nl/wp-content/uploads/2025/10/AF2021-Monitor-Drugsincidenten-2021.pdf
+H06,use,h06_mdi_incidents_share_pct,% of drug incidents,2023,16,exact,https://www.trimbos.nl/wp-content/uploads/2025/04/MDI-jaarrapportage-2023.pdf
+H06,use,h06_mdi_incidents_share_pct,% of drug incidents,2024,15,exact,https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf
+H06,use,h06_mdi_share_ambulance_pct,"% of drug incidents, ambulance",2019,15,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-incidenten/
+H06,use,h06_mdi_share_ambulance_pct,"% of drug incidents, ambulance",2020,14,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-incidenten/
+H06,use,h06_mdi_share_ambulance_pct,"% of drug incidents, ambulance",2021,10,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-incidenten/
+H06,use,h06_mdi_share_ambulance_pct,"% of drug incidents, ambulance",2022,14,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-incidenten/
+H06,use,h06_mdi_share_ambulance_pct,"% of drug incidents, ambulance",2023,16,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-incidenten/
+H06,use,h06_mdi_share_ambulance_pct,"% of drug incidents, ambulance",2024,15,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-incidenten/
+H06,use,h06_mdi_share_mdi_hospitals_pct,% of drug incidents at MDI hospitals,2019,22,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-incidenten/
+H06,use,h06_mdi_share_mdi_hospitals_pct,% of drug incidents at MDI hospitals,2020,23,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-incidenten/
+H06,use,h06_mdi_share_mdi_hospitals_pct,% of drug incidents at MDI hospitals,2021,24,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-incidenten/
+H06,use,h06_mdi_share_mdi_hospitals_pct,% of drug incidents at MDI hospitals,2022,20,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-incidenten/
+H06,use,h06_mdi_share_mdi_hospitals_pct,% of drug incidents at MDI hospitals,2023,22,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-incidenten/
+H06,use,h06_mdi_share_mdi_hospitals_pct,% of drug incidents at MDI hospitals,2024,22,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-incidenten/
+H08,use,h08_deaths_all_drugs,"deaths (direct, all drugs)",2014,123,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_all_drugs,"deaths (direct, all drugs)",2015,198,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_all_drugs,"deaths (direct, all drugs)",2016,235,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_all_drugs,"deaths (direct, all drugs)",2017,262,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_all_drugs,"deaths (direct, all drugs)",2018,224,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_all_drugs,"deaths (direct, all drugs)",2019,252,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_all_drugs,"deaths (direct, all drugs)",2020,295,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_all_drugs,"deaths (direct, all drugs)",2021,298,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_all_drugs,"deaths (direct, all drugs)",2022,332,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_all_drugs,"deaths (direct, all drugs)",2023,338,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_all_drugs,"deaths (direct, all drugs)",2024,378,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_cocaine,"deaths (direct, NDM definition)",2013,24,exact,https://www.trimbos.nl/wp-content/uploads/2025/10/AF1862-Nationale-Drug-Monitor-2020.pdf
+H08,use,h08_deaths_cocaine,"deaths (direct, NDM definition)",2014,24,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_cocaine,"deaths (direct, NDM definition)",2015,40,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_cocaine,"deaths (direct, NDM definition)",2016,38,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_cocaine,"deaths (direct, NDM definition)",2017,55,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_cocaine,"deaths (direct, NDM definition)",2018,40,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_cocaine,"deaths (direct, NDM definition)",2019,45,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_cocaine,"deaths (direct, NDM definition)",2020,61,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_cocaine,"deaths (direct, NDM definition)",2021,72,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_cocaine,"deaths (direct, NDM definition)",2022,64,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_cocaine,"deaths (direct, NDM definition)",2023,63,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_cocaine,"deaths (direct, NDM definition)",2024,61,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-sterfte/
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2005,1,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2006,1,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2007,1,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2008,1,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2009,3,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2010,2,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2011,2,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2012,0,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2013,3,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2014,2,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2015,6,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2016,5,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2017,8,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2018,4,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2019,3,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2020,10,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2021,9,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2022,10,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2023,17,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2024,4,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H08,use,h08_deaths_f14_underlying,deaths (ICD-10 F14 as underlying cause only),2025,11,exact,https://opendata.cbs.nl/ODataApi/odata/7233
+H09,use,h09_hospital_main_dx,admissions/observations,2015,169,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2016,161,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2017,155,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2018,156,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2019,139,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2020,104,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2021,129,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2022,129,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2023,124,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2015,1013,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2016,1120,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2017,1203,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2018,1341,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2019,1573,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2020,1550,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2021,1708,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2022,1704,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2023,1796,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-algemene-ziekenhuizen/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2011,644.1,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2012,650.49,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2013,393,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2014,716.38,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2015,641.72,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2017,734.04,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2018,932.36,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2019,986.15,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2020,768.64,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2021,886.83,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2022,1142.43,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2023,1209.96,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2024,1206.28,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg benzoylecgonine/1000 inh/day,2025,1171.57,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2011,437.42,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2012,349.83,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2013,426.62,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2014,380.83,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2015,323.04,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2016,497.87,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2017,427.78,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2018,426.93,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2019,545.42,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2020,522.95,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2021,623.61,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2022,713.67,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2023,766.11,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2024,809.89,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg benzoylecgonine/1000 inh/day,2025,878.6,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_rotterdam,mg benzoylecgonine/1000 inh/day,2023,1088.44,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_rotterdam,mg benzoylecgonine/1000 inh/day,2024,972.92,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_rotterdam,mg benzoylecgonine/1000 inh/day,2025,907.4,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2011,356.34,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2012,344.77,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2013,199.16,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2014,220.2,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2015,148.1,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2016,310.36,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2017,288.74,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2018,414.6,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2019,460.25,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2020,493.63,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2021,529.55,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2022,651.63,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2023,734.55,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2024,688.55,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg benzoylecgonine/1000 inh/day,2025,753.99,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-gebruik-internationale-vergelijking/
+H12,use,h12_adulterated_share_pct,% of cocaine samples,2016,64.5,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_adulterated_share_pct,% of cocaine samples,2017,48.9,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_adulterated_share_pct,% of cocaine samples,2018,44.3,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_adulterated_share_pct,% of cocaine samples,2019,46.5,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_adulterated_share_pct,% of cocaine samples,2020,42.0,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_adulterated_share_pct,% of cocaine samples,2021,40.6,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_adulterated_share_pct,% of cocaine samples,2022,35.2,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_adulterated_share_pct,% of cocaine samples,2023,19.4,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_adulterated_share_pct,% of cocaine samples,2024,30.2,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_adulterated_share_pct,% of cocaine samples,2025,18.1,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_levamisole_share_pct,% of cocaine samples,2016,59.0,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_levamisole_share_pct,% of cocaine samples,2017,42.3,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_levamisole_share_pct,% of cocaine samples,2018,34.7,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_levamisole_share_pct,% of cocaine samples,2019,39.0,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_levamisole_share_pct,% of cocaine samples,2020,32.6,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_levamisole_share_pct,% of cocaine samples,2021,30.9,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_levamisole_share_pct,% of cocaine samples,2022,26.4,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_levamisole_share_pct,% of cocaine samples,2023,11.6,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_levamisole_share_pct,% of cocaine samples,2024,11.6,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_levamisole_share_pct,% of cocaine samples,2025,3.2,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-aanbod-en-markt/
+H12,use,h12_purity_dims_pct,% cocaine (base),2011,49,exact,https://www.trimbos.nl/wp-content/uploads/2025/10/af1568-jaarbericht-nationale-drug-monitor-2017.pdf
+H12,use,h12_purity_dims_pct,% cocaine (base),2016,69,exact,https://www.trimbos.nl/wp-content/uploads/2025/10/af1568-jaarbericht-nationale-drug-monitor-2017.pdf
+H12,use,h12_purity_dims_pct,% cocaine (base),2019,68.9,exact,https://www.trimbos.nl/wp-content/uploads/2025/10/AF1862-Nationale-Drug-Monitor-2020.pdf
+H12,use,h12_purity_dims_pct,% cocaine (base),2020,68.9,exact,https://www.nationaledrugmonitor.nl/wp-content/uploads/2022/03/TRI_AF1911_NDM-glossy_DEF-digitaal-1.pdf
+H12,use,h12_purity_dims_pct,% cocaine (base),2021,71.3,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H12,use,h12_purity_dims_pct,% cocaine (base),2022,74.2,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H12,use,h12_purity_dims_pct,% cocaine (base),2023,72.0,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H12,use,h12_purity_dims_pct,% cocaine (base),2024,68.2,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H12,use,h12_purity_dims_pct,% cocaine (base),2025,76.1,exact (NDM chart data),https://www.nationaledrugmonitor.nl/cocaine-laatste-feiten-en-trends/
+H16,use,h16_lastyear_use_amsterdam_pct,% adults Amsterdam,2024,10,exact,https://pure.hva.nl/ws/portalfiles/portal/53246470/antenne_adam_2024.pdf
+H17,use,h17_purity_nfi_pct,% base,2014,64,approximate (year mapping from garbled factsheet),https://www.forensischinstituut.nl/binaries/nfi/documenten/publicaties/2024/01/08/straatonderzoek-verdovende-middelen-nfi/Factsheet+Straatonderzoek+Verdovende+Middelen+NFI.pdf
+H17,use,h17_purity_nfi_pct,% base,2017,66,approximate (year mapping from garbled factsheet),https://www.forensischinstituut.nl/binaries/nfi/documenten/publicaties/2024/01/08/straatonderzoek-verdovende-middelen-nfi/Factsheet+Straatonderzoek+Verdovende+Middelen+NFI.pdf
+H17,use,h17_purity_nfi_pct,% base,2020,72,approximate (year mapping from garbled factsheet),https://www.forensischinstituut.nl/binaries/nfi/documenten/publicaties/2024/01/08/straatonderzoek-verdovende-middelen-nfi/Factsheet+Straatonderzoek+Verdovende+Middelen+NFI.pdf
+H17,use,h17_purity_nfi_pct,% base,2021,71,approximate (year mapping from garbled factsheet),https://www.forensischinstituut.nl/binaries/nfi/documenten/publicaties/2024/01/08/straatonderzoek-verdovende-middelen-nfi/Factsheet+Straatonderzoek+Verdovende+Middelen+NFI.pdf
+H17,use,h17_purity_nfi_pct,% base,2022,69,approximate (year mapping from garbled factsheet),https://www.forensischinstituut.nl/binaries/nfi/documenten/publicaties/2024/01/08/straatonderzoek-verdovende-middelen-nfi/Factsheet+Straatonderzoek+Verdovende+Middelen+NFI.pdf
