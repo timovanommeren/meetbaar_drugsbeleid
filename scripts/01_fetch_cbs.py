@@ -19,10 +19,10 @@ def get(table, flt=None, sel=None):
 by_year = lambda rows, key: {r["Perioden"][:4]: r[key] for r in rows}
 out = {}
 
-# Leefstijlmonitor: cocaine and cannabis use (total population, point estimate)
+# Leefstijlmonitor: cocaine, cannabis, ecstasy and amphetamine use (total population, point estimate)
 dp = get("85457NED/DataProperties")
 rows = get("85457NED/TypedDataSet", "Persoonskenmerken eq 'T009002' and Marges eq 'MW00000'")
-for title in ("Cocaïnegebruik", "Cannabisgebruik", "Ecstasygebruik"):
+for title in ("Cocaïnegebruik", "Cannabisgebruik", "Ecstasygebruik", "Amfetaminegebruik"):
     group = next(x["ID"] for x in dp if x.get("Title") == title)
     for x in dp:
         if x.get("ParentID") == group:

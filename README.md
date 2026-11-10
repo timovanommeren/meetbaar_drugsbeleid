@@ -14,6 +14,7 @@ The goal is to place the Netherlands, year by year and per drug, in the two-dime
 | Cocaine | 59 | 504 | 2003–2025 |
 | Cannabis | 53 | 526 | 1999–2025 |
 | MDMA (ecstasy) | 38 | 367 | 2003–2025 |
+| Amphetamine (speed) | 38 | 339 | 2003–2025 |
 
 Steps 5 (combining indicators per dimension) and 6 (plotting the two dimensions) are open. Alcohol and tobacco may follow.
 
@@ -31,7 +32,8 @@ Steps 5 (combining indicators per dimension) and 6 (plotting the two dimensions)
 │   │   ├── cannabis/
 │   │   │   ├── manual_values.csv      values taken from NDM chart data and page text (chart ID in the flag)
 │   │   │   └── ndm_charts.json        chart tables behind the NDM cannabis pages
-│   │   └── mdma/                      same layout; NDM chapter 'ecstasy', plus MDI report figures
+│   │   ├── mdma/                      same layout; NDM chapter 'ecstasy', plus MDI report figures
+│   │   └── amphetamine/               same layout; NDM chapter 'amfetamine'
 │   ├── sources/
 │   │   └── <drug>_harm_sources.csv    one row per candidate measure: source, years, access, bias, status, dataset columns
 │   └── processed/
@@ -68,7 +70,7 @@ Value flags in the long files:
 
 ## Reproducing
 
-Requires Python 3.10+ (`pip install -r requirements.txt`) and internet access to opendata.cbs.nl, www.nationaledrugmonitor.nl, app.everviz.com and www.trimbos.nl. Scripts that work per drug take the drug as argument (`cocaine`, `cannabis` or `mdma`).
+Requires Python 3.10+ (`pip install -r requirements.txt`) and internet access to opendata.cbs.nl, www.nationaledrugmonitor.nl, app.everviz.com and www.trimbos.nl. Scripts that work per drug take the drug as argument (`cocaine`, `cannabis`, `mdma` or `amphetamine`).
 
 | Script | What it does |
 | --- | --- |
@@ -86,6 +88,7 @@ To add or correct a value, edit `data/raw/<drug>/manual_values.csv` (one row per
 - Many indicators partly measure institutional activity (enforcement, care supply, registration coverage) rather than harm. Seizures, dismantled cannabis farms and registered offences follow police and customs effort; treatment counts follow access to care.
 - On the crime side, enforcement and harm indicators often move in opposite directions: for cocaine, seizures rose while liquidations fell; for cannabis, dismantled farms fell by 85% (2014–2024) while Douane seizures rose sharply.
 - For MDMA, the most direct crime harm is environmental: dumpings of synthetic-drug waste (160–292 a year, 2015–2024). Production indicators cover all synthetic drugs, not MDMA alone, and deaths are only published for psychostimulants as a group.
+- For amphetamine, use is flat (last year 1.0–1.6%) while treatment and hospital admissions (secondary diagnosis) move on their own. Production, dumping, OM and death series are shared with MDMA; BMK-type precursors are the amphetamine-specific production signal, and wastewater in Eindhoven may partly reflect dumped production waste.
 - For cannabis, crime harm is hard to measure at all: violence in the criminal milieu cannot be attributed to cannabis, and coffeeshop supply ('back door') is unmeasured.
 - Several sources measure the same thing differently (e.g. cocaine deaths: 61 in 2024 by the NDM definition vs 4 with F14 as underlying cause). Choosing one series per concept is an open step-5 decision.
 - Series are short (often 5–10 years), so correlations are fragile and partly reflect shared time trends.

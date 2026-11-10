@@ -1,0 +1,6711 @@
+{
+"BC5GZ2hbw": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-aanbod-en-markt/",
+"title": "",
+"caption": "",
+"table": [
+[
+"",
+"\"Gemiddelde gehalte\"",
+"\"25%\"",
+"\"75%\"",
+"\"Maximale gehalte\""
+],
+[
+"2021",
+"\"51,9\"",
+"35",
+"71",
+"73"
+],
+[
+"2022",
+"\"47,6\"",
+"28",
+"69",
+"73"
+],
+[
+"2023",
+"\"49,2\"",
+"34",
+"66",
+"73"
+],
+[
+"2024",
+"\"53,1\"",
+"43",
+"67",
+"73"
+],
+[
+"2025",
+"\"49,6\"",
+"33",
+"68",
+"73"
+]
+]
+},
+"ypHVeu6p2": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-aanbod-en-markt/",
+"title": "",
+"caption": "",
+"table": [
+[
+"",
+"\"%\""
+],
+[
+"\"Alléén amfetamine\"",
+"\"46,8\""
+],
+[
+"\"Amfetamine en alléén cafeïne\"",
+"\"36,3\""
+],
+[
+"\"Amfetamine, cafeïne en andere stof\"",
+"\"2,8\""
+],
+[
+"\"Amfetamine en andere stof (géén cafeïne)\"",
+"\"4,4\""
+],
+[
+"\"Géén amfetamine\"",
+"\"9,7\""
+]
+]
+},
+"qtYBQMfeT": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-algemene-ziekenhuizen/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Hoofddiagnose\"",
+"\"Nevendiagnose\""
+],
+[
+"2015",
+"362",
+"433"
+],
+[
+"2016",
+"351",
+"424"
+],
+[
+"2017",
+"392",
+"514"
+],
+[
+"2018",
+"334",
+"456"
+],
+[
+"2019",
+"387",
+"603"
+],
+[
+"2020",
+"307",
+"667"
+],
+[
+"2021",
+"360",
+"697"
+],
+[
+"2022",
+"313",
+"743"
+],
+[
+"2023",
+"322",
+"751"
+]
+]
+},
+"ee7ADOx6-": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-algemene-ziekenhuizen/",
+"title": "",
+"caption": "",
+"table": [
+[
+"",
+"2015",
+"2023"
+],
+[
+"\"<15 jaar\"",
+"\"4,3\"",
+"\"4,1\""
+],
+[
+"\"15-19 jaar\"",
+"\"11,9\"",
+"\"14,5\""
+],
+[
+"\"20-24 jaar\"",
+"\"20,0\"",
+"\"14,2\""
+],
+[
+"\"25-29 jaar\"",
+"\"16,9\"",
+"\"11,3\""
+],
+[
+"\"30-34 jaar\"",
+"\"14,4\"",
+"\"9,3\""
+],
+[
+"\"35-39 jaar\"",
+"\"9,2\"",
+"\"11,9\""
+],
+[
+"\"40-44 jaar\"",
+"\"7,6\"",
+"\"10,1\""
+],
+[
+"\"45-49 jaar\"",
+"\"6,6\"",
+"\"7,9\""
+],
+[
+"\"50-54 jaar\"",
+"\"4,5\"",
+"\"7,4\""
+],
+[
+"\"55-59 jaar\"",
+"\"3,4\"",
+"\"3,4\""
+],
+[
+"\"60-64 jaar\"",
+"\"0,9\"",
+"\"3,3\""
+],
+[
+"\">64 jaar\"",
+"\"0,4\"",
+"\"2,7\""
+]
+]
+},
+"bqE5fIGXu": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-demografische-kenmerken-algemene-bevolking/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Ooit\"",
+"\"Ooit low\"",
+"\"Ooit high\"",
+"\"Laatste jaar\"",
+"\"Jaar low\"",
+"\"Jaar high\"",
+"\"Laatste maand\"",
+"\"Maand low\"",
+"\"Maand high\""
+],
+[
+"2015",
+"\"4,0\"",
+"\"3,5\"",
+"\"4,4\"",
+"\"1,3\"",
+"\"1,0\"",
+"\"1,6\"",
+"\"0,4\"",
+"\"0,3\"",
+"\"0,6\""
+],
+[
+"2016",
+"\"4,4\"",
+"\"3,9\"",
+"\"4,9\"",
+"\"1,4\"",
+"\"1,1\"",
+"\"1,7\"",
+"\"0,6\"",
+"\"0,4\"",
+"\"0,8\""
+],
+[
+"2017",
+"\"4,5\"",
+"\"4,0\"",
+"\"5,0\"",
+"\"1,4\"",
+"\"1,1\"",
+"\"1,7\"",
+"\"0,5\"",
+"\"0,3\"",
+"\"0,7\""
+],
+[
+"2018",
+"\"4,6\"",
+"\"4,1\"",
+"\"5,1\"",
+"\"1,1\"",
+"\"0,9\"",
+"\"1,4\"",
+"\"0,5\"",
+"\"0,3\"",
+"\"0,7\""
+],
+[
+"2019",
+"\"4,6\"",
+"\"4,1\"",
+"\"5,1\"",
+"\"1,7\"",
+"\"1,4\"",
+"\"2,0\"",
+"\"0,7\"",
+"\"0,5\"",
+"\"0,9\""
+],
+[
+"2020",
+"\"4,5\"",
+"\"4,0\"",
+"\"5,1\"",
+"\"1,3\"",
+"\"1,0\"",
+"\"1,7\"",
+"\"0,5\"",
+"\"0,3\"",
+"\"0,7\""
+],
+[
+"2021",
+"\"5,3\"",
+"\"4,7\"",
+"\"6,0\"",
+"\"1,3\"",
+"\"0,9\"",
+"\"1,6\"",
+"\"0,4\"",
+"\"0,2\"",
+"\"0,6\""
+],
+[
+"2022",
+"\"5,1\"",
+"\"4,6\"",
+"\"5,7\"",
+"\"1,4\"",
+"\"1,1\"",
+"\"1,7\"",
+"\"0,5\"",
+"\"0,4\"",
+"\"0,7\""
+],
+[
+"2023",
+"\"5,0\"",
+"\"4,4\"",
+"\"5,5\"",
+"\"1,3\"",
+"\"1,0\"",
+"\"1,6\"",
+"\"0,5\"",
+"\"0,3\"",
+"\"0,7\""
+],
+[
+"2024",
+"\"5,7\"",
+"\"5,1\"",
+"\"6,3\"",
+"\"1,3\"",
+"\"1,0\"",
+"\"1,6\"",
+"\"0,4\"",
+"\"0,2\"",
+"\"0,5\""
+],
+[
+"2025",
+"\"6,1\"",
+"\"5,6\"",
+"\"6,7\"",
+"\"1,4\"",
+"\"1,2\"",
+"\"1,7\"",
+"\"0,5\"",
+"\"0,3\"",
+"\"0,6\""
+]
+]
+},
+"T4NGhzkt-": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-demografische-kenmerken-algemene-bevolking/",
+"title": "",
+"caption": "",
+"table": [
+[
+"",
+"\"Mannen\"",
+"\"Man low\"",
+"\"Man high\"",
+"\"Vrouwen\"",
+"\"Vrouw low\"",
+"\"Vrouw high\""
+],
+[
+"2015",
+"\"1,6\"",
+"\"1,2\"",
+"\"2,1\"",
+"\"1,0\"",
+"\"0,6\"",
+"\"1,3\""
+],
+[
+"2016",
+"\"2,0\"",
+"\"1,5\"",
+"\"2,5\"",
+"\"0,8\"",
+"\"0,5\"",
+"\"1,1\""
+],
+[
+"2017",
+"\"2,0\"",
+"\"1,4\"",
+"\"2,5\"",
+"\"0,9\"",
+"\"0,6\"",
+"\"1,3\""
+],
+[
+"2018",
+"\"1,5\"",
+"\"1,1\"",
+"\"2,0\"",
+"\"0,7\"",
+"\"0,4\"",
+"\"1,0\""
+],
+[
+"2019",
+"\"2,3\"",
+"\"1,7\"",
+"\"2,8\"",
+"\"1,1\"",
+"\"0,8\"",
+"\"1,5\""
+],
+[
+"2020",
+"\"1,5\"",
+"\"1,0\"",
+"\"2,0\"",
+"\"1,2\"",
+"\"0,8\"",
+"\"1,6\""
+],
+[
+"2021",
+"\"1,5\"",
+"\"1,0\"",
+"\"2,0\"",
+"\"1,0\"",
+"\"0,6\"",
+"\"1,5\""
+],
+[
+"2022",
+"\"1,9\"",
+"\"1,4\"",
+"\"2,5\"",
+"\"0,9\"",
+"\"0,5\"",
+"\"1,2\""
+],
+[
+"2023",
+"\"1,6\"",
+"\"1,2\"",
+"\"2,1\"",
+"\"1,0\"",
+"\"0,7\"",
+"\"1,4\""
+],
+[
+"2024",
+"\"1,7\"",
+"\"1,3\"",
+"\"2,2\"",
+"\"0,9\"",
+"\"0,6\"",
+"\"1,2\""
+],
+[
+"2025",
+"\"1,9\"",
+"\"1,4\"",
+"\"2,3\"",
+"\"1,0\"",
+"\"0,7\"",
+"\"1,4\""
+]
+]
+},
+"6oWHKq_Xv": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-algemene-bevolking/",
+"title": "AmfetaminegebruikI onder volwassenen van 18 jaar en ouder. Peiljaar 2025.",
+"caption": "I. Ooit, laatste jaar, laatste maand: ten minste één keer amfetamine gebruikt ooit in het leven, in het laatste jaar, in de laatste maand. Bron: Gezondheidsenquête/Leefstijlmonitor CBS in samenwerking met het RIVM en het Trimbos-instituut.",
+"table": [
+[
+{
+"value": null,
+"style": {
+"fontWeight": "bold",
+"color": "#333333"
+}
+},
+{
+"value": " (%)",
+"style": {
+"fontWeight": "bold",
+"color": "#333333"
+}
+},
+{
+"value": "<p>Aantal (afgerond op 10.000)</p>",
+"style": {
+"fontWeight": "bold",
+"color": "#333333"
+}
+},
+{
+"value": "<div>Aantal (95% betrouwbaarheidsinterval)</div>",
+"style": {
+"fontWeight": "bold",
+"color": "#333333"
+}
+}
+],
+[
+"Ooit",
+"6,1",
+"890.000",
+"800.000-970.000"
+],
+[
+"Laatste jaar",
+"1,4",
+"210.000",
+"170.000-250.000"
+],
+[
+"Laatste maand",
+"0,5",
+"70.000",
+"40.000-90.000"
+]
+]
+},
+"loxygIECc": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-algemene-bevolking/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"categories\"",
+"\"Mannen\"",
+"\"Ondergrens mannen\"",
+"\"Bovengrens mannen\"",
+"\"Paarsgewijze vergelijking mannen\"",
+"\"Vrouwen\"",
+"\"Ondergrens vrouwen\"",
+"\"Bovengrens vrouwen\"",
+"\"Paarsgewijze vergelijking vrouwen\""
+],
+[
+"\"Ooit \"",
+"\"8,1\"",
+"\"7,1\"",
+"\"9,0\"",
+"\"a\"",
+"\"4,3\"",
+"\"3,6\"",
+"\"4,9\"",
+"\"b\""
+],
+[
+"\"Laatste jaar\"",
+"\"1,9\"",
+"\"1,4\"",
+"\"2,3\"",
+"\"a\"",
+"\"1,0\"",
+"\"0,7\"",
+"\"1,4\"",
+"\"b\""
+]
+]
+},
+"bnoS-3Ijr": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-algemene-bevolking/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"18-29 jaar\"",
+"\"Ondergrens 18-29 jaar\"",
+"\"Bovengrens 18-29 jaar\"",
+"\"Paarsgewijze vergelijking 18-29 jaar\"",
+"\"30-49 jaar\"",
+"\"Ondergrens 30-49 jaar\"",
+"\"Bovengrens 30-49 jaar\"",
+"\"Paarsgewijze vergelijking 30-49 jaar\"",
+"\"50 jaar en ouder\"",
+"\"Ondergrens 50 jaar en ouder\"",
+"\"Bovengrens 50 jaar en ouder\"",
+"\"Paarsgewijze vergelijking 50 jaar en ouder\""
+],
+[
+"\"Ooit\"",
+"\"10,2\"",
+"\"8,4\"",
+"\"12,0\"",
+"\"a\"",
+"\"10,6\"",
+"\"9,3\"",
+"\"11,9\"",
+"\"a\"",
+"\"1,9\"",
+"\"1,5\"",
+"\"2,4\"",
+"\"b\""
+],
+[
+"\"Laatste jaar\"",
+"\"3,6\"",
+"\"2,5\"",
+"\"4,7\"",
+"\"a\"",
+"\"2,3\"",
+"\"1,7\"",
+"\"3,0\"",
+"\"b\"",
+"\"0,1\"",
+"\"0,0\"",
+"\"0,2\"",
+"\"c\""
+]
+]
+},
+"Yy1UKhZsB": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-algemene-bevolking/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Basisonderwijs, lbo, mavo, vmbo, mbo niveau 1\"",
+"\"Ondergrens basisonderwijs, lbo, mavo, vmbo, mbo niveau 1\"",
+"\"Bovengrens basisonderwijs, lbo, mavo, vmbo, mbo niveau 1\"",
+"\"Paarsgewijze vergelijking basisonderwijs, lbo, mavo, vmbo, mbo niveau 1\"",
+"\"mbo niveau 2-4, havo, vwo\"",
+"\"Ondergrens mbo niveau 2-4, havo, vwo\"",
+"\"Bovengrens mbo niveau 2-4, havo, vwo\"",
+"\"Paarsgewijze vergelijking mbo niveau 2-4, havo, vwo\"",
+"\"hbo of universiteit\"",
+"\"Ondergrens hbo of universiteit\"",
+"\"Bovengrens hbo of universiteit\"",
+"\"Paarsgewijze vergelijking hbo of universiteit\""
+],
+[
+"\"Ooit\"",
+"\"3,9\"",
+"\"2,9\"",
+"\"4,9\"",
+"\"a\"",
+"\"6,0\"",
+"\"5,0\"",
+"\"6,9\"",
+"\"b\"",
+"\"7,6\"",
+"\"6,6\"",
+"\"8,6\"",
+"\"c\""
+],
+[
+"\"Laatste jaar\"",
+"\"0,6\"",
+"\"0,2\"",
+"\"1,0\"",
+"\"a\"",
+"\"1,4\"",
+"\"0,9\"",
+"\"1,8\"",
+"\"b\"",
+"\"2,0\"",
+"\"1,5\"",
+"\"2,5\"",
+"\"b\""
+]
+]
+},
+"lvlKMQHQK": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-algemene-bevolking/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"categories\"",
+"\"Nederland\"",
+"\"Ondergrens Nederland\"",
+"\"Bovengrens Nederland\"",
+"\"Paarsgewijze vergelijking Nederland\"",
+"\"Europa\"",
+"\"Ondergrens Europa\"",
+"\"Bovengrens Europa\"",
+"\"Paarsgewijze vergelijking Europa\"",
+"\"Buiten Europa\"",
+"\"Ondergrens Buiten Europa\"",
+"\"Ondergrens Buiten Europa\"",
+"\"Paarsgewijze vergelijking Buiten Europa\""
+],
+[
+"\"Ooit\"",
+"\"6,1\"",
+"\"5,4\"",
+"\"6,8\"",
+"\"a\"",
+"\"7,6\"",
+"\"5,3\"",
+"\"9,8\"",
+"\"a\"",
+"\"5,6\"",
+"\"4,2\"",
+"\"6,9\"",
+"\"a\""
+],
+[
+"\"Laatste jaar\"",
+"\"1,3\"",
+"\"1,0\"",
+"\"1,6\"",
+"\"a\"",
+"\"1,6\"",
+"\"0,5\"",
+"\"2,7\"",
+"\"a\"",
+"\"2,0\"",
+"\"1,2\"",
+"\"2,9\"",
+"\"a\""
+]
+]
+},
+"8ec-JnIvK": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-algemene-bevolking/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"categories\"",
+"\"(Zeer) sterk stedelijk\"",
+"\"Ondergrens (zeer) sterk stedelijk\"",
+"\"Bovengrens (zeer) sterk stedelijk\"",
+"\"Paarsgewijze vergelijking (zeer) sterk stedelijk\"",
+"\"Matig stedelijk\"",
+"\"Ondergrens matig stedelijk\"",
+"\"Bovengrens matig stedelijk\"",
+"\"Paarsgewijze vergelijking matig stedelijk\"",
+"\"Weinig/niet stedelijk\"",
+"\"Ondergrens weinig/niet stedelijk\"",
+"\"Bovengrens weinig/niet stedelijk\"",
+"\"Paarsgewijze vergelijking weinig/niet stedelijk\""
+],
+[
+"\"Ooit\"",
+"\"7,4\"",
+"\"6,6\"",
+"\"8,3\"",
+"\"a\"",
+"\"5,5\"",
+"\"4,2\"",
+"\"6,8\"",
+"\"b\"",
+"\"3,8\"",
+"\"3,0\"",
+"\"4,7\"",
+"\"c\""
+],
+[
+"\"Laatste jaar\"",
+"\"2,1\"",
+"\"1,6\"",
+"\"2,5\"",
+"\"a\"",
+"\"1,1\"",
+"\"0,5\"",
+"\"1,7\"",
+"\"b\"",
+"\"0,4\"",
+"\"0,1\"",
+"\"0,7\"",
+"\"c\""
+]
+]
+},
+"vHU3RnaAL": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-algemene-bevolking/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"code\"",
+"\"value\""
+],
+[
+"1",
+"\"2,6\""
+],
+[
+"2",
+"\"1,6\""
+],
+[
+"3",
+"\"1,5\""
+],
+[
+"4",
+"\"1,8\""
+],
+[
+"5",
+"\"1,4\""
+],
+[
+"6",
+"\"1,9\""
+],
+[
+"7",
+"\"2,6\""
+],
+[
+"8",
+"\"1,7\""
+],
+[
+"9",
+"\"3,9\""
+],
+[
+"10",
+"\"2,7\""
+],
+[
+"11",
+"\"3,3\""
+],
+[
+"12",
+"6"
+],
+[
+"13",
+"\"2,7\""
+],
+[
+"14",
+"\"2,5\""
+],
+[
+"15",
+"\"2,8\""
+],
+[
+"16",
+"\"1,9\""
+],
+[
+"17",
+"\"1,9\""
+],
+[
+"18",
+"\"2,3\""
+],
+[
+"19",
+"\"2,2\""
+],
+[
+"20",
+"\"1,9\""
+],
+[
+"21",
+"\"1,6\""
+],
+[
+"22",
+"\"1,6\""
+],
+[
+"23",
+"\"3,4\""
+],
+[
+"24",
+"\"2,2\""
+],
+[
+"25",
+"\"2,7\""
+]
+]
+},
+"tsM1djQ4k": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-internationale-vergelijking/",
+"title": "",
+"caption": "",
+"table": [
+{
+"hash": "up_vTwz6V",
+"version": 18,
+"chart_id": 558291,
+"chart_type": 1,
+"name": "Volwassenen (15-64 jaar)"
+},
+{
+"hash": "rE0x7dsin",
+"version": 16,
+"chart_id": 558292,
+"chart_type": 1,
+"name": "Jongvolwassenen (15-34 jaar)"
+}
+]
+},
+"dVVgwWp2y": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-internationale-vergelijking/",
+"title": "",
+"caption": "",
+"table": [
+{
+"hash": "m2pcFCzpo",
+"version": 9,
+"chart_id": 558795,
+"chart_type": 5,
+"name": "Amfetamine"
+},
+{
+"hash": "BnEYKsEDQ",
+"version": 7,
+"chart_id": 558799,
+"chart_type": 5,
+"name": "Methamfetamine"
+}
+]
+},
+"5DQnONgDa": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-internationale-vergelijking/",
+"title": "",
+"caption": "",
+"table": [
+{
+"hash": "5WJGb99dA",
+"version": 12,
+"chart_id": 559033,
+"chart_type": 1,
+"name": "Amfetamine"
+},
+{
+"hash": "wvqMjOrn2",
+"version": 11,
+"chart_id": 559023,
+"chart_type": 1,
+"name": "Methamfetamine"
+}
+]
+},
+"cJbkAcfZ5": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-internationale-vergelijking/",
+"title": "(Meth)amfetaminegebruik  in het laatste jaar in de algemene bevolking van Nederland, Engeland en Wales, de Verenigde Staten, Canada en Australië",
+"caption": "De resultaten van deze onderzoeken zijn niet rechtstreeks vergelijkbaar vanwege verschillen in peiljaar, leeftijdsgroepen, meetmethoden en steekproefgrootte. I. April 2024 tot maart 2025. II. Mei tot december 2023. III. Juli 2022 tot mei 2023. Bronnen: Gezondheidsenquête/Leefstijlmonitor, Crime Survey for England and Wales, National Survey on Drug Use and Health, Canadian Substance Use Survey, National Drug Strategy Household Survey",
+"table": [
+[
+"Land",
+"Leeftijd",
+"Peiljaar",
+"Middel",
+"Laatste jaar (%)"
+],
+[
+{
+"value": "<div>Nederland&nbsp;</div>",
+"style": {}
+},
+"15-64 jaar",
+"2024",
+"amfetamine en/of methamfetamine",
+"1,6"
+],
+[
+{
+"value": "<div>Engeland en Wales</div>",
+"style": {}
+},
+{
+"value": "<div>16-59 jaar</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>2024/2025<sup>I</sup></div>",
+"style": {
+"textAlign": "left"
+}
+},
+"amfetamine en/of methamfetamine",
+{
+"value": "<div>0,3</div>",
+"style": {
+"textAlign": "left"
+}
+}
+],
+[
+"Verenigde Staten",
+{
+"value": "<div><span style=\"color: black;\">18 jaar en ouder</span></div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div><span style=\"color: black;\">2022</span></div>",
+"style": {
+"textAlign": "left"
+}
+},
+"methamfetamine",
+{
+"value": "<div><span style=\"color: black;\">1,0</span></div>",
+"style": {
+"textAlign": "left"
+}
+}
+],
+[
+"Canada",
+"15 jaar en ouder",
+"2023II",
+"amfetamine en/of methamfetamine",
+"0,5"
+],
+[
+"Australië",
+"14 jaar en ouder",
+"2022/2023III",
+"amfetamine en/of methamfetamine",
+"1"
+]
+]
+},
+"8x8ced3zY": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-internationale-vergelijking/",
+"title": "",
+"caption": "",
+"table": [
+[
+{
+"value": "<div><strong style=\"color: white;\">Land(en) </div>",
+"style": {}
+},
+{
+"value": "<div>Onderzoek</div>",
+"style": {}
+},
+{
+"value": "<div>Leeftijdsgroep</div>",
+"style": {}
+},
+{
+"value": "<div>Peiljaar</div>",
+"style": {}
+},
+{
+"value": "<div><strong style=\"color: white;\">Steekproefgrootte</div>",
+"style": {}
+},
+{
+"value": "<div>Uitvoerende instantie&nbsp;</div>",
+"style": {}
+}
+],
+[
+"EU-lidstaten + Noorwegen en Turkije",
+"European Drug Report",
+"15-64 jaar, 15-34 jaar",
+"Wisselende peiljaren en meetmomenten",
+"Verschilt per land (min. 442 en max. 11.695)",
+"European Union Drugs Agency, gegevens aangeleverd door het Reitox-netwerk"
+],
+[
+"England en Wales",
+"Crime Survey for England and Wales",
+"16-59 jaar",
+"April 2023 tot maart 2024",
+"?",
+"Office for National Statistics: Centre for Crime and Justice"
+],
+[
+"Verenigde Staten",
+"National Survey on Drug Use and Health",
+"18 jaar en ouder",
+"2022",
+"Ongeveer 70.000 respondenten (12 jaar en ouder)",
+"Substance Abuse and Mental Health Service Administration"
+],
+[
+"Canada",
+"Canadian Substance Use Survey",
+"15 jaar en ouder",
+"Mei tot december 2023",
+"36.180 respondenten",
+"Health Canada"
+],
+[
+"Australië",
+"National Drug Strategy Household Survey",
+"14 jaar en ouder",
+"Juli 2022 tot mei 2023",
+"21.663 respondenten",
+"Australian Institute of Health and Welfare"
+]
+]
+},
+"oMLGWVZLB": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-jongeren-en-jongvolwassenen/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Totaal\""
+],
+[
+"\"Ooit\"",
+"\"1,1\""
+],
+[
+"\"Laatste jaar\"",
+"\"0,8\""
+]
+]
+},
+"NksN0nuim": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-hulpvraag-en-incidenten/",
+"title": "",
+"caption": "",
+"table": [
+{
+"hash": "NWU3cHbvn",
+"version": 6,
+"chart_id": 597132,
+"chart_type": 1,
+"name": "Gehele verslavingszorg"
+},
+{
+"hash": "JoLa5HdpS",
+"version": 4,
+"chart_id": 597151,
+"chart_type": 1,
+"name": "Drugsproblematiek in de verslavingszorg"
+}
+]
+},
+"OFyndWL0f": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-hulpvraag-en-incidenten/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Leeftijd\"",
+"\"Aantal\"",
+"\"Percentages\""
+],
+[
+"\"≤ 18\"",
+"35",
+"\"2,2\""
+],
+[
+"\"19 - 24\"",
+"235",
+"\"14,6\""
+],
+[
+"\"25 - 29\"",
+"259",
+"\"16,1\""
+],
+[
+"\"30 - 34\"",
+"279",
+"\"17,4\""
+],
+[
+"\"35 - 39\"",
+"261",
+"\"16,3\""
+],
+[
+"\"40 - 44\"",
+"232",
+"\"14,4\""
+],
+[
+"\"45 - 49\"",
+"153",
+"\"9,5\""
+],
+[
+"\"50 - 54\"",
+"80",
+"\"5,0\""
+],
+[
+"\"55 - 59\"",
+"38",
+"\"2,4\""
+],
+[
+"\"60 - 64\"",
+"24",
+"\"1,5\""
+],
+[
+"\"65 +\"",
+"10",
+"\"0,6\""
+]
+]
+},
+"QHap6XUsY": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-hulpvraag-en-incidenten/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Jaartal\"",
+"\"Alle instellingen primair\"",
+"\"Constante instellingen primair\"",
+"\"Alle instellingen secundair\"",
+"\"Constante instellingen secundair\"",
+"\"Incidentie per 100.000 alle instellingen\"",
+"\"Incidentie per 100.000 constante instellingen\""
+],
+[
+"2016",
+"1596",
+"1596",
+"1069",
+"1069",
+"\"11,3\"",
+"\"11,3\""
+],
+[
+"2017",
+"1602",
+"1603",
+"971",
+"872",
+"\"11,2\"",
+"\"11,2\""
+],
+[
+"2018",
+"1497",
+"1499",
+"1007",
+"1007",
+"\"10,4\"",
+"\"10,4\""
+],
+[
+"2019",
+"1621",
+"1606",
+"1119",
+"1112",
+"\"11,2\"",
+"\"11,0\""
+],
+[
+"2020",
+"1728",
+"1679",
+"1150",
+"1160",
+"\"11,8\"",
+"\"11,4\""
+],
+[
+"2021",
+"1857",
+"1797",
+"1180",
+"1193",
+"\"12,6\"",
+"\"12,2\""
+],
+[
+"2022",
+"1828",
+"1732",
+"1167",
+"1142",
+"\"12,3\"",
+"\"11,6\""
+],
+[
+"2023",
+"1810",
+"1696",
+"1116",
+"1064",
+"\"12,0\"",
+"\"11,2\""
+],
+[
+"2024",
+"1745",
+"1568",
+"1124",
+"999",
+"\"11,5\"",
+"\"10,3\""
+],
+[
+"2025",
+"1606",
+"1406",
+"1193",
+"959",
+"\"10,5\"",
+"\"9,2\""
+]
+]
+},
+"PsJLkhwvS": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-incidenten/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"%\""
+],
+[
+"\"Amfetamine\"",
+"3"
+],
+[
+"\"Amfetamine + andere drug\"",
+"6"
+],
+[
+"\"Overige drugs\"",
+"91"
+]
+]
+},
+"7cJZ-iP9J": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-incidenten/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"%\""
+],
+[
+"\"GHB\"",
+"36"
+],
+[
+"\"Ecstasy\"",
+"31"
+],
+[
+"\"Cocaïne\"",
+"24"
+],
+[
+"\"3-MMC\"",
+"18"
+],
+[
+"\"Cannabis\"",
+"17"
+],
+[
+"\"Ketamine\"",
+"17"
+]
+]
+},
+"XdhZKoLy2": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-incidenten/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"%\"",
+"\"Ambulance\"",
+"\"EHBO\"",
+"\"Forensisch\"",
+"\"MDI-ziekenhuis\"",
+"\"LIS-ziekenhuis\""
+],
+[
+"2019",
+"10",
+"13",
+"14",
+"10",
+"11"
+],
+[
+"2020",
+"8",
+"16",
+"10",
+"9",
+"13"
+],
+[
+"2021",
+"9",
+"6",
+"9",
+"7",
+"12"
+],
+[
+"2022",
+"8",
+"8",
+"8",
+"8",
+"10"
+],
+[
+"2023",
+"7",
+"9",
+"11",
+"8",
+"11"
+],
+[
+"2024",
+"8",
+"8",
+"11",
+"10",
+"11"
+]
+]
+},
+"wQGNBP1Fx": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-incidenten/",
+"title": "Cliëntkenmerken van incidenten met mono-drugsgebruik van amfetamine. Peiljaar 2024.",
+"caption": "*I.\nPercentage van het totaal aantal meldingen van drugsincidenten binnen de\ndienst. *Percentages berekend op de bekende aantallen. Bron: Monitor\nDrugsincidenten.",
+"table": [
+[
+null,
+{
+"value": "Ambulances",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "SEH-MDI-ziekenhuizen",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "SEH-LIS-ziekenhuizen",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "Forensisch artsen",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>EHBO</div>",
+"style": {
+"textAlign": "left"
+}
+}
+],
+[
+"Aantal incidentenI",
+{
+"value": "<div>27 (3%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>22 (2%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>59 (5%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>26 (4%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>60 (2%)</div>",
+"style": {
+"textAlign": "left"
+}
+}
+],
+[
+"Man*",
+{
+"value": "<div>17 (63%)</div>",
+"style": {}
+},
+{
+"value": "<div>16 (73%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>37 (63%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>26 (100%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>34 (57%)</div>",
+"style": {
+"textAlign": "left"
+}
+}
+],
+[
+"Mediane leeftijd",
+"32",
+"33",
+"29",
+"31",
+"27"
+],
+[
+"Leeftijd: <25 jaar*",
+{
+"value": "<div>5 (19%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>4 (18%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>23 (39%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>5 (19%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>16 (27%)</div>",
+"style": {
+"textAlign": "left"
+}
+}
+],
+[
+{
+"value": "<div>Ook alcohol gebruikt*</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>14 (52%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>10 (45%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>21 (36%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>8 (31%)</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>12 (20%)</div>",
+"style": {
+"textAlign": "left"
+}
+}
+]
+]
+},
+"wy27MNN1p": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-incidenten/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Lichte vergiftigingsverschijnselen\"",
+"\"Matige vergiftigingsverschijnselen\"",
+"\"Ernstige vergiftigingsverschijnselen\"",
+"\"Onbekende ernst\""
+],
+[
+"\"Ambulances (n=27)\"",
+"4",
+"15",
+"30",
+"52"
+],
+[
+"\"SEH-MDI-ziekenhuizen (n=22)\"",
+"9",
+"18",
+"59",
+"14"
+],
+[
+"\"Forensisch artsen (n=26)\"",
+"27",
+"0",
+"4",
+"69"
+],
+[
+"\"EHBO (n=60)\"",
+"52",
+"27",
+"17",
+"5"
+]
+]
+},
+"ZgrRUCra7": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-jongeren/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Land\"",
+"\"Ooit\""
+],
+[
+"\"Hongarije\"",
+"\"4,3\""
+],
+[
+"\"Montenegro\"",
+"\"3,4\""
+],
+[
+"\"Polen\"",
+"\"3,4\""
+],
+[
+"\"Estland\"",
+"\"2,9\""
+],
+[
+"\"Oekraïne\"",
+"\"2,9\""
+],
+[
+"\"Cyprus\"",
+"\"2,7\""
+],
+[
+"\"IJsland\"",
+"\"2,5\""
+],
+[
+"\"Letland\"",
+"\"2,4\""
+],
+[
+"\"Zweden\"",
+"\"2,4\""
+],
+[
+"\"Duitsland\"",
+"\"2,3\""
+],
+[
+"\"Noorwegen\"",
+"\"2,3\""
+],
+[
+"\"Faeröer\"",
+"\"2,1\""
+],
+[
+"\"Bulgarije\"",
+"2"
+],
+[
+"\"Kroatië\"",
+"\"1,9\""
+],
+[
+"\"Slowakije\"",
+"\"1,9\""
+],
+[
+"\"Kosovo\"",
+"\"1,8\""
+],
+[
+"\"Liechtenstein\"",
+"\"1,8\""
+],
+[
+"\"Griekenland\"",
+"\"1,7\""
+],
+[
+"\"Litouwen\"",
+"\"1,7\""
+],
+[
+"\"Slovenië\"",
+"\"1,6\""
+],
+[
+"\"Finland\"",
+"\"1,5\""
+],
+[
+"\"Italië\"",
+"\"1,5\""
+],
+[
+"\"Tsjechië\"",
+"\"1,4\""
+],
+[
+"\"Oostenrijk\"",
+"\"1,3\""
+],
+[
+"\"Frankrijk\"",
+"\"1,3\""
+],
+[
+"\"Nederland\"",
+"\"1,3\""
+],
+[
+"\"Denemarken\"",
+"\"1,2\""
+],
+[
+"\"Portugal\"",
+"\"1,2\""
+],
+[
+"\"Servië\"",
+"\"1,2\""
+],
+[
+"\"Noord-Macedonië\"",
+"\"1,1\""
+],
+[
+"\"Roemenië\"",
+"\"1,1\""
+],
+[
+"\"Spanje\"",
+"\"1,1\""
+],
+[
+"\"Malta\"",
+"1"
+],
+[
+"\"Ierland\"",
+"\"0,8\""
+],
+[
+"\"Moldavië\"",
+"\"0,8\""
+],
+[
+"\"Georgië\"",
+"\"0,7\""
+],
+[
+"\"Monaco\"",
+"\"0,7\""
+]
+]
+},
+"yfO6ut97L": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-jongeren/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Land\"",
+"\"Ooit\""
+],
+[
+"\"Polen\"",
+"\"3,1\""
+],
+[
+"\"Oekraïne\"",
+"\"2,8\""
+],
+[
+"\"Cyprus\"",
+"\"2,7\""
+],
+[
+"\"Montenegro\"",
+"\"2,3\""
+],
+[
+"\"Slovenië\"",
+"\"2,3\""
+],
+[
+"\"Hongarije\"",
+"\"2,2\""
+],
+[
+"\"IJsland\"",
+"2"
+],
+[
+"\"Kosovo\"",
+"2"
+],
+[
+"\"Estland\"",
+"\"1,8\""
+],
+[
+"\"Griekenland\"",
+"\"1,8\""
+],
+[
+"\"Slowakije\"",
+"\"1,6\""
+],
+[
+"\"Zweden\"",
+"\"1,6\""
+],
+[
+"\"Bulgarije\"",
+"\"1,5\""
+],
+[
+"\"Kroatië\"",
+"\"1,5\""
+],
+[
+"\"Faeröer\"",
+"\"1,5\""
+],
+[
+"\"Tsjechië\"",
+"\"1,4\""
+],
+[
+"\"Letland\"",
+"\"1,4\""
+],
+[
+"\"Litouwen\"",
+"\"1,4\""
+],
+[
+"\"Spanje\"",
+"\"1,3\""
+],
+[
+"\"Liechtenstein\"",
+"\"1,2\""
+],
+[
+"\"Italië\"",
+"\"1,1\""
+],
+[
+"\"Roemenië\"",
+"\"1,1\""
+],
+[
+"\"Finland\"",
+"1"
+],
+[
+"\"Duitsland\"",
+"1"
+],
+[
+"\"Portugal\"",
+"1"
+],
+[
+"\"Oostenrijk\"",
+"\"0,9\""
+],
+[
+"\"Frankrijk\"",
+"\"0,9\""
+],
+[
+"\"Malta\"",
+"\"0,9\""
+],
+[
+"\"Servië\"",
+"\"0,9\""
+],
+[
+"\"Moldavië\"",
+"\"0,8\""
+],
+[
+"\"Nederland\"",
+"\"0,8\""
+],
+[
+"\"Denemarken\"",
+"\"0,7\""
+],
+[
+"\"Ierland\"",
+"\"0,7\""
+],
+[
+"\"Georgië\"",
+"\"0,6\""
+],
+[
+"\"Monaco\"",
+"\"0,5\""
+],
+[
+"\"Noord-Macedonië\"",
+"\"0,5\""
+]
+]
+},
+"POaJSAjE2": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-kwetsbare-groepen-jongeren/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Onderwijstypen\"",
+"\"Ooit\"",
+"\"Laatste jaar\""
+],
+[
+"\"Cluster 4\"",
+"\"3,3\"",
+"\"1,9\""
+],
+[
+"\"Praktijkonderwijs\"",
+"\"0,4\"",
+"\"0,1\""
+]
+]
+},
+"YhgPuuUuz": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-kwetsbare-groepen-jongeren/",
+"title": "",
+"caption": "",
+"table": [
+{
+"hash": "cobh3OuE8",
+"version": 5,
+"chart_id": 633711,
+"chart_type": 1,
+"name": "Cluster 4"
+},
+{
+"hash": "nTqxZerT-",
+"version": 5,
+"chart_id": 633712,
+"chart_type": 1,
+"name": "Praktijkonderwijs"
+}
+]
+},
+"adbLMturX": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-kwetsbare-groepen-jongeren/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Onderwijstypen\"",
+"\"Ooit\"",
+"\"Laatste maand\""
+],
+[
+"\"JJI\"",
+"14",
+"2"
+],
+[
+"\"mbo/hbo\"",
+"2",
+"1"
+]
+]
+},
+"AONflwXmW": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-kwetsbare-groepen-jongeren/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Groepen\"",
+"\"Ooit\"",
+"\"Laatste maand\""
+],
+[
+"\"Residentiële jeugzorg\"",
+"11",
+"3"
+],
+[
+"\"Regulier voortgezet onderwijs\"",
+"1",
+"1"
+]
+]
+},
+"8rM0hdWrk": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-kwetsbare-groepen-jongeren/",
+"title": "Steekproefkenmerken van de landelijke EXPLORE onderzoeken",
+"caption": "",
+"table": [
+[
+"Groep",
+"Peiljaar",
+"Leeftijd",
+"Totale steekproef"
+],
+[
+"Praktijkonderwijs",
+"2025",
+"12-16 jaar",
+"1619"
+],
+[
+"",
+"2019",
+"12-16 jaar",
+"1118"
+],
+[
+"",
+"2008",
+"12-16 jaar",
+"916"
+],
+[
+"Cluster 4",
+"2025",
+"12-16 jaar",
+"904"
+],
+[
+"",
+"2019",
+"12-16 jaar",
+"1032"
+],
+[
+"",
+"2008",
+"12-16 jaar",
+"603"
+],
+[
+"Cluster 3",
+"2019",
+"12-16 jaar",
+"266"
+],
+[
+"Jongeren in de Justitiële Jeugdinrichtingen",
+"2022",
+"14-24 jaar",
+"110"
+],
+[
+"",
+"2009",
+"13-18 jaar",
+"155"
+],
+[
+"Jongeren in de residentiële jeugdzorg",
+"2020",
+"12-17 jaar",
+"357"
+],
+[
+"",
+"2008",
+"12-17 jaar",
+"531"
+]
+]
+},
+"pDKJNRRfZ": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-laatste-feiten-en-trends/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Jaartal\"",
+"\"Laatste jaar\""
+],
+[
+"2015",
+"\"1,3\""
+],
+[
+"2016",
+"\"1,4\""
+],
+[
+"2017",
+"\"1,4\""
+],
+[
+"2018",
+"\"1,1\""
+],
+[
+"2019",
+"\"1,7\""
+],
+[
+"2020",
+"\"1,3\""
+],
+[
+"2021",
+"\"1,3\""
+],
+[
+"2022",
+"\"1,4\""
+],
+[
+"2023",
+"\"1,3\""
+],
+[
+"2024",
+"\"1,3\""
+],
+[
+"2025",
+"\"1,4\""
+]
+]
+},
+"8tO24GCLM": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-laatste-feiten-en-trends/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Jaar\"",
+"\"Laatste jaar\""
+],
+[
+"\"18-29 jaar\"",
+"\"3,6\""
+],
+[
+"\"30-49 jaar\"",
+"\"2,3\""
+],
+[
+"\"50 jaar en ouder\"",
+"\"0,1\""
+]
+]
+},
+"1c7j4AU0-": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-laatste-feiten-en-trends/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Leeftijd\"",
+"\"EU-gemiddelde\"",
+"\"Nederland\""
+],
+[
+"\"15-64 jaar\"",
+"\"0,7\"",
+"\"1,6\""
+],
+[
+"\"15-34 jaar\"",
+"\"1,4\"",
+"\"3,0\""
+]
+]
+},
+"FD9OROyvt": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-prijs/",
+"title": "",
+"caption": "",
+"table": [
+[
+"",
+"\"Gemiddelde prijs\"",
+"\"25%\"",
+"\"75%\""
+],
+[
+"2016",
+"\"7,25\"",
+"5",
+"10"
+],
+[
+"2017",
+"\"7,30\"",
+"5",
+"10"
+],
+[
+"2018",
+"\"7,15\"",
+"5",
+"10"
+],
+[
+"2019",
+"\"7,15\"",
+"5",
+"10"
+],
+[
+"2020",
+"\"6,95\"",
+"5",
+"10"
+],
+[
+"2021",
+"\"6,95\"",
+"5",
+"10"
+],
+[
+"2022",
+"\"7,80\"",
+"5",
+"10"
+],
+[
+"2023",
+"\"9,30\"",
+"5",
+"10"
+],
+[
+"2024",
+"\"8,50\"",
+"5",
+"10"
+],
+[
+"2025",
+"\"8,70\"",
+"5",
+"10"
+]
+]
+},
+"zN_Byxm2D": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-scholieren-veranderingen-gebruik/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Ooit\""
+],
+[
+"2003",
+"\"2,0\""
+],
+[
+"2007",
+"\"1,8\""
+],
+[
+"2011",
+"\"1,5\""
+],
+[
+"2015",
+"\"1,1\""
+],
+[
+"2019",
+"\"1,2\""
+],
+[
+"2023",
+"\"1,1\""
+]
+]
+},
+"BNLz85pqo": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-sterfte/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Aantal sterfgevallen\""
+],
+[
+"\"Niet opzettelijke overdosis\"",
+"88"
+],
+[
+"\"Opzettelijke overdosis\"",
+"26"
+],
+[
+"\"Intentie overdosis onbekend\"",
+"5"
+],
+[
+"\"Stoornissen in middelengebruik\"",
+"2"
+]
+]
+},
+"8gEp7fXpT": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-sterfte/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Sterfgevallen\"",
+"\"Percentages\""
+],
+[
+"\"15-34 jaar\"",
+"58",
+"\"47,9\""
+],
+[
+"\"35-64 jaar\"",
+"59",
+"\"48,8\""
+],
+[
+"\"65 jaar en ouder\"",
+"4",
+"\"3,3\""
+]
+]
+},
+"ZqdIkwlc1": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-sterfte/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Sterfgevallen\""
+],
+[
+"2014",
+"14"
+],
+[
+"2015",
+"14"
+],
+[
+"2016",
+"28"
+],
+[
+"2017",
+"6"
+],
+[
+"2018",
+"4"
+],
+[
+"2019",
+"4"
+],
+[
+"2020",
+"6"
+],
+[
+"2021",
+"11"
+],
+[
+"2022",
+"10"
+],
+[
+"2023",
+"5"
+],
+[
+"2024",
+"19"
+]
+]
+},
+"yTLFGIoJV": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-studenten/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"null\"",
+"\"Ooit\""
+],
+[
+"2015",
+"\"4,9\""
+],
+[
+"2017",
+"\"4,3\""
+],
+[
+"2019",
+"\"2,4\""
+],
+[
+"2021",
+"\"2,0\""
+],
+[
+"2023",
+"\"2,5\""
+]
+]
+},
+"p0Iu4tuFC": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-uitgaande-jongeren-en-jongvolwassenen/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Laatste jaar\""
+],
+[
+"\"Ecstasy\"",
+"\"53,8\""
+],
+[
+"\"Cannabis\"",
+"\"46,9\""
+],
+[
+"\"3-MMC\"",
+"\"33,7\""
+],
+[
+"\"Cocaïne\"",
+"\"33,5\""
+],
+[
+"\"Ketamine\"",
+"\"24,6\""
+],
+[
+"\"Amfetamine\"",
+"\"20,5\""
+],
+[
+"\"4-MMC\"",
+"\"16,7\""
+],
+[
+"\"Lachgas\"",
+"\"15,0\""
+],
+[
+"\"2C-B\"",
+"\"14,1\""
+],
+[
+"\"Poppers\"",
+"\"13,1\""
+]
+]
+},
+"AIH2Sgsfa": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-uitgaande-jongeren-en-jongvolwassenen/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\" \"",
+"\"Laatste jaar\""
+],
+[
+"\"Man \"",
+"\"25,1\""
+],
+[
+"\"Vrouw\"",
+"\"15,8\""
+],
+[
+"",
+""
+],
+[
+"\"16-19 jaar\"",
+"\"7,9\""
+],
+[
+"\"20-24 jaar\"",
+"\"17,9\""
+],
+[
+"\"25-29 jaar\"",
+"\"31,7\""
+],
+[
+"\"30-35 jaar\"",
+"\"31,4\""
+],
+[
+"",
+""
+],
+[
+"\"Basisonderwijs, vmbo, mavo, mbo-1\"",
+"\"29,5\""
+],
+[
+"\"Havo, vwo, mbo-2-4\"",
+"\"19,9\""
+],
+[
+"\"Hbo, wo\"",
+"\"20,4\""
+]
+]
+},
+"-Kx6hmSkm": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-uitgaande-jongeren-en-jongvolwassenen/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Gebruiksfrequentie\"",
+"\"%\""
+],
+[
+"\"(Bijna) elke dag\"",
+"\"0,9\""
+],
+[
+"\"Eén of een paar keer per week\"",
+"\"2,6\""
+],
+[
+"\"Eén of een paar keer per maand\"",
+"\"14,6\""
+],
+[
+"\"Minder dan één keer per maand\"",
+"\"55,0\""
+],
+[
+"\"Eén keer\"",
+"\"26,9\""
+]
+]
+},
+"AmOUk_zWK": {
+"page": "https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-liquidaties/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Alle gevallen\"",
+"\"waarvan in het criminele milieu\"",
+"\"waarvan liquidaties\"",
+"\"Category\""
+],
+[
+"2016",
+"105",
+"21",
+"13",
+"2016"
+],
+[
+"2017",
+"145",
+"35",
+"15",
+"2017"
+],
+[
+"2018",
+"104",
+"20",
+"11",
+"2018"
+],
+[
+"2019",
+"111",
+"15",
+"9",
+"2019"
+],
+[
+"2020",
+"123",
+"16",
+"5",
+"2020"
+],
+[
+"2021",
+"121",
+"9",
+"4",
+"2021"
+],
+[
+"2022",
+"133",
+"12",
+"4",
+"2022"
+],
+[
+"2023",
+"123",
+"13",
+"3",
+"2023"
+]
+]
+},
+"YMVzKuKUv": {
+"page": "https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-liquidaties/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Series 1\""
+],
+[
+"\"< 21 jaar\"",
+"\"2,2\""
+],
+[
+"\"21–30 jaar\"",
+"\"26,4\""
+],
+[
+"\"31–40 jaar\"",
+"\"28,6\""
+],
+[
+"\"41–50 jaar\"",
+"\"21,1\""
+],
+[
+"\"51–60 jaar\"",
+"\"15,0\""
+],
+[
+"\"> 60 jaar\"",
+"\"6,6\""
+]
+]
+},
+"kh1DK92h9": {
+"page": "https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Jaar\"",
+"\"Strafrechtelijke onderzoeken\""
+],
+[
+"2015",
+"341"
+],
+[
+"2016",
+"476"
+],
+[
+"2017",
+"514"
+],
+[
+"2018",
+"578"
+],
+[
+"2019",
+"613"
+],
+[
+"2020",
+"651"
+],
+[
+"2021",
+"746"
+],
+[
+"2022",
+"786"
+],
+[
+"2023",
+"893"
+],
+[
+"2024",
+"885"
+]
+]
+},
+"CfitEISCR": {
+"page": "https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Aandachtsgebied\"",
+"\"Grootschalige hennepteelt\"",
+"\"Cocaïne & heroïne\"",
+"\"Synthetische drugs\"",
+"\"Totaal\""
+],
+[
+"2015",
+"115",
+"125",
+"101",
+"341"
+],
+[
+"2016",
+"118",
+"184",
+"174",
+"476"
+],
+[
+"2017",
+"124",
+"217",
+"173",
+"514"
+],
+[
+"2018",
+"122",
+"252",
+"204",
+"578"
+],
+[
+"2019",
+"125",
+"250",
+"238",
+"613"
+],
+[
+"2020",
+"121",
+"248",
+"282",
+"651"
+],
+[
+"2021",
+"110",
+"324",
+"312",
+"746"
+],
+[
+"2022",
+"79",
+"394",
+"313",
+"786"
+],
+[
+"2023",
+"63",
+"472",
+"315",
+"893"
+],
+[
+"2024",
+"102",
+"497",
+"286",
+"885"
+]
+]
+},
+"Bfut2iy3y": {
+"page": "https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/",
+"title": "Omvang en aantal inbeslagnames Douane naar type drug, 2016-eerste helft van 2025",
+"caption": "Bron: Douane, 2021, 2022, 2023, 2024, 2025*; bewerking Regioplan. *Douane. Douane onderschept iets minder cocaïne in eerste helft 2025, kleinere havens vallen op. 2025. Via: https://www.overdedouane.nl/actueel/nieuws/2025/07/03/douane-onderschept-iets-minder-cocaine-in-eerste-helft-2025#:~:text=Er%20werd%20tot%20nu%20toe,inzicht%20te%20verkrijgen%20in%20smokkelmethodes.",
+"table": [
+[
+{
+"value": null,
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": 2016,
+"colSpan": 2,
+"rowSpan": 1,
+"mergeId": "row_1_column_0",
+"style": {
+"textAlign": "center",
+"backgroundColor": "#829eac"
+}
+},
+{
+"mergedCell": true,
+"parentCell": [
+1,
+0
+],
+"mergeId": "row_1_column_0",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": 2017,
+"colSpan": 2,
+"rowSpan": 1,
+"mergeId": "row_3_column_0",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"mergedCell": true,
+"parentCell": [
+3,
+0
+],
+"mergeId": "row_3_column_0",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": 2018,
+"colSpan": 2,
+"rowSpan": 1,
+"mergeId": "row_5_column_0",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"mergedCell": true,
+"parentCell": [
+5,
+0
+],
+"mergeId": "row_5_column_0",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": 2019,
+"colSpan": 2,
+"rowSpan": 1,
+"mergeId": "row_7_column_0",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"mergedCell": true,
+"parentCell": [
+7,
+0
+],
+"mergeId": "row_7_column_0",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<p>2020</p>",
+"colSpan": 2,
+"rowSpan": 1,
+"mergeId": "row_9_column_0",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"mergedCell": true,
+"parentCell": [
+9,
+0
+],
+"mergeId": "row_9_column_0",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div>2021</div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div><br></div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div>2022</div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div>2023</div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div><br></div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div>2024</div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div><br></div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+"1e helft 2025",
+""
+],
+[
+{
+"value": null,
+"style": {
+"backgroundColor": "#829eac",
+"fontWeight": "bold"
+}
+},
+{
+"value": "Kilo",
+"style": {
+"backgroundColor": "#829eac",
+"fontWeight": "bold",
+"textAlign": "center"
+}
+},
+{
+"value": "Aantal ",
+"style": {
+"backgroundColor": "#829eac",
+"fontWeight": "bold",
+"textAlign": "center"
+}
+},
+{
+"value": "Kilo",
+"style": {
+"backgroundColor": "#829eac",
+"fontWeight": "bold",
+"textAlign": "center"
+}
+},
+{
+"value": "Aantal ",
+"style": {
+"backgroundColor": "#829eac",
+"fontWeight": "bold",
+"textAlign": "center"
+}
+},
+{
+"value": "Kilo",
+"style": {
+"backgroundColor": "#829eac",
+"fontWeight": "bold",
+"textAlign": "center"
+}
+},
+{
+"value": "Aantal ",
+"style": {
+"backgroundColor": "#829eac",
+"fontWeight": "bold",
+"textAlign": "center"
+}
+},
+{
+"value": "<p>Kilo</p>",
+"style": {
+"backgroundColor": "#829eac",
+"fontWeight": "bold",
+"textAlign": "center"
+}
+},
+{
+"value": "<p>Aantal</p>",
+"style": {
+"backgroundColor": "#829eac",
+"fontWeight": "bold",
+"textAlign": "center"
+}
+},
+{
+"value": "<p>Kilo</p>",
+"style": {
+"textAlign": "center",
+"fontWeight": "bold",
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<p>Aantal</p>",
+"style": {
+"textAlign": "center",
+"fontWeight": "bold",
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<p>Kilo</p>",
+"style": {
+"textAlign": "left",
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div>Aantal</div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div>Kilo</div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div>Aantal</div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div>Kilo</div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div>Aantal</div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div>Kilo</div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+{
+"value": "<div>Aantal</div>",
+"style": {
+"backgroundColor": "#829eac"
+}
+},
+"Kilo",
+"Aantal"
+],
+[
+"Cocaïne",
+{
+"value": "<p>15.581</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 962,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 10.219,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 1.146,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 21.188,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 1.251,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 40.095,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 1.109,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>48.891</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>1.426</p>",
+"style": {
+"textAlign": "center"
+}
+},
+"71.796",
+"3.586",
+"51.447",
+"3.965",
+"59.116",
+"2.918",
+"37.642",
+"2.772",
+"16.087",
+"841"
+],
+[
+{
+"value": "<p>   -waarvan maritiem</p>",
+"style": {
+"fontStyle": "italic"
+}
+},
+{
+"value": 14.154,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 79,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 9.328,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 65,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 20.074,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 99,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 38.406,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 127,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>25.599</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>77</p>",
+"style": {
+"textAlign": "center"
+}
+},
+"69.479",
+"166",
+"50.044",
+"162",
+"56.858",
+"155",
+"34.877",
+"159",
+"15.674",
+"70"
+],
+[
+"Heroïne",
+{
+"value": 437,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 40,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 830,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 66,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 296,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 110,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 625,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 25,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>105</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>88</p>",
+"style": {
+"textAlign": "center"
+}
+},
+"1.734",
+"2.128",
+"2.611",
+"2.369",
+"19",
+"1.566",
+"376",
+"714",
+"4",
+"274"
+],
+[
+"Ecstasy/MDMA",
+{
+"value": 144,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 183,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 830,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 164,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 472,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 344,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 426,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 489,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>519</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>2.284</p>",
+"style": {
+"textAlign": "center"
+}
+},
+"259",
+"4.755",
+"363",
+"7.000",
+"376",
+"4.644",
+"578",
+"3.124",
+"50",
+"1.399"
+],
+[
+"Amfetamine",
+{
+"value": 22,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 16,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 108,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 4,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 1,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 5,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 2,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 11,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>34</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>248</p>",
+"style": {
+"textAlign": "center"
+}
+},
+"19",
+"671",
+"32",
+"1.385",
+"25",
+"1.210",
+"51",
+"650",
+"8",
+"390"
+],
+[
+"Methamfetamine",
+{
+"value": 29,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 15,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 9,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 20,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 6,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 15,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 550,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 11,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>17</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>6</p>",
+"style": {
+"textAlign": "center"
+}
+},
+"20",
+"17",
+"82",
+"55",
+"474",
+"145",
+"3.526",
+"493",
+"6",
+"212"
+],
+[
+"Marihuana",
+{
+"value": 1.299,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 110,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 2.852,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 90,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 322,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 125,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 583,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 231,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>514</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>393</p>",
+"style": {
+"textAlign": "center"
+}
+},
+"734",
+"2.439",
+"5.492",
+"4.381",
+"3.832",
+"3.186",
+"14.492",
+"7.397",
+"20.779",
+"1.605"
+],
+[
+"Hasj",
+{
+"value": 250,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 58,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 716,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 68,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>3.910</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 93,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 299,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 101,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>1.010</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>106</p>",
+"style": {
+"textAlign": "center"
+}
+},
+"172",
+"123",
+"293",
+"1.161",
+"253",
+"669",
+"255",
+"710",
+"144",
+"230"
+],
+[
+"Qat",
+{
+"value": 3.738,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 233,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 6.371,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 383,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 3.331,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 177,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>2.080</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 108,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>9.137</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>629</p>",
+"style": {
+"textAlign": "center"
+}
+},
+"2.887",
+"258",
+"3.265",
+"56",
+"684",
+"24",
+"2.011",
+"29",
+"983",
+"83"
+],
+[
+"LSD",
+"-",
+"-",
+"-",
+"-",
+"-",
+"-",
+"-",
+"-",
+"1",
+"-",
+"4",
+"-",
+"6",
+"-",
+"37",
+"2.713",
+"3",
+"809",
+"1",
+"313"
+]
+]
+},
+"dBpy96JSS": {
+"page": "https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/",
+"title": "Hoeveelheden en aantallen van in Nederland in beslag genomen pre-precursoren voor de productie van synthetische drugsI,II, 2017-2024",
+"caption": "I. Informatie over lege verpakkingen die bij de Nederlandse productielocaties zijn aangetroffen zijn niet opgenomen in de bovenstaande cijfers.. II. De stoffen in de bovenstaande tabel zijn, met uitzondering van MAMDPA en PMK ethyl glycidate inmiddels geregistreerde stoffen (categorie 1). Cijfers zijn gebaseerd op informatie die de FIOD heeft bereikt en zijn mogelijk niet compleet. Bron: FIOD, het Centraal Punt Precursoren: PICS substance statistics 2020, 2021, 2022, 2023, 2024.",
+"table": [
+[
+{
+"value": "<p>Stof<sup>II</sup></p>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<p>2017</p>",
+"colSpan": 2,
+"rowSpan": 1,
+"mergeId": "row_1_column_0",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"mergedCell": true,
+"parentCell": [
+1,
+0
+],
+"mergeId": "row_1_column_0",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>2018</p><p><br></p>",
+"colSpan": 2,
+"rowSpan": 1,
+"mergeId": "row_3_column_0",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"mergedCell": true,
+"parentCell": [
+3,
+0
+],
+"mergeId": "row_3_column_0",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>2019</p>",
+"colSpan": 2,
+"rowSpan": 1,
+"mergeId": "row_5_column_0"
+},
+{
+"mergedCell": true,
+"parentCell": [
+5,
+0
+],
+"mergeId": "row_5_column_0"
+},
+{
+"value": "<p>2020</p>",
+"colSpan": 2,
+"rowSpan": 1,
+"mergeId": "row_7_column_0"
+},
+{
+"mergedCell": true,
+"parentCell": [
+7,
+0
+],
+"mergeId": "row_7_column_0"
+},
+"2021",
+"",
+"2022",
+"",
+"2023",
+"",
+"2024",
+""
+],
+[
+"",
+"kg",
+"Inbeslagnames",
+"kg",
+"Inbeslagnames",
+"kg",
+"Inbeslagnames",
+"kg",
+"Inbeslagnames",
+"kg",
+"Inbeslagnames",
+"kg",
+"Inbeslagnames",
+"kg",
+"Inbeslagnames",
+"kg",
+"Inbeslagnames"
+],
+[
+"APAAN",
+{
+"value": 1.559,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 5,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 3.928,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 7,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 0,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 0,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>24</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>2</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>500</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>2</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"2",
+"1"
+],
+[
+"APAA",
+{
+"value": 10.443,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 22,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 14.091,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 21,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 4.341,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 11,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>1.224</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>6</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>80</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>2</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>6</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>1</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"45",
+"2"
+],
+[
+"MAPA",
+{
+"value": 488,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 3,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>5.022</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 9,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 7.407,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 32,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>4.949</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>28</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>6.167</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>24</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>349</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>5</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>26</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>3</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"36",
+"3"
+],
+[
+"EAPA",
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>150</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>1</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>85</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>2</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div><span style=\"color: rgb(34, 34, 34);\">-</span></div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div><span style=\"color: rgb(34, 34, 34);\">-</span></div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"-",
+"-"
+],
+[
+"MAMDPA",
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>4.464</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>6</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>17</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>2</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>66</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>2</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"-",
+"-"
+],
+[
+"DEPAPD",
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>13</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>2</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>54</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>1</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"-",
+"-"
+],
+[
+"Natriumenolaat van DEPAPD",
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>100</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>1</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"-",
+"-"
+],
+[
+"PMK ethyl glycidate",
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>-</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>350</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>1</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>7.527</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>20</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>28.200</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>43</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"11.868",
+"23"
+],
+[
+"PMK glycidaat",
+{
+"value": "<p>5.810</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 9,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 3.374,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 9,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 2.395,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 5,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>475</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>3</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>1.000</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>1</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div><span style=\"color: rgb(34, 34, 34);\">-</span></div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div><span style=\"color: rgb(34, 34, 34);\">-</span></div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>50</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>1</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"-",
+"-"
+],
+[
+"Natriumzout van PMK glycidezuur",
+{
+"value": 98,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 1,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 1.125,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 1,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 570,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 2,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>350</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>1</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>93</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>2</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>1.075</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>1</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"-",
+"-"
+],
+[
+"Kaliumzout van PMK glycidezuur",
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>100</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>1</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"-",
+"-"
+],
+[
+"BMK methyl glycidate",
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>21</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>1</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>1.445</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>3</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>2.773</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>2</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"3",
+"1"
+],
+[
+"BMK glycidezuur",
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>-</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>6.355</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>26</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>15.667</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>35</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"8.189",
+"18"
+],
+[
+"Natriumzout van BMK glycidezuur",
+{
+"value": "<div>1.625</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>3</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>2.066</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>7</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>4.897</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>7</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>1.140</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>9</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>848</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>9</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>3.626</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>8</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>16.021</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>31</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"3.486",
+"9"
+],
+[
+"Totaal",
+{
+"value": 20.023,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 43,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 29.606,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 54,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>19.610</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": 57,
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>8.314</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>50</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>13.108</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<p>47</p>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>21.113</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>72</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>62.858</div>",
+"style": {
+"textAlign": "center"
+}
+},
+{
+"value": "<div>118</div>",
+"style": {
+"textAlign": "center"
+}
+},
+"23.628",
+"57"
+]
+]
+},
+"sDpIsQqty": {
+"page": "https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/",
+"title": "Totale omvang en aantallen van in Nederland in beslag genomen stoffen die te relateren zijn aan de productie van methamfetamineI,II, III, 2017-2024",
+"caption": "I. In de tabel zijn de inbeslagnames van azijnzuuranhydride, (pseudo)efedrine, rode fosfor, wijnsteenzuur, jodium, hypofosforigzuur, MTG, AIBN en MYPC opgenomen. Cijfers zijn gebaseerd op informatie die de FIOD heeft bereikt en zijn mogelijk niet compleet. II. Informatie over lege verpakkingen die bij de Nederlandse productielocaties zijn aangetroffen zijn niet opgenomen in de bovenstaande cijfers. III. (Pseudo)efedrine is geregistreerd (categorie1). Bron: FIOD, het Centraal Punt Precursoren: PICS substance statistics, 2020, 2021, 2022, 2023, 2024.",
+"table": [
+[
+"",
+{
+"value": "<p>Totale hoeveelheid (kg)</p>",
+"style": {
+"textAlign": "left"
+}
+},
+"Aantal inbeslagnames",
+""
+],
+[
+"2017",
+{
+"value": "<div>970</div>",
+"style": {
+"textAlign": "left"
+}
+},
+{
+"value": "<div>8</div>",
+"style": {
+"textAlign": "left"
+}
+},
+""
+],
+[
+"2018",
+"9.742",
+"28",
+""
+],
+[
+"2019",
+"361",
+"10",
+""
+],
+[
+"2020",
+"16.225",
+"46",
+""
+],
+[
+"2021",
+"9.851",
+"23",
+""
+],
+[
+"2022",
+"1.887",
+"17",
+""
+],
+[
+"2023",
+"10.793",
+"36",
+""
+],
+[
+"2024",
+"49.559",
+"26",
+""
+]
+]
+},
+"6up4yaXCy": {
+"page": "https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Aantal ontmantelde methamfetaminelabs\""
+],
+[
+"2017",
+"5"
+],
+[
+"2018",
+"7"
+],
+[
+"2019",
+"9"
+],
+[
+"2020",
+"32"
+],
+[
+"2021",
+"15"
+],
+[
+"2022",
+"15"
+],
+[
+"2023",
+"29"
+],
+[
+"2024",
+"23"
+]
+]
+},
+"VFPq_J44l": {
+"page": "https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"null\"",
+"\"Productielocaties\"",
+"\"Opslagplaatsen\"",
+"\"Afvaldumpingen\""
+],
+[
+"2015",
+"59",
+"61",
+"160"
+],
+[
+"2016",
+"61",
+"84",
+"177"
+],
+[
+"2017",
+"82",
+"70",
+"206"
+],
+[
+"2018",
+"82",
+"79",
+"292"
+],
+[
+"2019",
+"90",
+"85",
+"191"
+],
+[
+"2020",
+"108",
+"105",
+"178"
+],
+[
+"2021",
+"69",
+"93",
+"206"
+],
+[
+"2022",
+"83",
+"78",
+"153"
+],
+[
+"2023",
+"125",
+"",
+"191"
+],
+[
+"2024",
+"114",
+"",
+"218"
+]
+]
+},
+"-gkTpHjZj": {
+"page": "https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/",
+"title": "Aantal geruimde hennepkwekerijen, 2014-2024",
+"caption": "Bron: Nationale Politie, Landelijke Eenheid, Dienst Landelijke Informatieorganisatie (2021, 2022, 2023 en 2024)",
+"table": [
+[
+null,
+"2014",
+2015,
+2016,
+2017,
+2018,
+2019,
+"2020",
+"2021",
+"2022",
+"2023",
+"2024"
+],
+[
+"Aantal",
+6.006,
+5.856,
+5.538,
+"4.670",
+3.913,
+3.635,
+"2.894",
+"2.285",
+"1.604",
+"1.230",
+"895"
+]
+]
+},
+"8V1CjrHvb": {
+"page": "https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-opiumwetdelicten/",
+"title": "Geregistreerde soft- en harddrugsincidenten bij de politie, 2015-2024, in aantallen",
+"caption": "Bron: cijfers over 2015-2018 zijn afkomstig uit Mennes et al., 2020. Cijfers over 2019 t/m 2024 betreffen registraties ontvangen van de Nationale Politie (augustus 2020, september 2021, maart 2022, april 2023, maart 2024, maart 2025).",
+"table": [
+[
+null,
+2015,
+2016,
+2017,
+2018,
+2019,
+"2020",
+"2021",
+"2022",
+"2023",
+"2024"
+],
+[
+"Geregistreerde softdrugsincidenten",
+4.788,
+4.463,
+4.162,
+4.031,
+4.445,
+"4.518",
+"4.011",
+"3.857",
+"5.399",
+"6.063"
+],
+[
+"Geregistreerde harddrugsincidenten",
+8.424,
+8.164,
+7.942,
+7.999,
+"8.720",
+"7.963",
+"7.167",
+"8.201",
+"9.359",
+"9.442"
+]
+]
+},
+"wtRWbBiFl": {
+"page": "https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-opiumwetdelicten/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"null\"",
+"2015",
+"2016",
+"2017",
+"2018",
+"2019",
+"2020",
+"2021",
+"2022",
+"2023",
+"2024"
+],
+[
+"\"Zeeland-West- Brabant\"",
+"6",
+"4.8",
+"5.2",
+"5.4",
+"5.8",
+"6.7",
+"4.1",
+"4",
+"4.5",
+"4.3"
+],
+[
+"\"Rotterdam\"",
+"3",
+"3",
+"2.5",
+"2.5",
+"2.3",
+"2.1",
+"2",
+"2.4",
+"3.5",
+"2.7"
+],
+[
+"\"Oost-Nederland\"",
+"1.9",
+"1.9",
+"1.8",
+"1.7",
+"1.7",
+"1.5",
+"1.7",
+"1.6",
+"2.2",
+"2.2"
+],
+[
+"\"Oost-Brabant\"",
+"3.5",
+"2.9",
+"2.8",
+"2.7",
+"3.5",
+"3.8",
+"3.8",
+"2.8",
+"3.7",
+"4.3"
+],
+[
+"\"Noord-Nederland\"",
+"2.9",
+"3",
+"3",
+"1.9",
+"2.3",
+"2",
+"1.7",
+"1.5",
+"2",
+"1.7"
+],
+[
+"\"Noord-Holland\"",
+"1.5",
+"1.4",
+"1.5",
+"1.6",
+"1.6",
+"1.9",
+"1.4",
+"1.5",
+"2.3",
+"2.7"
+],
+[
+"\"Midden-Nederland\"",
+"2.1",
+"2",
+"1.9",
+"2.2",
+"2.1",
+"1.6",
+"1.5",
+"1.5",
+"2.5",
+"3.2"
+],
+[
+"\"Limburg\"",
+"4.7",
+"4.3",
+"3.1",
+"3.2",
+"4",
+"6",
+"4.9",
+"5.2",
+"5.4",
+"7.7"
+],
+[
+"\"Den Haag\"",
+"2.5",
+"2.3",
+"2.2",
+"1.7",
+"2.1",
+"2.6",
+"2",
+"1.6",
+"3",
+"4.2"
+],
+[
+"\"Amsterdam\"",
+"1.7",
+"1.7",
+"1.4",
+"1.5",
+"1.9",
+"1.9",
+"1.6",
+"1.7",
+"2.9",
+"4.5"
+],
+[
+"\"Totaal Nederland\"",
+"2.8",
+"2.6",
+"2.4",
+"2.3",
+"2.6",
+"2.6",
+"2.3",
+"2.2",
+"3",
+"3.5"
+]
+]
+},
+"up_vTwz6V": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-internationale-vergelijking/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Land\"",
+"\"Laatste jaar\"",
+"\"Peiljaar\""
+],
+[
+"\"Bulgarije\"",
+"\"3,5\"",
+"2024"
+],
+[
+"\"Finland\"",
+"\"2,3\"",
+"2022"
+],
+[
+"\"Estland\"",
+"\"1,8\"",
+"2023"
+],
+[
+"\"Nederland\"",
+"\"1,6\"",
+"2024"
+],
+[
+"\"Oostenrijk\"",
+"\"1,2\"",
+"2022"
+],
+[
+"\"Kroatië\"",
+"1",
+"2015"
+],
+[
+"\"Noorwegen\"",
+"1",
+"2024"
+],
+[
+"\"Tsjechië\"",
+"\"0,7\"",
+"2023"
+],
+[
+"\"Duitsland\"",
+"\"0,7\"",
+"2024"
+],
+[
+"\"Italië\"",
+"\"0,7\"",
+"2022"
+],
+[
+"\"Polen\"",
+"\"0,7\"",
+"2024"
+],
+[
+"\"Zweden\"",
+"\"0,7\"",
+"2021"
+],
+[
+"\"Denemarken\"",
+"\"0,6\"",
+"2023"
+],
+[
+"\"Frankrijk\"",
+"\"0,6\"",
+"2023"
+],
+[
+"\"Letland\"",
+"\"0,6\"",
+"2020"
+],
+[
+"\"Spanje\"",
+"\"0,6\"",
+"2024"
+],
+[
+"\"België\"",
+"\"0,5\"",
+"2018"
+],
+[
+"\"Cyprus\"",
+"\"0,5\"",
+"2022"
+],
+[
+"\"Roemenië\"",
+"\"0,5\"",
+"2024"
+],
+[
+"\"Slovenië\"",
+"\"0,5\"",
+"2023"
+],
+[
+"\"Ierland\"",
+"\"0,4\"",
+"2023"
+],
+[
+"\"Litouwen\"",
+"\"0,2\"",
+"2021"
+],
+[
+"\"Hongarije\"",
+"\"0,1\"",
+"2023"
+],
+[
+"\"Luxemburg\"",
+"\"0,1\"",
+"2019"
+],
+[
+"\"Malta\"",
+"\"0,1\"",
+"2023"
+],
+[
+"\"Slowakije\"",
+"\"0,1\"",
+"2023"
+],
+[
+"\"Portugal\"",
+"0",
+"2016"
+]
+]
+},
+"rE0x7dsin": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-internationale-vergelijking/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Land\"",
+"\"Laatste jaar\"",
+"\"Peiljaar\""
+],
+[
+"\"Estland\"",
+"\"5,1\"",
+"2023"
+],
+[
+"\"Bulgarije\"",
+"\"4,3\"",
+"2024"
+],
+[
+"\"Finland\"",
+"4",
+"2022"
+],
+[
+"\"Nederland\"",
+"3",
+"2024"
+],
+[
+"\"Kroatië\"",
+"\"2,3\"",
+"2015"
+],
+[
+"\"Oostenrijk\"",
+"\"1,9\"",
+"2022"
+],
+[
+"\"Noorwegen\"",
+"\"1,8\"",
+"2024"
+],
+[
+"\"Duitsland\"",
+"\"1,7\"",
+"2024"
+],
+[
+"\"Zweden\"",
+"\"1,6\"",
+"2021"
+],
+[
+"\"Polen\"",
+"\"1,4\"",
+"2024"
+],
+[
+"\"Tsjechië\"",
+"\"1,3\"",
+"2023"
+],
+[
+"\"Italië\"",
+"\"1,3\"",
+"2022"
+],
+[
+"\"Letland\"",
+"\"1,2\"",
+"2020"
+],
+[
+"\"Frankrijk\"",
+"\"1,1\"",
+"2023"
+],
+[
+"\"Slovenië\"",
+"\"1,1\"",
+"2023"
+],
+[
+"\"Denemarken\"",
+"1",
+"2023"
+],
+[
+"\"Cyprus\"",
+"\"0,9\"",
+"2022"
+],
+[
+"\"België\"",
+"\"0,8\"",
+"2018"
+],
+[
+"\"Ierland\"",
+"\"0,8\"",
+"2023"
+],
+[
+"\"Roemenië\"",
+"\"0,8\"",
+"2024"
+],
+[
+"\"Spanje\"",
+"\"0,8\"",
+"2024"
+],
+[
+"\"Litouwen\"",
+"\"0,6\"",
+"2021"
+],
+[
+"\"Luxemburg\"",
+"\"0,3\"",
+"2019"
+],
+[
+"\"Malta\"",
+"\"0,1\"",
+"2023"
+],
+[
+"\"Slowakije\"",
+"\"0,1\"",
+"2023"
+],
+[
+"\"Hongarije\"",
+"0",
+"2023"
+],
+[
+"\"Portugal\"",
+"0",
+"2016"
+]
+]
+},
+"m2pcFCzpo": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-internationale-vergelijking/",
+"title": "Top 10 steden met de hoogste dagelijkse hoeveelheid amfetamine (in mg per 1.000 inwoners) van 120 Europese steden, waaronder 5 Nederlandse steden",
+"caption": "Bron: SCORE, EUDA.",
+"table": [
+[
+"",
+"Stad",
+"Land",
+"Dagelijkse hoeveelheid (in mg)"
+],
+[
+"1",
+"Hasselt",
+"België",
+"449,71"
+],
+[
+"2",
+"Gävle",
+"Zweden",
+"448,4"
+],
+[
+"3",
+"Eindhoven",
+"Nederland",
+"425,43"
+],
+[
+"4",
+"Trondheim",
+"Noorwegen",
+"375,32"
+],
+[
+"5",
+"Bergen",
+"Noorwegen",
+"294,31"
+],
+[
+"6",
+"Esbjerg",
+"Denemarken",
+"293,72"
+],
+[
+"7",
+"Oslo",
+"Noorwegen",
+"279,95"
+],
+[
+"8",
+"Nieuwegein",
+"Nederland",
+"236,35"
+],
+[
+"9",
+"Antwerpen (Zuid)",
+"België",
+"233,53"
+],
+[
+"10",
+"Trollhättan",
+"Zweden",
+"232,06"
+]
+]
+},
+"BnEYKsEDQ": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-internationale-vergelijking/",
+"title": "Top 10 steden met de hoogste dagelijkse hoeveelheid methamfetamine (in mg per 1.000 inwoners) van 122 Europese steden, waaronder 5 Nederlandse steden",
+"caption": "Bron: SCORE, EUDA.",
+"table": [
+[
+"",
+"Stad",
+"Land",
+"Dagelijkse hoeveelheid (in mg)"
+],
+[
+"1",
+"České Budějovice",
+"Tsjechië",
+"596,5"
+],
+[
+"2",
+"Ústí nad Labem",
+"Tsjechië",
+"586,34"
+],
+[
+"3",
+"Pilsen",
+"Tsjechië",
+"499,44"
+],
+[
+"4",
+"Karlsbad",
+"Tsjechië",
+"428,46"
+],
+[
+"5",
+"Praag",
+"Tsjechië",
+"418,49"
+],
+[
+"6",
+"Chemnitz",
+"Duitsland",
+"381,6"
+],
+[
+"7",
+"Erfurt",
+"Duitsland",
+"371,23"
+],
+[
+"8",
+"Brno",
+"Tsjechië",
+"360,16"
+],
+[
+"9",
+"Dresden",
+"Duitsland",
+"327,16"
+],
+[
+"10",
+"Piešťany",
+"Slowakije",
+"326,67"
+]
+]
+},
+"5WJGb99dA": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-internationale-vergelijking/",
+"title": "",
+"caption": "",
+"table": [
+[
+"",
+"\"Amsterdam\"",
+"\"Eindhoven\"",
+"\"Utrecht\"",
+"\"Rotterdam\"",
+"\"Leeuwarden\"",
+"\"Zwolle\"",
+"\"Groningen\"",
+"\"Nieuwegein\""
+],
+[
+"2011",
+"\"123,57\"",
+"",
+"\"83,46\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2012",
+"\"27,59\"",
+"\"416,75\"",
+"\"46,67\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2013",
+"\"70,81\"",
+"",
+"\"46,52\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2014",
+"\"89,94\"",
+"\"203,73\"",
+"\"111,06\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2015",
+"\"59,06\"",
+"",
+"\"36,43\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2016",
+"",
+"",
+"\"97,94\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2017",
+"\"123,29\"",
+"\"271,73\"",
+"\"74,89\"",
+"",
+"",
+"",
+"",
+"\"81,09\""
+],
+[
+"2018",
+"\"154,26\"",
+"",
+"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2019",
+"\"164,43\"",
+"",
+"\"144,77\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2020",
+"\"107,6\"",
+"\"271,53\"",
+"\"175,65\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2021",
+"\"146,77\"",
+"",
+"\"236,8\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2022",
+"\"148,8\"",
+"",
+"\"221,78\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2023",
+"\"122,02\"",
+"",
+"",
+"\"237,16\"",
+"\"330,66\"",
+"",
+"",
+""
+],
+[
+"2024",
+"\"172,25\"",
+"\"311,26\"",
+"\"304,26\"",
+"\"173,2\"",
+"",
+"\"272,17\"",
+"\"247,35\"",
+""
+],
+[
+"2025",
+"\"155,59\"",
+"\"425,43\"",
+"\"230,44\"",
+"\"179,17\"",
+"",
+"",
+"",
+"\"236,35\""
+]
+]
+},
+"wvqMjOrn2": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-gebruik-internationale-vergelijking/",
+"title": "",
+"caption": "",
+"table": [
+[
+"",
+"\"Amsterdam\"",
+"\"Eindhoven\"",
+"\"Utrecht\"",
+"\"Rotterdam\"",
+"\"Leeuwarden\"",
+"\"Groningen\"",
+"\"Zwolle\"",
+"\"Nieuwegein\""
+],
+[
+"2011",
+"\"0,00\"",
+"\"0,00\"",
+"\"0,00\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2012",
+"\"6,41\"",
+"\"0,00\"",
+"\"1,4\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2013",
+"\"5,24\"",
+"\"0,00\"",
+"\"0,00\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2014",
+"\"2,96\"",
+"",
+"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2015",
+"\"6,96\"",
+"",
+"\"0,00\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2016",
+"",
+"\"2,31\"",
+"\"0,00\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2017",
+"\"14,01\"",
+"\"0,00\"",
+"\"0,00\"",
+"",
+"",
+"",
+"",
+"0"
+],
+[
+"2018",
+"\"28,58\"",
+"\"2,69\"",
+"\"0,00\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2019",
+"\"31,49\"",
+"",
+"\"8,79\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2020",
+"\"26,53\"",
+"\"26,61\"",
+"\"4,83\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2021",
+"\"38,18\"",
+"",
+"\"5,7\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2022",
+"\"39,96\"",
+"",
+"\"6,86\"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"2023",
+"\"40,62\"",
+"\"29,95\"",
+"\"4,92\"",
+"\"12,37\"",
+"\"25,69\"",
+"",
+"",
+""
+],
+[
+"2024",
+"\"64,4\"",
+"",
+"\"8,64\"",
+"\"9,8\"",
+"",
+"\"3,44\"",
+"\"1,14\"",
+""
+],
+[
+"2025",
+"\"55,04\"",
+"\"16,22\"",
+"\"11,09\"",
+"\"20,31\"",
+"",
+"",
+"",
+"\"3,88\""
+]
+]
+},
+"NWU3cHbvn": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-hulpvraag-en-incidenten/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Aantal\""
+],
+[
+"\"Alcohol\"",
+"29206"
+],
+[
+"\"Cannabis\"",
+"10912"
+],
+[
+"\"Cocaïne\"",
+"7788"
+],
+[
+"\"Opioïden\"",
+"6913"
+],
+[
+"\"Amfetamine\"",
+"1606"
+],
+[
+"\"Medicijnen\"",
+"1623"
+],
+[
+"\"GHB\"",
+"699"
+],
+[
+"\"Ecstasy\"",
+"169"
+],
+[
+"\"Overige middelen\"",
+"4242"
+],
+[
+"\"Gokken en overige gedragsverslavingen\"",
+"4708"
+]
+]
+},
+"JoLa5HdpS": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-hulpvraag-en-incidenten/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Aantal\"",
+"\"Percentage\""
+],
+[
+"\"Cannabis\"",
+"10912",
+""
+],
+[
+"\"Cocaïne\"",
+"7788",
+""
+],
+[
+"\"Opioïden\"",
+"6913",
+""
+],
+[
+"\"Amfetamine\"",
+"1606",
+""
+],
+[
+"\"Medicijnen\"",
+"1623",
+""
+],
+[
+"\"GHB\"",
+"699",
+""
+],
+[
+"\"Ecstasy\"",
+"169",
+""
+],
+[
+"\"Overige middelen\"",
+"4242",
+""
+]
+]
+},
+"cobh3OuE8": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-kwetsbare-groepen-jongeren/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Ooit\"",
+"\"Laatste jaar\""
+],
+[
+"2008",
+"\"7,4\"",
+""
+],
+[
+"2019",
+"\"4,8\"",
+"\"3,5\""
+],
+[
+"2025",
+"\"3,3\"",
+"\"1,9\""
+]
+]
+},
+"nTqxZerT-": {
+"page": "https://www.nationaledrugmonitor.nl/amfetamine-kwetsbare-groepen-jongeren/",
+"title": "",
+"caption": "",
+"table": [
+[
+"\"Category\"",
+"\"Ooit\"",
+"\"Laatste jaar\""
+],
+[
+"2008",
+"\"1,3\"",
+""
+],
+[
+"2019",
+"\"2,1\"",
+"\"1,8\""
+],
+[
+"2025",
+"\"0,4\"",
+"\"0,1\""
+]
+]
+}
+}

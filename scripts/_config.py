@@ -122,8 +122,38 @@ _mdma_use_corr=[("h01_lastyear_use_pct","Last-year use 12+ (CBS)"),("h01_lastyea
 ("h11_wastewater_amsterdam","Wastewater, Amsterdam"),("h11_wastewater_eindhoven","Wastewater, Eindhoven"),("h11_wastewater_utrecht","Wastewater, Utrecht"),
 ("h12_mdma_per_pill_mg","MDMA per pill"),("h12_pills_over_140mg_pct","Pills >140 mg"),("h12_pills_over_210mg_pct","Pills >210 mg")]
 
-PANELS={"cocaine":{"crime":_coc_crime,"use":_coc_use},"cannabis":{"crime":_can_crime,"use":_can_use},"mdma":{"crime":_mdma_crime,"use":_mdma_use}}
-CORR={"cocaine":{"crime":_coc_crime_corr,"use":_coc_use_corr},"cannabis":{"crime":_can_crime_corr,"use":_can_use_corr},"mdma":{"crime":_mdma_crime_corr,"use":_mdma_use_corr}}
+_amph_crime=[("Synthetic-drug production sites dismantled",[("c20_synthetic_production_sites","production"),("c20_synthetic_storage_sites","storage")],"sites"),
+("Methamphetamine labs dismantled",[("c20_meth_labs_dismantled",None)],"labs"),
+("Dumpings of drug waste",[("c22_drug_waste_dumpings",None)],"dumpings"),
+("OM investigations, synthetic drugs",[("c10_investigations_synthetic_drugs",None)],"investigations"),
+("Pre-precursors seized",[("c23_precursors_all_kg","all synthetic drugs"),("c23_precursors_bmk_kg","BMK-type (amphetamine)")],"kg"),
+("Amphetamine seized by Douane (kg)",[("c01_seized_douane_amphetamine_kg",None)],"kg"),
+("Amphetamine seizures by Douane (number)",[("c01_seizures_douane_amphetamine_n",None)],"seizures"),
+("Hard-drug offences registered (all list I)",[("c09_harddrug_offences_registered",None)],"offences"),
+("Price of amphetamine (speed)",[("c18_price_eur_g",None)],"€ per gram"),
+("Perceived drug nuisance in neighbourhood",[("c16_nuisance_drug_dealing_pct","dealing"),("c16_nuisance_drug_use_pct","use")],"% of residents")]
+_amph_use=[("Last-year use",[("h01_lastyear_use_pct","CBS, 12+"),("h01_lastyear_use_18plus_pct","NDM, 18+")],"% of population"),
+("Last-month use",[("h01_lastmonth_use_pct","CBS, 12+"),("h01_lastmonth_use_18plus_pct","NDM, 18+")],"% of population"),
+("Lifetime use",[("h01_lifetime_use_pct","CBS, 12+"),("h01_lifetime_use_18plus_pct","NDM, 18+")],"% of population"),
+("Lifetime use, pupils 12–16 and mbo students",[("h03_lifetime_use_pupils_pct","pupils"),("h04_lifetime_use_mbo_pct","mbo students")],"% of pupils/students"),
+("Treatment, amphetamine primary problem",[("h05_treatment_all_institutions","all institutions"),("h05_treatment_constant_institutions","constant institutions")],"clients"),
+("Treatment, amphetamine secondary problem",[("h05_treatment_secondary_all","all institutions"),("h05_treatment_secondary_constant","constant institutions")],"clients"),
+("Hospital admissions with amphetamine diagnosis",[("h07_hospital_main_diagnosis","main diagnosis"),("h07_hospital_secondary_diagnosis","secondary diagnosis")],"admissions"),
+("Drug incidents involving amphetamine (MDI)",[("h06_share_ambulance_pct","ambulance"),("h06_share_mdi_hospitals_pct","MDI hospitals"),("h06_share_lis_hospitals_pct","LIS hospitals")],"% of drug incidents"),
+("Deaths from psychostimulants",[("h08_deaths_psychostimulants",None)],"deaths (incl. MDMA)"),
+("Amphetamine in wastewater",[("h11_wastewater_amsterdam","Amsterdam"),("h11_wastewater_eindhoven","Eindhoven"),("h11_wastewater_utrecht","Utrecht")],"mg/1,000 inh./day"),
+("Amphetamine content of speed",[("h12_amphetamine_purity_pct",None)],"% amphetamine (mean, DIMS)")]
+_amph_crime_corr=[("c20_synthetic_production_sites","Production sites"),("c20_synthetic_storage_sites","Storage sites"),("c20_meth_labs_dismantled","Meth labs"),("c22_drug_waste_dumpings","Drug waste dumpings"),
+("c10_investigations_synthetic_drugs","OM investigations, synthetic"),("c23_precursors_all_kg","Pre-precursors, all kg"),("c23_precursors_bmk_kg","Pre-precursors, BMK kg"),
+("c01_seized_douane_amphetamine_kg","Seized, amphetamine kg"),("c01_seizures_douane_amphetamine_n","Seizures, amphetamine n"),("c09_harddrug_offences_registered","Hard-drug offences"),("c18_price_eur_g","Price per gram")]
+_amph_use_corr=[("h01_lastyear_use_pct","Last-year use 12+ (CBS)"),("h01_lastyear_use_18plus_pct","Last-year use 18+ (NDM)"),("h01_lastmonth_use_pct","Last-month use (CBS)"),("h01_lifetime_use_pct","Lifetime use (CBS)"),
+("h04_lifetime_use_mbo_pct","mbo students, lifetime"),("h05_treatment_all_institutions","Treatment, all inst."),("h05_treatment_constant_institutions","Treatment, constant inst."),
+("h05_treatment_secondary_all","Treatment secondary, all"),("h07_hospital_main_diagnosis","Hospital, main diagnosis"),("h07_hospital_secondary_diagnosis","Hospital, secondary diagnosis"),
+("h06_share_ambulance_pct","MDI share, ambulance"),("h06_share_lis_hospitals_pct","MDI share, LIS hospitals"),("h08_deaths_psychostimulants","Deaths, psychostimulants"),
+("h11_wastewater_amsterdam","Wastewater, Amsterdam"),("h11_wastewater_eindhoven","Wastewater, Eindhoven"),("h11_wastewater_utrecht","Wastewater, Utrecht"),("h12_amphetamine_purity_pct","Amphetamine content")]
+
+PANELS={"cocaine":{"crime":_coc_crime,"use":_coc_use},"cannabis":{"crime":_can_crime,"use":_can_use},"mdma":{"crime":_mdma_crime,"use":_mdma_use},"amphetamine":{"crime":_amph_crime,"use":_amph_use}}
+CORR={"cocaine":{"crime":_coc_crime_corr,"use":_coc_use_corr},"cannabis":{"crime":_can_crime_corr,"use":_can_use_corr},"mdma":{"crime":_mdma_crime_corr,"use":_mdma_use_corr},"amphetamine":{"crime":_amph_crime_corr,"use":_amph_use_corr}}
 TEXT={
  "cocaine":{"crime_sub":"Enforcement, violence, recruitment, trade and market indicators, 2003–2025",
             "use_sub":"Prevalence, treatment, acute harm, mortality, consumption and product risk, 2003–2025",
@@ -134,4 +164,7 @@ TEXT={
              "sources":"CBS, Nationale Drug Monitor (Trimbos, LADIS, Politie, Douane, OM)","first":1999,"note":""},
  "mdma":{"crime_sub":"Synthetic-drug production, environmental crime, trade, enforcement and market indicators, 2003–2025",
          "use_sub":"Prevalence, treatment, acute harm, mortality, consumption and product risk, 2003–2025",
-         "sources":"CBS, Nationale Drug Monitor (Trimbos DIMS, LADIS, Politie, Douane, OM), Monitor Drugsincidenten","first":2003,"note":""}}
+         "sources":"CBS, Nationale Drug Monitor (Trimbos DIMS, LADIS, Politie, Douane, OM), Monitor Drugsincidenten","first":2003,"note":""},
+ "amphetamine":{"crime_sub":"Synthetic-drug production, environmental crime, trade, enforcement and market indicators, 2003–2025",
+         "use_sub":"Prevalence, treatment, hospital and acute harm, mortality, consumption and product purity, 2003–2025",
+         "sources":"CBS, Nationale Drug Monitor (Trimbos DIMS, LADIS, LBZ, Politie, Douane, OM), Monitor Drugsincidenten","first":2003,"note":""}}

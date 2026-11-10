@@ -1,6 +1,6 @@
 """Combine all sources for one drug into one dataset.
 
-Usage: python scripts/04_build_dataset.py cocaine|cannabis|mdma
+Usage: python scripts/04_build_dataset.py cocaine|cannabis|mdma|amphetamine
 
 Inputs
   data/raw/<drug>/manual_values.csv  values copied from reports, press releases and NDM chart data
@@ -16,7 +16,7 @@ from _paths import RAW, PROCESSED
 
 DRUG = sys.argv[1] if len(sys.argv) > 1 else "cocaine"
 API = "https://opendata.cbs.nl/ODataApi/odata/"
-FIRST_YEAR = {"cocaine": 2003, "cannabis": 1999, "mdma": 2003}[DRUG]
+FIRST_YEAR = {"cocaine": 2003, "cannabis": 1999, "mdma": 2003, "amphetamine": 2003}[DRUG]
 rows = list(csv.DictReader(open(RAW / DRUG / "manual_values.csv", encoding="utf-8")))
 
 # --- CBS open data -----------------------------------------------------------
@@ -54,6 +54,15 @@ CBS = {
         ("H01", "use", "h01_lifetime_use_pct", LSM, "lsm_Ooit_43", "85457NED", 0, 9999, "exact"),
         ("C09", "crime", "c09_harddrug_offences_registered", "offences (all list I drugs, not MDMA-specific)", "reg_harddrug", "83648NED", 0, 9999, "exact"),
         ("C09", "crime", "c09_harddrug_offences_registered", "offences (all list I drugs, not MDMA-specific)", "reg_harddrug_old", "83363NED", 0, 2009, "exact (older table 83363NED)"),
+        ("C16", "crime", "c16_nuisance_drug_use_pct", VM, "vm_druguse_nuis", "85146NED", 0, 9999, "exact"),
+        ("C16", "crime", "c16_nuisance_drug_dealing_pct", VM, "vm_drugdeal_nuis", "85146NED", 0, 9999, "exact"),
+    ],
+    "amphetamine": [
+        ("H01", "use", "h01_lastyear_use_pct", LSM, "lsm_AfgelopenJaar_39", "85457NED", 0, 9999, "exact"),
+        ("H01", "use", "h01_lastmonth_use_pct", LSM, "lsm_AfgelopenMaand_38", "85457NED", 0, 9999, "exact"),
+        ("H01", "use", "h01_lifetime_use_pct", LSM, "lsm_Ooit_40", "85457NED", 0, 9999, "exact"),
+        ("C09", "crime", "c09_harddrug_offences_registered", "offences (all list I drugs, not amphetamine-specific)", "reg_harddrug", "83648NED", 0, 9999, "exact"),
+        ("C09", "crime", "c09_harddrug_offences_registered", "offences (all list I drugs, not amphetamine-specific)", "reg_harddrug_old", "83363NED", 0, 2009, "exact (older table 83363NED)"),
         ("C16", "crime", "c16_nuisance_drug_use_pct", VM, "vm_druguse_nuis", "85146NED", 0, 9999, "exact"),
         ("C16", "crime", "c16_nuisance_drug_dealing_pct", VM, "vm_drugdeal_nuis", "85146NED", 0, 9999, "exact"),
     ],

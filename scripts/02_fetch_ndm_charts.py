@@ -1,6 +1,6 @@
 """Download the chart data behind the Nationale Drug Monitor's pages for one drug.
 
-Usage: python scripts/02_fetch_ndm_charts.py cocaine|cannabis|mdma
+Usage: python scripts/02_fetch_ndm_charts.py cocaine|cannabis|mdma|amphetamine
 
 The NDM website draws its charts with everviz; each chart's data table is fetched
 from app.everviz.com. Writes data/raw/<drug>/ndm_charts.json:
@@ -11,7 +11,7 @@ import html, json, re, sys, urllib.request
 from _paths import RAW
 
 DRUG = sys.argv[1] if len(sys.argv) > 1 else "cocaine"
-SLUG = {"mdma": "ecstasy"}.get(DRUG, DRUG)      # NDM chapter name
+SLUG = {"mdma": "ecstasy", "amphetamine": "amfetamine"}.get(DRUG, DRUG)      # NDM chapter name
 NDM = "https://www.nationaledrugmonitor.nl/"
 UA = {"User-Agent": "Mozilla/5.0"}
 fetch = lambda url: urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=90).read().decode("utf-8")
@@ -30,7 +30,10 @@ for page in PAGES:
         charts.setdefault(cid, page)
 
 out = {}
-for cid, page in charts.items():
+todo = list(charts.items())
+while todo:
+    cid, page = todo.pop(0)
+    if cid in out: continue
     js = fetch(f"https://app.everviz.com/inject/{cid}/")
     m = re.search(r"var options = (\{.*?\});\s*\n", js, re.S)
     if not m: continue
@@ -44,6 +47,8 @@ for cid, page in charts.items():
     table = data.get("value") or [r.split(";") for r in (data.get("csv") or "").split("\n")]
     out[cid] = {"page": NDM + page + "/", "title": title, "caption": caption,
                 "table": [[clean(c) for c in row] if isinstance(row, list) else row for row in table]}
+    # layered charts (tabs) list their sub-charts by hash; fetch those too (e.g. amphetamine wastewater)
+    todo += [(r["hash"], page) for r in out[cid]["table"] if isinstance(r, dict) and r.get("hash")]
 
 (RAW / DRUG).mkdir(parents=True, exist_ok=True)
 json.dump(out, open(RAW / DRUG / "ndm_charts.json", "w"), ensure_ascii=False, indent=0)
