@@ -1,13 +1,18 @@
 """Correlation matrices (Pearson r, pairwise complete years, min. 5 shared years), one per dimension.
 
-Reads data/processed/cocaine_harm_long.csv; writes output/figures/cocaine_*_correlations.png and output/tables/cocaine_*_correlations.csv.
+Usage: python scripts/06_plot_correlations.py cocaine|cannabis
+Reads data/processed/<drug>_harm_long.csv; writes output/figures/<drug>_*_correlations.png and output/tables/<drug>_*_correlations.csv.
+Indicators per drug are defined in scripts/_config.py.
 """
-import csv, math, matplotlib
+import csv, math, sys, matplotlib
 from _paths import PROCESSED, FIGURES, TABLES
+from _config import CORR
+DRUG = sys.argv[1] if len(sys.argv) > 1 else "cocaine"
+MINN = 5
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
-L=list(csv.DictReader(open(PROCESSED / 'cocaine_harm_long.csv', encoding='utf-8')))
+L=list(csv.DictReader(open(PROCESSED / f'{DRUG}_harm_long.csv', encoding='utf-8')))
 V={}
 for x in L:
     if "different institution base" in x['flag']: continue
@@ -15,18 +20,6 @@ for x in L:
 SURF="#fcfcfb"; T1="#0b0b0b"; T2="#52514e"; MISS="#ffffff"
 cmap=LinearSegmentedColormap.from_list("div",["#e34948","#f0efec","#2a78d6"])
 MINN=5
-crime=[("c09_harddrug_offences_registered","Hard-drug offences"),("c09_harddrug_suspect_registrations","Hard-drug suspects"),
-("c07_murder_victims_total","Murder victims, total"),("c07_murder_victims_firearm","Murder victims, firearm"),
-("c05_murders_criminal_milieu","Criminal-milieu murders"),("c06_liquidations","Liquidations"),("c08_explosive_attacks","Explosive attacks"),
-("c03_uithalers_apprehended","Uithalers"),("c01_seized_douane_total_kg","Seized, Douane total kg"),("c01_seized_douane_maritime_kg","Seized, Douane maritime kg"),
-("c01_seized_harc_rotterdam_kg","Seized, HARC Rotterdam kg"),("c01_seizures_douane_total_n","Seizures, Douane total n"),("c01_seizures_douane_maritime_n","Seizures, Douane maritime n"),
-("c10_investigations_org_drug_crime","OM investigations, all drugs"),("c10_investigations_cocaine_heroin","OM investigations, coc./her."),("c18_retail_price_eur_g","Retail price")]
-use=[("h01_lastyear_use_pct","Last-year use (CBS)"),("h01b_lastyear_use_18plus_ndm_pct","Last-year use 18+ (NDM)"),("h01_lastmonth_use_pct","Last-month use (CBS)"),("h01_lifetime_use_pct","Lifetime use (CBS)"),
-("h05_treatment_all_institutions","Treatment, all inst."),("h05_treatment_constant_institutions","Treatment, constant inst."),("h05_treatment_secondary_all","Treatment secondary, all"),("h05_treatment_secondary_constant","Treatment secondary, constant"),
-("h08_deaths_cocaine","Deaths (NDM)"),("h08_deaths_f14_underlying","Deaths (F14 underlying)"),("h09_hospital_main_dx","Hospital, main dx"),("h09_hospital_secondary_dx","Hospital, secondary dx"),
-("h06_mdi_incidents_share_pct","Incident share, all services"),("h06_mdi_share_mdi_hospitals_pct","Incident share, MDI hospitals"),("h06_mdi_share_ambulance_pct","Incident share, ambulance"),
-("h11_wastewater_amsterdam","Wastewater, Amsterdam"),("h11_wastewater_eindhoven","Wastewater, Eindhoven"),("h11_wastewater_utrecht","Wastewater, Utrecht"),
-("h12_purity_dims_pct","Purity (DIMS)"),("h12_adulterated_share_pct","Adulterated share"),("h12_levamisole_share_pct","Levamisole share")]
 def pr(a,b):
     ys=sorted(set(V[a])&set(V[b])); n=len(ys)
     if n<3: return None,n
@@ -65,5 +58,5 @@ def fig(items,title,out,csvout):
     f.savefig(out,dpi=150,facecolor=SURF)
     with open(csvout,"w",newline="") as fh: w=csv.writer(fh); w.writerow(["var1","var2","r","n"]); w.writerows(rows)
     print(out)
-fig(crime,"Correlations between crime harm indicators, cocaine, Netherlands",FIGURES / "cocaine_crime_correlations.png",TABLES / "cocaine_crime_correlations.csv")
-fig(use,"Correlations between use and dependency harm indicators, cocaine, Netherlands",FIGURES / "cocaine_use_correlations.png",TABLES / "cocaine_use_correlations.csv")
+fig(CORR[DRUG]["crime"],f"Correlations between crime harm indicators, {DRUG}, Netherlands",FIGURES / f"{DRUG}_crime_correlations.png",TABLES / f"{DRUG}_crime_correlations.csv")
+fig(CORR[DRUG]["use"],f"Correlations between use and dependency harm indicators, {DRUG}, Netherlands",FIGURES / f"{DRUG}_use_correlations.png",TABLES / f"{DRUG}_use_correlations.csv")

@@ -1,8 +1,8 @@
-"""Derive cocaine incidents per medical service from the Monitor Drugsincidenten 2024 report.
+"""(Cocaine only.) Derive cocaine incidents per medical service from the Monitor Drugsincidenten 2024 report.
 
 Figure 3.2 (page 43) is a stacked bar chart of cocaine incidents by service, 2020-2024.
 Bar segments are read from the PDF's vector drawing commands and multiplied by the
-yearly totals printed above the bars. Writes data/raw/mdi/mdi_services.json:
+yearly totals printed above the bars. Writes data/raw/cocaine/mdi/mdi_services.json:
 {year: {service: [share_pct, count], 'total': n}}.
 """
 import json, urllib.request
@@ -10,7 +10,7 @@ import pymupdf
 from _paths import RAW
 
 URL = "https://www.trimbos.nl/wp-content/uploads/2026/05/TRI-41-031_Monitor-Drugsincidenten-Jaarrapportage-2024.pdf"
-pdf = RAW / "mdi" / "MDI-jaarrapportage-2024.pdf"
+pdf = RAW / "cocaine" / "mdi" / "MDI-jaarrapportage-2024.pdf"
 pdf.parent.mkdir(parents=True, exist_ok=True)
 if not pdf.exists():
     pdf.write_bytes(urllib.request.urlopen(urllib.request.Request(URL, headers={"User-Agent": "Mozilla/5.0"}), timeout=120).read())
@@ -29,5 +29,5 @@ for x, (year, total) in zip(BAR_X, TOTALS.items()):
     H = sum(h.values())
     out[year] = {k: (round(v / H * 100, 1), round(v / H * total)) for k, v in h.items()}
     out[year]["total"] = total
-json.dump(out, open(RAW / "mdi" / "mdi_services.json", "w"))
+json.dump(out, open(RAW / "cocaine" / "mdi" / "mdi_services.json", "w"))
 for y, v in out.items(): print(y, v)

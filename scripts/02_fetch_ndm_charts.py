@@ -1,22 +1,24 @@
-"""Download the chart data behind the Nationale Drug Monitor's cocaine pages.
+"""Download the chart data behind the Nationale Drug Monitor's pages for one drug.
+
+Usage: python scripts/02_fetch_ndm_charts.py cocaine|cannabis
 
 The NDM website draws its charts with everviz; each chart's data table is fetched
-from app.everviz.com. Writes data/raw/ndm_charts/ndm_cocaine_charts.json:
-{chart_id: {page, title, caption, table}}. Values in data/raw/manual_values.csv
+from app.everviz.com. Writes data/raw/<drug>/ndm_charts.json:
+{chart_id: {page, title, caption, table}}. Values in data/raw/<drug>/manual_values.csv
 flagged 'NDM chart data' were taken from these tables.
 """
-import html, json, re, urllib.request
+import html, json, re, sys, urllib.request
 from _paths import RAW
 
+DRUG = sys.argv[1] if len(sys.argv) > 1 else "cocaine"
 NDM = "https://www.nationaledrugmonitor.nl/"
-PAGES = [f"cocaine-{p}" for p in ["aanbod-en-markt", "algemene-ziekenhuizen", "gebruik-algemene-bevolking",
-         "hulpvraag-en-incidenten", "incidenten", "prijzen", "problematisch-gebruik", "sterfte",
-         "ziekte-en-sterfte", "gebruik-jongeren-en-jongvolwassenen", "uitgaande-jongeren-en-jongvolwassenen",
-         "scholieren-veranderingen-gebruik", "gebruik-internationale-vergelijking", "laatste-feiten-en-trends"]]
-PAGES += [f"illegale-handel-bezit-en-productie-{p}" for p in ["liquidaties", "georganiseerde-misdaad-en-drugshandel",
-          "inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties"]]
 UA = {"User-Agent": "Mozilla/5.0"}
 fetch = lambda url: urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=90).read().decode("utf-8")
+# all pages of the drug's chapter, plus the justice chapter pages
+chapter = fetch(NDM + DRUG + "/")
+PAGES = sorted(set(re.findall(rf"{NDM}({DRUG}-[a-z0-9-]+)/", chapter)))
+PAGES += [f"illegale-handel-bezit-en-productie-{p}" for p in ["liquidaties", "georganiseerde-misdaad-en-drugshandel",
+          "inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties", "opiumwetdelicten"]]
 clean = lambda s: html.unescape(re.sub(r"<[^>]+>", "", s)).strip() if isinstance(s, str) else s
 
 charts = {}
@@ -42,6 +44,6 @@ for cid, page in charts.items():
     out[cid] = {"page": NDM + page + "/", "title": title, "caption": caption,
                 "table": [[clean(c) for c in row] if isinstance(row, list) else row for row in table]}
 
-(RAW / "ndm_charts").mkdir(parents=True, exist_ok=True)
-json.dump(out, open(RAW / "ndm_charts" / "ndm_cocaine_charts.json", "w"), ensure_ascii=False, indent=0)
+(RAW / DRUG).mkdir(parents=True, exist_ok=True)
+json.dump(out, open(RAW / DRUG / "ndm_charts.json", "w"), ensure_ascii=False, indent=0)
 print("saved", len(out), "charts")

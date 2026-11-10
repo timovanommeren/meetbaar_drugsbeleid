@@ -1,0 +1,430 @@
+indicator_id,dimension,column,unit,year,value,flag,source_url
+C01,crime,c01_seized_douane_hash_kg,kg,2016,250,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_hash_kg,kg,2017,716,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_hash_kg,kg,2018,3910,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_hash_kg,kg,2019,299,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_hash_kg,kg,2020,1010,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_hash_kg,kg,2021,172,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_hash_kg,kg,2022,293,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_hash_kg,kg,2023,253,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_hash_kg,kg,2024,255,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_weed_kg,kg,2016,1299,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_weed_kg,kg,2017,2852,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_weed_kg,kg,2018,322,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_weed_kg,kg,2019,583,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_weed_kg,kg,2020,514,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_weed_kg,kg,2021,734,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_weed_kg,kg,2022,5492,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_weed_kg,kg,2023,3832,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seized_douane_weed_kg,kg,2024,14492,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_hash_n,seizures,2016,58,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_hash_n,seizures,2017,68,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_hash_n,seizures,2018,93,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_hash_n,seizures,2019,101,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_hash_n,seizures,2020,106,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_hash_n,seizures,2021,123,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_hash_n,seizures,2022,1161,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_hash_n,seizures,2023,669,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_hash_n,seizures,2024,710,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_weed_n,seizures,2016,110,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_weed_n,seizures,2017,90,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_weed_n,seizures,2018,125,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_weed_n,seizures,2019,231,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_weed_n,seizures,2020,393,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_weed_n,seizures,2021,2439,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_weed_n,seizures,2022,4381,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_weed_n,seizures,2023,3186,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C01,crime,c01_seizures_douane_weed_n,seizures,2024,7397,"exact (NDM chart data, chart Bfut2iy3y)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C09,crime,c09b_softdrug_incidents_police,incidents,2015,4788,"exact (NDM chart data, chart 8V1CjrHvb)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-opiumwetdelicten/
+C09,crime,c09b_softdrug_incidents_police,incidents,2016,4463,"exact (NDM chart data, chart 8V1CjrHvb)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-opiumwetdelicten/
+C09,crime,c09b_softdrug_incidents_police,incidents,2017,4162,"exact (NDM chart data, chart 8V1CjrHvb)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-opiumwetdelicten/
+C09,crime,c09b_softdrug_incidents_police,incidents,2018,4031,"exact (NDM chart data, chart 8V1CjrHvb)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-opiumwetdelicten/
+C09,crime,c09b_softdrug_incidents_police,incidents,2019,4445,"exact (NDM chart data, chart 8V1CjrHvb)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-opiumwetdelicten/
+C09,crime,c09b_softdrug_incidents_police,incidents,2020,4518,"exact (NDM chart data, chart 8V1CjrHvb)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-opiumwetdelicten/
+C09,crime,c09b_softdrug_incidents_police,incidents,2021,4011,"exact (NDM chart data, chart 8V1CjrHvb)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-opiumwetdelicten/
+C09,crime,c09b_softdrug_incidents_police,incidents,2022,3857,"exact (NDM chart data, chart 8V1CjrHvb)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-opiumwetdelicten/
+C09,crime,c09b_softdrug_incidents_police,incidents,2023,5399,"exact (NDM chart data, chart 8V1CjrHvb)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-opiumwetdelicten/
+C09,crime,c09b_softdrug_incidents_police,incidents,2024,6063,"exact (NDM chart data, chart 8V1CjrHvb)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-opiumwetdelicten/
+C10,crime,c10_investigations_cannabis_cultivation,OM investigations (large-scale cannabis cultivation),2015,115,"exact (NDM chart data, chart CfitEISCR)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cannabis_cultivation,OM investigations (large-scale cannabis cultivation),2016,118,"exact (NDM chart data, chart CfitEISCR)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cannabis_cultivation,OM investigations (large-scale cannabis cultivation),2017,124,"exact (NDM chart data, chart CfitEISCR)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cannabis_cultivation,OM investigations (large-scale cannabis cultivation),2018,122,"exact (NDM chart data, chart CfitEISCR)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cannabis_cultivation,OM investigations (large-scale cannabis cultivation),2019,125,"exact (NDM chart data, chart CfitEISCR)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cannabis_cultivation,OM investigations (large-scale cannabis cultivation),2020,121,"exact (NDM chart data, chart CfitEISCR)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cannabis_cultivation,OM investigations (large-scale cannabis cultivation),2021,110,"exact (NDM chart data, chart CfitEISCR)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cannabis_cultivation,OM investigations (large-scale cannabis cultivation),2022,79,"exact (NDM chart data, chart CfitEISCR)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cannabis_cultivation,OM investigations (large-scale cannabis cultivation),2023,63,"exact (NDM chart data, chart CfitEISCR)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C10,crime,c10_investigations_cannabis_cultivation,OM investigations (large-scale cannabis cultivation),2024,102,"exact (NDM chart data, chart CfitEISCR)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-georganiseerde-misdaad-en-drugshandel/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2011,7.79,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2012,9.71,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2013,9.86,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2014,9.72,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2015,8.91,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2016,9.16,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2017,9.93,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2018,9.36,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2019,9.97,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2020,9.65,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2021,11.74,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2022,10.55,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2023,10.91,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2024,10.65,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_hash_eur_g,EUR/gram (coffeeshop),2025,10.26,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2011,4.24,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2012,5.88,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2013,5.29,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2014,4.51,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2015,4.67,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2016,4.92,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2017,4.84,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2018,4.04,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2019,4.39,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2020,4.19,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2021,4.67,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2022,3.79,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2023,3.96,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2024,4.78,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_imported_weed_eur_g,EUR/gram (coffeeshop),2025,4.43,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2011,22.8,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2012,28,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2013,25.5,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2014,19.8,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2015,18.1,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2016,14.9,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2017,23,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2018,25.92,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2019,13.64,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2020,33.1,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2021,13.8,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2022,12.53,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2023,9.69,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2024,14.69,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederhasj_eur_g,EUR/gram (coffeeshop),2025,11.59,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2011,8.3,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2012,9.28,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2013,9.59,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2014,9.53,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2015,9.81,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2016,10.23,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2017,10.11,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2018,10.31,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2019,9.9,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2020,10.65,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2021,11.7,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2022,11.17,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2023,12.96,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2024,11.24,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C18,crime,c18_price_nederwiet_eur_g,EUR/gram (coffeeshop),2025,11.33,"exact (NDM chart data, chart oNYVQdr0A)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+C20,crime,c20_cannabis_farms_dismantled,farms,2014,6006,"exact (NDM chart data, chart -gkTpHjZj)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C20,crime,c20_cannabis_farms_dismantled,farms,2015,5856,"exact (NDM chart data, chart -gkTpHjZj)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C20,crime,c20_cannabis_farms_dismantled,farms,2016,5538,"exact (NDM chart data, chart -gkTpHjZj)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C20,crime,c20_cannabis_farms_dismantled,farms,2017,4670,"exact (NDM chart data, chart -gkTpHjZj)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C20,crime,c20_cannabis_farms_dismantled,farms,2018,3913,"exact (NDM chart data, chart -gkTpHjZj)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C20,crime,c20_cannabis_farms_dismantled,farms,2019,3635,"exact (NDM chart data, chart -gkTpHjZj)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C20,crime,c20_cannabis_farms_dismantled,farms,2020,2894,"exact (NDM chart data, chart -gkTpHjZj)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C20,crime,c20_cannabis_farms_dismantled,farms,2021,2285,"exact (NDM chart data, chart -gkTpHjZj)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C20,crime,c20_cannabis_farms_dismantled,farms,2022,1604,"exact (NDM chart data, chart -gkTpHjZj)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C20,crime,c20_cannabis_farms_dismantled,farms,2023,1230,"exact (NDM chart data, chart -gkTpHjZj)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C20,crime,c20_cannabis_farms_dismantled,farms,2024,895,"exact (NDM chart data, chart -gkTpHjZj)",https://www.nationaledrugmonitor.nl/illegale-handel-bezit-en-productie-inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties/
+C21,crime,c21_coffeeshops_n,coffeeshops,2011,651,"exact (NDM chart data, chart jp9nMbkfD; sum over municipality size classes)",https://www.nationaledrugmonitor.nl/cannabis-aanbod-en-markt-coffeeshops-productie-soorten/
+C21,crime,c21_coffeeshops_n,coffeeshops,2012,617,"exact (NDM chart data, chart jp9nMbkfD; sum over municipality size classes)",https://www.nationaledrugmonitor.nl/cannabis-aanbod-en-markt-coffeeshops-productie-soorten/
+C21,crime,c21_coffeeshops_n,coffeeshops,2013,605,"exact (NDM chart data, chart jp9nMbkfD; sum over municipality size classes)",https://www.nationaledrugmonitor.nl/cannabis-aanbod-en-markt-coffeeshops-productie-soorten/
+C21,crime,c21_coffeeshops_n,coffeeshops,2014,591,"exact (NDM chart data, chart jp9nMbkfD; sum over municipality size classes)",https://www.nationaledrugmonitor.nl/cannabis-aanbod-en-markt-coffeeshops-productie-soorten/
+C21,crime,c21_coffeeshops_n,coffeeshops,2015,577,"exact (NDM chart data, chart jp9nMbkfD; sum over municipality size classes)",https://www.nationaledrugmonitor.nl/cannabis-aanbod-en-markt-coffeeshops-productie-soorten/
+C21,crime,c21_coffeeshops_n,coffeeshops,2016,573,"exact (NDM chart data, chart jp9nMbkfD; sum over municipality size classes)",https://www.nationaledrugmonitor.nl/cannabis-aanbod-en-markt-coffeeshops-productie-soorten/
+C21,crime,c21_coffeeshops_n,coffeeshops,2017,564,"exact (NDM chart data, chart jp9nMbkfD; sum over municipality size classes)",https://www.nationaledrugmonitor.nl/cannabis-aanbod-en-markt-coffeeshops-productie-soorten/
+C21,crime,c21_coffeeshops_n,coffeeshops,2018,567,"exact (NDM chart data, chart jp9nMbkfD; sum over municipality size classes)",https://www.nationaledrugmonitor.nl/cannabis-aanbod-en-markt-coffeeshops-productie-soorten/
+C21,crime,c21_coffeeshops_n,coffeeshops,2019,564,"exact (NDM chart data, chart jp9nMbkfD; sum over municipality size classes)",https://www.nationaledrugmonitor.nl/cannabis-aanbod-en-markt-coffeeshops-productie-soorten/
+C21,crime,c21_coffeeshops_n,coffeeshops,2020,564,"exact (NDM chart data, chart jp9nMbkfD; sum over municipality size classes)",https://www.nationaledrugmonitor.nl/cannabis-aanbod-en-markt-coffeeshops-productie-soorten/
+C21,crime,c21_coffeeshops_n,coffeeshops,2022,565,"exact (NDM chart data, chart jp9nMbkfD; sum over municipality size classes)",https://www.nationaledrugmonitor.nl/cannabis-aanbod-en-markt-coffeeshops-productie-soorten/
+C21,crime,c21_coffeeshops_n,coffeeshops,2023,564,"exact (NDM chart data, chart jp9nMbkfD; sum over municipality size classes)",https://www.nationaledrugmonitor.nl/cannabis-aanbod-en-markt-coffeeshops-productie-soorten/
+C21,crime,c21_coffeeshops_n,coffeeshops,2024,563,"exact (NDM chart data, chart jp9nMbkfD; sum over municipality size classes)",https://www.nationaledrugmonitor.nl/cannabis-aanbod-en-markt-coffeeshops-productie-soorten/
+H01,use,h01_daily_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2015,1.2,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_daily_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2016,1.2,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_daily_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2017,1,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_daily_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2018,1.6,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_daily_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2019,1.6,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_daily_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2020,1.7,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_daily_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2021,1.7,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_daily_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2022,1.5,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_daily_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2023,1.4,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_daily_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2024,1.1,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_daily_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2025,1.4,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2015,4.2,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2016,4.1,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2017,4.5,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2018,4.6,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2019,4.9,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2020,4.9,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2021,5.1,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2022,4.8,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2023,4.9,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2024,4.2,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastmonth_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2025,4.1,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2015,6.7,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2016,6.6,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2017,7.2,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2018,7.5,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2019,7.2,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2020,7.8,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2021,8,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2022,7.8,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2023,7.6,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2024,6.9,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lastyear_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2025,7.1,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2015,21.1,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2016,20.9,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2017,21.8,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2018,23.7,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2019,22.9,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2020,22.9,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2021,24.6,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2022,23.6,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2023,24.3,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2024,23.4,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H01,use,h01_lifetime_use_18plus_pct,"% 18+ (NDM, Leefstijlmonitor)",2025,25.2,"exact (NDM chart data, chart 8wr19gK1_)",https://www.nationaledrugmonitor.nl/cannabis-demografische-kenmerken-algemene-bevolking/
+H02,use,h02_cast_risk_adults_pct,% of adults 18+ with positive CAST,2022,1.7,exact (NDM page text),https://www.nationaledrugmonitor.nl/cannabis-problematisch-gebruik-jongeren/
+H02,use,h02_cast_risk_adults_pct,% of adults 18+ with positive CAST,2024,1.7,exact (NDM page text),https://www.nationaledrugmonitor.nl/cannabis-problematisch-gebruik-jongeren/
+H02,use,h02_cast_risk_users_pct,% of last-year users with positive CAST,2016,22.1,exact (NDM page text),https://www.nationaledrugmonitor.nl/cannabis-problematisch-gebruik-jongeren/
+H02,use,h02_cast_risk_users_pct,% of last-year users with positive CAST,2018,19.1,exact (NDM page text),https://www.nationaledrugmonitor.nl/cannabis-problematisch-gebruik-jongeren/
+H02,use,h02_cast_risk_users_pct,% of last-year users with positive CAST,2020,19,exact (NDM page text),https://www.nationaledrugmonitor.nl/cannabis-problematisch-gebruik-jongeren/
+H02,use,h02_cast_risk_users_pct,% of last-year users with positive CAST,2022,24.4,exact (NDM page text),https://www.nationaledrugmonitor.nl/cannabis-problematisch-gebruik-jongeren/
+H02,use,h02_cast_risk_users_pct,% of last-year users with positive CAST,2024,24.1,exact (NDM page text),https://www.nationaledrugmonitor.nl/cannabis-problematisch-gebruik-jongeren/
+H03,use,h03_lastmonth_use_espad16_pct,% pupils 15-16 (ESPAD),1999,13,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lastmonth_use_espad16_pct,% pupils 15-16 (ESPAD),2003,12,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lastmonth_use_espad16_pct,% pupils 15-16 (ESPAD),2007,15,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lastmonth_use_espad16_pct,% pupils 15-16 (ESPAD),2011,14,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lastmonth_use_espad16_pct,% pupils 15-16 (ESPAD),2015,12,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lastmonth_use_espad16_pct,% pupils 15-16 (ESPAD),2019,12,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lastmonth_use_espad16_pct,% pupils 15-16 (ESPAD),2024,8.1,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lastmonth_use_pupils_pct,% pupils 12-16,2003,7.9,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastmonth_use_pupils_pct,% pupils 12-16,2007,6.8,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastmonth_use_pupils_pct,% pupils 12-16,2011,6.4,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastmonth_use_pupils_pct,% pupils 12-16,2015,4.9,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastmonth_use_pupils_pct,% pupils 12-16,2017,4.7,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastmonth_use_pupils_pct,% pupils 12-16,2019,5.3,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastmonth_use_pupils_pct,% pupils 12-16,2021,5.7,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastmonth_use_pupils_pct,% pupils 12-16,2023,4.4,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastyear_use_pupils_pct,% pupils 12-16,2003,13.2,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastyear_use_pupils_pct,% pupils 12-16,2007,11.5,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastyear_use_pupils_pct,% pupils 12-16,2011,11.7,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastyear_use_pupils_pct,% pupils 12-16,2015,8.2,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastyear_use_pupils_pct,% pupils 12-16,2017,7.9,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastyear_use_pupils_pct,% pupils 12-16,2019,9.1,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastyear_use_pupils_pct,% pupils 12-16,2021,8.9,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lastyear_use_pupils_pct,% pupils 12-16,2023,7,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lifetime_use_espad16_pct,% pupils 15-16 (ESPAD),1999,28,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lifetime_use_espad16_pct,% pupils 15-16 (ESPAD),2003,28,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lifetime_use_espad16_pct,% pupils 15-16 (ESPAD),2007,28,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lifetime_use_espad16_pct,% pupils 15-16 (ESPAD),2011,27,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lifetime_use_espad16_pct,% pupils 15-16 (ESPAD),2015,22,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lifetime_use_espad16_pct,% pupils 15-16 (ESPAD),2019,22,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lifetime_use_espad16_pct,% pupils 15-16 (ESPAD),2024,15,"exact (NDM chart data, chart c1DkOmnd3)",https://www.nationaledrugmonitor.nl/cannabis-jongeren-internationaal/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2003,16.7,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2007,14.2,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2011,13.8,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2015,9.7,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2017,9.2,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2019,10.4,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2021,10.2,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H03,use,h03_lifetime_use_pupils_pct,% pupils 12-16,2023,8.5,"exact (NDM chart data, chart sIADP1y0n)",https://www.nationaledrugmonitor.nl/cannabis-scholieren-veranderingen-gebruik/
+H04,use,h04_lastmonth_use_mbo_pct,% mbo students,2015,14.1,"exact (NDM chart data, chart CTcFTXRNO)",https://www.nationaledrugmonitor.nl/cannabis-studenten/
+H04,use,h04_lastmonth_use_mbo_pct,% mbo students,2017,14.9,"exact (NDM chart data, chart CTcFTXRNO)",https://www.nationaledrugmonitor.nl/cannabis-studenten/
+H04,use,h04_lastmonth_use_mbo_pct,% mbo students,2019,12.4,"exact (NDM chart data, chart CTcFTXRNO)",https://www.nationaledrugmonitor.nl/cannabis-studenten/
+H04,use,h04_lastmonth_use_mbo_pct,% mbo students,2021,14,"exact (NDM chart data, chart CTcFTXRNO)",https://www.nationaledrugmonitor.nl/cannabis-studenten/
+H04,use,h04_lastmonth_use_mbo_pct,% mbo students,2023,12.7,"exact (NDM chart data, chart CTcFTXRNO)",https://www.nationaledrugmonitor.nl/cannabis-studenten/
+H04,use,h04_lifetime_use_mbo_pct,% mbo students,2015,31.9,"exact (NDM chart data, chart CTcFTXRNO)",https://www.nationaledrugmonitor.nl/cannabis-studenten/
+H04,use,h04_lifetime_use_mbo_pct,% mbo students,2017,33.2,"exact (NDM chart data, chart CTcFTXRNO)",https://www.nationaledrugmonitor.nl/cannabis-studenten/
+H04,use,h04_lifetime_use_mbo_pct,% mbo students,2019,27.5,"exact (NDM chart data, chart CTcFTXRNO)",https://www.nationaledrugmonitor.nl/cannabis-studenten/
+H04,use,h04_lifetime_use_mbo_pct,% mbo students,2021,30.4,"exact (NDM chart data, chart CTcFTXRNO)",https://www.nationaledrugmonitor.nl/cannabis-studenten/
+H04,use,h04_lifetime_use_mbo_pct,% mbo students,2023,25.9,"exact (NDM chart data, chart CTcFTXRNO)",https://www.nationaledrugmonitor.nl/cannabis-studenten/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2016,8823,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2017,9009,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2018,9192,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2019,9753,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2020,9985,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2021,10109,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2022,9948,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2023,10285,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2024,10800,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_all_institutions,clients (primary problem),2025,10912,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2016,8823,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2017,8840,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2018,8916,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2019,9351,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2020,9390,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2021,9345,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2022,8958,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2023,8825,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2024,8819,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_constant_institutions,clients (primary problem),2025,8758,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2016,62.2,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2017,61.8,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2018,61.8,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2019,64.3,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2020,64,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2021,63.3,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2022,60.2,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2023,58.5,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2024,57.9,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_per100k_constant,"clients per 100,000 inhabitants",2025,57.1,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2016,4953,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2017,5027,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2018,5013,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2019,5466,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2020,5713,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2021,5971,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2022,5739,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2023,5676,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2024,6114,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_all,clients (secondary problem),2025,6318,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2016,4953,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2017,4993,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2018,4955,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2019,5404,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2020,5599,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2021,5829,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2022,5504,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2023,5333,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2024,5354,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H05,use,h05_treatment_secondary_constant,clients (secondary problem),2025,5271,"exact (NDM chart data, chart MNAHsDU5P)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-verslavingszorg/
+H06,use,h06_mdi_share_ambulance_pct,% of drug incidents within service,2019,20,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_ambulance_pct,% of drug incidents within service,2020,11,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_ambulance_pct,% of drug incidents within service,2021,19,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_ambulance_pct,% of drug incidents within service,2022,24,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_ambulance_pct,% of drug incidents within service,2023,23,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_ambulance_pct,% of drug incidents within service,2024,24,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_first_aid_pct,% of drug incidents within service,2019,15,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_first_aid_pct,% of drug incidents within service,2021,5,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_first_aid_pct,% of drug incidents within service,2022,10,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_first_aid_pct,% of drug incidents within service,2023,9,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_first_aid_pct,% of drug incidents within service,2024,10,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_forensic_pct,% of drug incidents within service,2019,22,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_forensic_pct,% of drug incidents within service,2020,22,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_forensic_pct,% of drug incidents within service,2021,19,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_forensic_pct,% of drug incidents within service,2022,13,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_forensic_pct,% of drug incidents within service,2023,17,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_forensic_pct,% of drug incidents within service,2024,19,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_lis_hospitals_pct,% of drug incidents within service,2019,29,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_lis_hospitals_pct,% of drug incidents within service,2020,29,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_lis_hospitals_pct,% of drug incidents within service,2021,25,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_lis_hospitals_pct,% of drug incidents within service,2022,28,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_lis_hospitals_pct,% of drug incidents within service,2023,29,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_lis_hospitals_pct,% of drug incidents within service,2024,29,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_mdi_hospitals_pct,% of drug incidents within service,2019,45,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_mdi_hospitals_pct,% of drug incidents within service,2020,36,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_mdi_hospitals_pct,% of drug incidents within service,2021,28,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_mdi_hospitals_pct,% of drug incidents within service,2022,31,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_mdi_hospitals_pct,% of drug incidents within service,2023,37,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H06,use,h06_mdi_share_mdi_hospitals_pct,% of drug incidents within service,2024,36,"exact (NDM chart data, chart zM2CQ79FU)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-incidenten/
+H09,use,h09_hospital_main_dx,admissions/observations,2015,128,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2016,158,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2017,143,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2018,157,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2019,166,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2020,182,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2021,213,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2022,176,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_main_dx,admissions/observations,2023,225,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2015,1237,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2016,1390,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2017,1520,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2018,1706,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2019,2200,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2020,2608,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2021,2983,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2022,2886,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H09,use,h09_hospital_secondary_dx,admissions/observations,2023,2922,"exact (NDM chart data, chart AxSlOxKwi)",https://www.nationaledrugmonitor.nl/cannabis-hulpvraag-en-incidenten-algemene-ziekenhuizen/
+H11,use,h11_wastewater_amsterdam,mg THC-COOH/1000 inh/day,2011,191.77,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg THC-COOH/1000 inh/day,2012,178.95,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg THC-COOH/1000 inh/day,2018,264.22,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg THC-COOH/1000 inh/day,2019,260.78,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg THC-COOH/1000 inh/day,2020,247.53,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg THC-COOH/1000 inh/day,2021,157.64,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg THC-COOH/1000 inh/day,2022,169.39,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg THC-COOH/1000 inh/day,2023,195.74,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg THC-COOH/1000 inh/day,2024,319.46,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_amsterdam,mg THC-COOH/1000 inh/day,2025,194.09,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg THC-COOH/1000 inh/day,2011,102.77,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg THC-COOH/1000 inh/day,2012,84.42,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg THC-COOH/1000 inh/day,2018,125.57,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg THC-COOH/1000 inh/day,2019,129.81,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg THC-COOH/1000 inh/day,2020,135.44,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg THC-COOH/1000 inh/day,2021,112.6,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg THC-COOH/1000 inh/day,2022,98.31,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg THC-COOH/1000 inh/day,2023,147.64,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg THC-COOH/1000 inh/day,2024,124.64,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_eindhoven,mg THC-COOH/1000 inh/day,2025,98.19,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_rotterdam,mg THC-COOH/1000 inh/day,2023,225.36,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_rotterdam,mg THC-COOH/1000 inh/day,2024,147.99,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_rotterdam,mg THC-COOH/1000 inh/day,2025,124.56,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg THC-COOH/1000 inh/day,2011,109.17,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg THC-COOH/1000 inh/day,2012,133.29,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg THC-COOH/1000 inh/day,2018,100.66,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg THC-COOH/1000 inh/day,2019,131.76,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg THC-COOH/1000 inh/day,2020,146.02,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg THC-COOH/1000 inh/day,2021,89.53,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg THC-COOH/1000 inh/day,2022,99.56,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg THC-COOH/1000 inh/day,2023,146.61,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg THC-COOH/1000 inh/day,2024,122.44,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H11,use,h11_wastewater_utrecht,mg THC-COOH/1000 inh/day,2025,93.28,"exact (NDM chart data, chart SnMFKHxov)",https://www.nationaledrugmonitor.nl/cannabis-internationale-vergelijking/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2011,14.3,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2012,16.1,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2013,16.8,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2014,14.9,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2015,17.8,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2016,19.3,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2017,20.8,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2018,23.5,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2019,24.8,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2020,24.4,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2021,24.3,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2022,26.8,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2023,28.4,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2024,22.1,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_hash_pct,% THC (coffeeshop samples),2025,23,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2011,6.6,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2012,5.7,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2013,5.1,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2014,4.8,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2015,4.8,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2016,5.8,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2017,6.9,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2018,6.6,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2019,3.7,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2020,4.8,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2021,4,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2022,2.4,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2023,6.1,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2024,4,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_imported_weed_pct,% THC (coffeeshop samples),2025,5.6,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2011,29.6,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2012,35,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2013,29,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2014,20.4,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2015,31.6,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2016,32.8,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2017,35.1,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2018,29.2,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2019,26,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2020,27.5,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2021,21,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2022,35.7,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2023,30.4,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2024,26.3,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederhasj_pct,% THC (coffeeshop samples),2025,23.7,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2011,16.5,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2012,15.5,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2013,13.5,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2014,14.6,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2015,15.3,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2016,16.1,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2017,16.9,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2018,16.8,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2019,16.7,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2020,14.6,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2021,14.6,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2022,17.2,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2023,12.9,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2024,13.8,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/
+H12,use,h12_thc_nederwiet_pct,% THC (coffeeshop samples),2025,15.6,"exact (NDM chart data, chart pnOfP9Vcy)",https://www.nationaledrugmonitor.nl/cannabis-kwaliteit-en-prijs/

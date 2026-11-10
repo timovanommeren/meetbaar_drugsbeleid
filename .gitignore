@@ -1,5 +1,5 @@
 # Large source PDFs that 03_extract_mdi_services.py downloads itself
-data/raw/mdi/*.pdf
+data/raw/*/mdi/*.pdf
 # Python and OS clutter
 __pycache__/
 *.pyc
