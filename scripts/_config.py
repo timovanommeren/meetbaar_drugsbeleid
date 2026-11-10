@@ -54,6 +54,7 @@ _can_crime=[("Soft-drug offences registered",[("c09_softdrug_offences_registered
 ("Soft-drug suspect registrations",[("c09_softdrug_suspect_registrations",None)],"registrations"),
 ("Soft-drug incidents (police, NDM)",[("c09b_softdrug_incidents_police",None)],"incidents"),
 ("Cannabis farms dismantled",[("c20_cannabis_farms_dismantled",None)],"farms"),
+("Cannabis supply-chain sites",[("c20_cannabis_cutting_drying_sites","cutting/drying sites"),("c21_growshops_closed","growshops closed")],"sites"),
 ("OM investigations, large-scale cultivation",[("c10_investigations_cannabis_cultivation",None)],"investigations"),
 ("Cannabis seized by Douane (kg)",[("c01_seized_douane_weed_kg","marijuana"),("c01_seized_douane_hash_kg","hashish")],"kg"),
 ("Cannabis seizures by Douane (number)",[("c01_seizures_douane_weed_n","marijuana"),("c01_seizures_douane_hash_n","hashish")],"seizures"),
@@ -91,6 +92,7 @@ _can_use_corr=[("h01_lastyear_use_pct","Last-year use 12+ (CBS)"),("h01_lastyear
 
 # ---- MDMA (ecstasy) ----------------------------------------------------------
 _mdma_crime=[("Synthetic-drug production sites dismantled",[("c20_synthetic_production_sites","production"),("c20_synthetic_storage_sites","storage")],"sites"),
+("MDMA labs dismantled",[("c20_mdma_labs_dismantled",None)],"labs"),
 ("Dumpings of drug waste",[("c22_drug_waste_dumpings",None)],"dumpings"),
 ("OM investigations, synthetic drugs",[("c10_investigations_synthetic_drugs",None)],"investigations"),
 ("Pre-precursors seized",[("c23_precursors_all_kg","all synthetic drugs"),("c23_precursors_pmk_kg","PMK-type (MDMA)")],"kg"),
@@ -123,7 +125,7 @@ _mdma_use_corr=[("h01_lastyear_use_pct","Last-year use 12+ (CBS)"),("h01_lastyea
 ("h12_mdma_per_pill_mg","MDMA per pill"),("h12_pills_over_140mg_pct","Pills >140 mg"),("h12_pills_over_210mg_pct","Pills >210 mg")]
 
 _amph_crime=[("Synthetic-drug production sites dismantled",[("c20_synthetic_production_sites","production"),("c20_synthetic_storage_sites","storage")],"sites"),
-("Methamphetamine labs dismantled",[("c20_meth_labs_dismantled",None)],"labs"),
+("Labs dismantled, by drug",[("c20_amphetamine_labs_dismantled","amphetamine"),("c20_meth_labs_dismantled","methamphetamine")],"labs"),
 ("Dumpings of drug waste",[("c22_drug_waste_dumpings",None)],"dumpings"),
 ("OM investigations, synthetic drugs",[("c10_investigations_synthetic_drugs",None)],"investigations"),
 ("Pre-precursors seized",[("c23_precursors_all_kg","all synthetic drugs"),("c23_precursors_bmk_kg","BMK-type (amphetamine)")],"kg"),
@@ -143,7 +145,7 @@ _amph_use=[("Last-year use",[("h01_lastyear_use_pct","CBS, 12+"),("h01_lastyear_
 ("Deaths from psychostimulants",[("h08_deaths_psychostimulants",None)],"deaths (incl. MDMA)"),
 ("Amphetamine in wastewater",[("h11_wastewater_amsterdam","Amsterdam"),("h11_wastewater_eindhoven","Eindhoven"),("h11_wastewater_utrecht","Utrecht")],"mg/1,000 inh./day"),
 ("Amphetamine content of speed",[("h12_amphetamine_purity_pct",None)],"% amphetamine (mean, DIMS)")]
-_amph_crime_corr=[("c20_synthetic_production_sites","Production sites"),("c20_synthetic_storage_sites","Storage sites"),("c20_meth_labs_dismantled","Meth labs"),("c22_drug_waste_dumpings","Drug waste dumpings"),
+_amph_crime_corr=[("c20_synthetic_production_sites","Production sites"),("c20_amphetamine_labs_dismantled","Amphetamine labs"),("c20_synthetic_storage_sites","Storage sites"),("c20_meth_labs_dismantled","Meth labs"),("c22_drug_waste_dumpings","Drug waste dumpings"),
 ("c10_investigations_synthetic_drugs","OM investigations, synthetic"),("c23_precursors_all_kg","Pre-precursors, all kg"),("c23_precursors_bmk_kg","Pre-precursors, BMK kg"),
 ("c01_seized_douane_amphetamine_kg","Seized, amphetamine kg"),("c01_seizures_douane_amphetamine_n","Seizures, amphetamine n"),("c09_harddrug_offences_registered","Hard-drug offences"),("c18_price_eur_g","Price per gram")]
 _amph_use_corr=[("h01_lastyear_use_pct","Last-year use 12+ (CBS)"),("h01_lastyear_use_18plus_pct","Last-year use 18+ (NDM)"),("h01_lastmonth_use_pct","Last-month use (CBS)"),("h01_lifetime_use_pct","Lifetime use (CBS)"),
@@ -152,7 +154,8 @@ _amph_use_corr=[("h01_lastyear_use_pct","Last-year use 12+ (CBS)"),("h01_lastyea
 ("h06_share_ambulance_pct","MDI share, ambulance"),("h06_share_lis_hospitals_pct","MDI share, LIS hospitals"),("h08_deaths_psychostimulants","Deaths, psychostimulants"),
 ("h11_wastewater_amsterdam","Wastewater, Amsterdam"),("h11_wastewater_eindhoven","Wastewater, Eindhoven"),("h11_wastewater_utrecht","Wastewater, Utrecht"),("h12_amphetamine_purity_pct","Amphetamine content")]
 
-_her_crime=[("Heroin seized by Douane (kg)",[("c01_seized_douane_heroin_kg",None)],"kg"),
+_her_crime=[("Heroin processing locations dismantled",[("c20_heroin_processing_sites",None)],"locations"),
+("Heroin seized by Douane (kg)",[("c01_seized_douane_heroin_kg",None)],"kg"),
 ("Heroin seizures by Douane (number)",[("c01_seizures_douane_heroin_n",None)],"seizures"),
 ("OM investigations, cocaine and heroin",[("c10_investigations_cocaine_heroin",None)],"investigations"),
 ("Hard-drug offences registered (all list I)",[("c09_harddrug_offences_registered",None)],"offences"),
@@ -166,6 +169,7 @@ _her_use=[("Heroin use, adults 18+",[("h01_lifetime_use_18plus_pct","lifetime"),
 ("Hospital admissions, opioid secondary diagnosis",[("h07_hospital_secondary_diagnosis","excl. synthetic"),("h07_hospital_secondary_diagnosis_incl_synthetic","incl. synthetic")],"admissions"),
 ("Drug deaths involving opioids",[("h08_deaths_opioids","opioids (EUDA def.)"),("h08_deaths_f11_underlying","F11 underlying cause")],"deaths"),
 ("People dispensed oxycodone (context)",[("h13_oxycodone_users",None)],"people"),
+("People dispensed methadone (context)",[("h13_methadone_users",None)],"people"),
 ("Heroin content of samples",[("h12_heroin_purity_pct",None)],"% heroin (mean, DIMS)")]
 _her_crime_corr=[("c01_seized_douane_heroin_kg","Seized, heroin kg"),("c01_seizures_douane_heroin_n","Seizures, heroin n"),("c10_investigations_cocaine_heroin","OM investigations, coc./her."),
 ("c09_harddrug_offences_registered","Hard-drug offences")]
@@ -191,4 +195,13 @@ TEXT={
          "sources":"CBS, Nationale Drug Monitor (Trimbos DIMS, LADIS, LBZ, Politie, Douane, OM), Monitor Drugsincidenten","first":2003,"note":""},
  "heroin":{"crime_sub":"Trade, enforcement and nuisance indicators, 2003–2025",
          "use_sub":"Prevalence, high-risk use, treatment, hospital harm, mortality and supply context (heroin and other opioids), 2003–2025",
-         "sources":"CBS, Nationale Drug Monitor (Trimbos, LADIS, LBZ, GIP, Douane, OM)","first":2003,"note":""}}
+         "sources":"CBS, Nationale Drug Monitor (Trimbos, LADIS, LBZ, GIP, Douane, OM), Politie","first":2003,"note":""}}
+
+# Indicator IDs shared by the plots and the correlation matrices: C = crime, U = use/dependency,
+# then the panel number and, for panels with several series, a letter per series (e.g. C1a, U4).
+def ids(drug, dim):
+    out = {}
+    for i, (_, ser, _) in enumerate(PANELS[drug][dim], 1):
+        for k, (col, _) in enumerate(ser):
+            out[col] = f"{dim[0].upper()}{i}" + ("abc"[k] if len(ser) > 1 else "")
+    return out

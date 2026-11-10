@@ -54,6 +54,10 @@ C16,crime,c16_nuisance_drug_dealing_pct,% residents (often in neighbourhood),202
 C16,crime,c16_nuisance_drug_use_pct,% residents (often in neighbourhood),2021,3.0,exact,https://opendata.cbs.nl/ODataApi/odata/85146NED
 C16,crime,c16_nuisance_drug_use_pct,% residents (often in neighbourhood),2023,3.3,exact,https://opendata.cbs.nl/ODataApi/odata/85146NED
 C16,crime,c16_nuisance_drug_use_pct,% residents (often in neighbourhood),2025,3.6,exact,https://opendata.cbs.nl/ODataApi/odata/85146NED
+C20,crime,c20_heroin_processing_sites,heroin processing locations,2022,2,"exact (Politie, Nationaal Overzicht Drugslocaties 2023)",https://politie.nl/binaries/content/assets/politie/nieuws/2024/mei/nationaal-overzicht-drugs-2023.pdf
+C20,crime,c20_heroin_processing_sites,heroin processing locations,2023,13,"exact (Politie, Nationaal Overzicht Drugslocaties 2024); the 2023 edition reported 10",https://bijlagen.nos.nl/artikel-22714019/Nationaal_Overzicht_Drugslocaties_2024_def.pdf
+C20,crime,c20_heroin_processing_sites,heroin processing locations,2024,15,"exact (Politie, Nationaal Overzicht Drugslocaties 2024)",https://bijlagen.nos.nl/artikel-22714019/Nationaal_Overzicht_Drugslocaties_2024_def.pdf
+C20,crime,c20_heroin_processing_sites,heroin processing locations,2025,17,"exact (Politie, Nationaal Overzicht Drugslocaties 2025)",https://www.politie.nl/binaries/content/assets/politie/nieuws/2026/april/4f37b93c-0d0c-4322-a307-02afe83e10b5.pdf
 H01,use,h01_lastyear_use_18plus_pct,"% adults 18+ (Gezondheidsenquête/Leefstijlmonitor via NDM); rounded to 0.1, so 0 = <0.05",2015,0.1,"exact (NDM chart data, chart JxRirAz7Z)",https://www.nationaledrugmonitor.nl/veranderingen-in-heroinegebruik-onder-volwassenen/
 H01,use,h01_lastyear_use_18plus_pct,"% adults 18+ (Gezondheidsenquête/Leefstijlmonitor via NDM); rounded to 0.1, so 0 = <0.05",2016,0.1,"exact (NDM chart data, chart JxRirAz7Z)",https://www.nationaledrugmonitor.nl/veranderingen-in-heroinegebruik-onder-volwassenen/
 H01,use,h01_lastyear_use_18plus_pct,"% adults 18+ (Gezondheidsenquête/Leefstijlmonitor via NDM); rounded to 0.1, so 0 = <0.05",2017,0,"exact (NDM chart data, chart JxRirAz7Z)",https://www.nationaledrugmonitor.nl/veranderingen-in-heroinegebruik-onder-volwassenen/
@@ -84,6 +88,7 @@ H02,use,h02_high_risk_opioid_users,"people (capture-recapture estimate, street s
 H04,use,h04_lifetime_use_mbo_pct,% mbo and hbo students 16-18,2015,0.7,"exact (NDM chart data, chart iedUT6uJA)",https://www.nationaledrugmonitor.nl/opiaten-studenten/
 H04,use,h04_lifetime_use_mbo_pct,% mbo and hbo students 16-18,2017,0.4,"exact (NDM chart data, chart iedUT6uJA)",https://www.nationaledrugmonitor.nl/opiaten-studenten/
 H04,use,h04_lifetime_use_mbo_pct,% mbo and hbo students 16-18,2019,0.5,"exact (NDM chart data, chart iedUT6uJA)",https://www.nationaledrugmonitor.nl/opiaten-studenten/
+H05,use,h05_methadone_programme_clients,"clients in methadone programmes (LADIS, 11 institutions)",2024,5148,"exact (Trimbos, Harm reduction in Nederland 2026, table)",https://www.trimbos.nl/wp-content/uploads/2026/06/TRI-41-037_Harm-reduction-in-Nederland.pdf
 H05,use,h05_treatment_all_institutions,"clients (LADIS, opioids as primary problem)",2016,8382,"exact (NDM chart data, chart hsUGU4eoc)",https://www.nationaledrugmonitor.nl/opiaten-hulpvraag-en-incidenten/
 H05,use,h05_treatment_all_institutions,"clients (LADIS, opioids as primary problem)",2017,8244,"exact (NDM chart data, chart hsUGU4eoc)",https://www.nationaledrugmonitor.nl/opiaten-hulpvraag-en-incidenten/
 H05,use,h05_treatment_all_institutions,"clients (LADIS, opioids as primary problem)",2018,7825,"exact (NDM chart data, chart hsUGU4eoc)",https://www.nationaledrugmonitor.nl/opiaten-hulpvraag-en-incidenten/
@@ -207,6 +212,11 @@ H08,use,h08_deaths_opioids,"drug deaths involving opioids (CBS, EUDA selection B
 H08,use,h08_deaths_opioids,"drug deaths involving opioids (CBS, EUDA selection B, via NDM; incl. medicinal opioids)",2024,161,"exact (NDM chart data, chart DqyGIRQKm)",https://www.nationaledrugmonitor.nl/opiaten-laatste-feiten-en-trends/
 H12,use,h12_heroin_purity_pct,"% heroin in samples (DIMS, mean; few samples)",2024,33.6,exact (NDM page text; 2025 n = 114 samples),https://www.nationaledrugmonitor.nl/opiaten-aanbod-en-markt/
 H12,use,h12_heroin_purity_pct,"% heroin in samples (DIMS, mean; few samples)",2025,38.6,exact (NDM page text; 2025 n = 114 samples),https://www.nationaledrugmonitor.nl/opiaten-aanbod-en-markt/
+H13,use,h13_methadone_users,people dispensed methadone (GIP via NDM; context),2020,14608,"exact (NDM chart data, chart 7kVCdqsbh)",https://www.nationaledrugmonitor.nl/opiaten-gebruik-van-medische-opioiden/
+H13,use,h13_methadone_users,people dispensed methadone (GIP via NDM; context),2021,15005,"exact (NDM chart data, chart 7kVCdqsbh)",https://www.nationaledrugmonitor.nl/opiaten-gebruik-van-medische-opioiden/
+H13,use,h13_methadone_users,people dispensed methadone (GIP via NDM; context),2022,15095,"exact (NDM chart data, chart 7kVCdqsbh)",https://www.nationaledrugmonitor.nl/opiaten-gebruik-van-medische-opioiden/
+H13,use,h13_methadone_users,people dispensed methadone (GIP via NDM; context),2023,15341,"exact (NDM chart data, chart 7kVCdqsbh)",https://www.nationaledrugmonitor.nl/opiaten-gebruik-van-medische-opioiden/
+H13,use,h13_methadone_users,people dispensed methadone (GIP via NDM; context),2024,15694,"exact (NDM chart data, chart 7kVCdqsbh)",https://www.nationaledrugmonitor.nl/opiaten-gebruik-van-medische-opioiden/
 H13,use,h13_oxycodone_users,people dispensed oxycodone (GIP/Zorginstituut via NDM; context),2003,22366,"exact (NDM chart data, chart 7kVCdqsbh)",https://www.nationaledrugmonitor.nl/opiaten-gebruik-van-medische-opioiden/
 H13,use,h13_oxycodone_users,people dispensed oxycodone (GIP/Zorginstituut via NDM; context),2004,35172,"exact (NDM chart data, chart 7kVCdqsbh)",https://www.nationaledrugmonitor.nl/opiaten-gebruik-van-medische-opioiden/
 H13,use,h13_oxycodone_users,people dispensed oxycodone (GIP/Zorginstituut via NDM; context),2005,46606,"exact (NDM chart data, chart 7kVCdqsbh)",https://www.nationaledrugmonitor.nl/opiaten-gebruik-van-medische-opioiden/

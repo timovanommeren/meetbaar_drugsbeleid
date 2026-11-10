@@ -1,12 +1,12 @@
 """Correlation matrices (Pearson r, pairwise complete years, min. 5 shared years), one per dimension.
 
-Usage: python scripts/06_plot_correlations.py cocaine|cannabis|mdma
+Usage: python scripts/06_plot_correlations.py cocaine|cannabis|mdma|amphetamine|heroin
 Reads data/processed/<drug>_harm_long.csv; writes output/figures/<drug>_*_correlations.png and output/tables/<drug>_*_correlations.csv.
 Indicators per drug are defined in scripts/_config.py.
 """
 import csv, math, sys, matplotlib
 from _paths import PROCESSED, FIGURES, TABLES
-from _config import CORR
+from _config import CORR, ids
 DRUG = sys.argv[1] if len(sys.argv) > 1 else "cocaine"
 NAME = {"mdma": "MDMA"}.get(DRUG, DRUG)
 MINN = 5
@@ -29,8 +29,8 @@ def pr(a,b):
     sx=math.sqrt(sum((i-mx)**2 for i in x)); sz=math.sqrt(sum((i-mz)**2 for i in z))
     if sx==0 or sz==0: return None,n
     return sum((i-mx)*(j-mz) for i,j in zip(x,z))/(sx*sz),n
-def fig(items,title,out,csvout):
-    k=len(items); cols=[c for c,_ in items]; labs=[l for _,l in items]
+def fig(items,title,out,csvout,dim):
+    I=ids(DRUG,dim); k=len(items); cols=[c for c,_ in items]; labs=[f"{l}  {I[c]}" for c,l in items]
     f,ax=plt.subplots(figsize=(0.62*k+4.2,0.55*k+2.6),facecolor=SURF); ax.set_facecolor(SURF)
     rows=[]
     for i in range(k):
@@ -53,11 +53,11 @@ def fig(items,title,out,csvout):
     sm=plt.cm.ScalarMappable(cmap=cmap,norm=plt.Normalize(-1,1))
     cax=f.add_axes([0.70,0.80,0.22,0.018]); cb=f.colorbar(sm,cax=cax,orientation="horizontal",ticks=[-1,-.5,0,.5,1])
     cb.outline.set_visible(False); cb.ax.tick_params(labelsize=8,colors=T2,length=0); cb.set_label("r",fontsize=8.5,color=T2,labelpad=2)
-    f.text(0.01,0.008,"Correlations between trending series partly reflect shared time trends; |r| needed for p < .05 (two-sided): .88 at n = 5, .63 at n = 10, .43 at n = 21. No correction for multiple comparisons.",fontsize=8.5,color=T2)
+    f.text(0.01,0.008,"Correlations between trending series partly reflect shared time trends; |r| needed for p < .05 (two-sided): .88 at n = 5, .63 at n = 10, .43 at n = 21. No correction for multiple comparisons. IDs (C1, U3b, ...) match the indicator plots.",fontsize=8.5,color=T2)
     f.subplots_adjust(left=0.20,right=0.98,top=0.93,bottom=0.17)
     FIGURES.mkdir(parents=True, exist_ok=True); TABLES.mkdir(parents=True, exist_ok=True)
     f.savefig(out,dpi=150,facecolor=SURF)
-    with open(csvout,"w",newline="") as fh: w=csv.writer(fh); w.writerow(["var1","var2","r","n"]); w.writerows(rows)
+    with open(csvout,"w",newline="") as fh: w=csv.writer(fh); w.writerow(["id1","var1","id2","var2","r","n"]); w.writerows([[I[a],a,I[b],b,r,n] for a,b,r,n in rows])
     print(out)
-fig(CORR[DRUG]["crime"],f"Correlations between crime harm indicators, {NAME}, Netherlands",FIGURES / f"{DRUG}_crime_correlations.png",TABLES / f"{DRUG}_crime_correlations.csv")
-fig(CORR[DRUG]["use"],f"Correlations between use and dependency harm indicators, {NAME}, Netherlands",FIGURES / f"{DRUG}_use_correlations.png",TABLES / f"{DRUG}_use_correlations.csv")
+fig(CORR[DRUG]["crime"],f"Correlations between crime harm indicators, {NAME}, Netherlands",FIGURES / f"{DRUG}_crime_correlations.png",TABLES / f"{DRUG}_crime_correlations.csv","crime")
+fig(CORR[DRUG]["use"],f"Correlations between use and dependency harm indicators, {NAME}, Netherlands",FIGURES / f"{DRUG}_use_correlations.png",TABLES / f"{DRUG}_use_correlations.csv","use")
