@@ -152,8 +152,29 @@ _amph_use_corr=[("h01_lastyear_use_pct","Last-year use 12+ (CBS)"),("h01_lastyea
 ("h06_share_ambulance_pct","MDI share, ambulance"),("h06_share_lis_hospitals_pct","MDI share, LIS hospitals"),("h08_deaths_psychostimulants","Deaths, psychostimulants"),
 ("h11_wastewater_amsterdam","Wastewater, Amsterdam"),("h11_wastewater_eindhoven","Wastewater, Eindhoven"),("h11_wastewater_utrecht","Wastewater, Utrecht"),("h12_amphetamine_purity_pct","Amphetamine content")]
 
-PANELS={"cocaine":{"crime":_coc_crime,"use":_coc_use},"cannabis":{"crime":_can_crime,"use":_can_use},"mdma":{"crime":_mdma_crime,"use":_mdma_use},"amphetamine":{"crime":_amph_crime,"use":_amph_use}}
-CORR={"cocaine":{"crime":_coc_crime_corr,"use":_coc_use_corr},"cannabis":{"crime":_can_crime_corr,"use":_can_use_corr},"mdma":{"crime":_mdma_crime_corr,"use":_mdma_use_corr},"amphetamine":{"crime":_amph_crime_corr,"use":_amph_use_corr}}
+_her_crime=[("Heroin seized by Douane (kg)",[("c01_seized_douane_heroin_kg",None)],"kg"),
+("Heroin seizures by Douane (number)",[("c01_seizures_douane_heroin_n",None)],"seizures"),
+("OM investigations, cocaine and heroin",[("c10_investigations_cocaine_heroin",None)],"investigations"),
+("Hard-drug offences registered (all list I)",[("c09_harddrug_offences_registered",None)],"offences"),
+("Perceived drug nuisance in neighbourhood",[("c16_nuisance_drug_dealing_pct","dealing"),("c16_nuisance_drug_use_pct","use")],"% of residents")]
+_her_use=[("Heroin use, adults 18+",[("h01_lifetime_use_18plus_pct","lifetime"),("h01_lastyear_use_18plus_pct","last year")],"% of population"),
+("Opioid painkillers without prescription",[("h01_painkiller_nonprescribed_lastyear_pct",None)],"% of adults, last year"),
+("High-risk opioid users (estimate)",[("h02_high_risk_opioid_users",None)],"people"),
+("Treatment, opioids primary problem",[("h05_treatment_all_institutions","all institutions"),("h05_treatment_constant_institutions","constant institutions")],"clients"),
+("Treatment, opioids secondary problem",[("h05_treatment_secondary_all","all institutions"),("h05_treatment_secondary_constant","constant institutions")],"clients"),
+("Hospital admissions, opioid main diagnosis",[("h07_hospital_main_diagnosis","excl. synthetic"),("h07_hospital_main_diagnosis_incl_synthetic","incl. synthetic")],"admissions"),
+("Hospital admissions, opioid secondary diagnosis",[("h07_hospital_secondary_diagnosis","excl. synthetic"),("h07_hospital_secondary_diagnosis_incl_synthetic","incl. synthetic")],"admissions"),
+("Drug deaths involving opioids",[("h08_deaths_opioids","opioids (EUDA def.)"),("h08_deaths_f11_underlying","F11 underlying cause")],"deaths"),
+("People dispensed oxycodone (context)",[("h13_oxycodone_users",None)],"people"),
+("Heroin content of samples",[("h12_heroin_purity_pct",None)],"% heroin (mean, DIMS)")]
+_her_crime_corr=[("c01_seized_douane_heroin_kg","Seized, heroin kg"),("c01_seizures_douane_heroin_n","Seizures, heroin n"),("c10_investigations_cocaine_heroin","OM investigations, coc./her."),
+("c09_harddrug_offences_registered","Hard-drug offences")]
+_her_use_corr=[("h01_lifetime_use_18plus_pct","Lifetime use 18+ (NDM)"),("h05_treatment_all_institutions","Treatment, all inst."),("h05_treatment_constant_institutions","Treatment, constant inst."),
+("h05_treatment_secondary_all","Treatment secondary, all"),("h07_hospital_main_diagnosis","Hospital, main diagnosis"),("h07_hospital_secondary_diagnosis","Hospital, secondary diagnosis"),
+("h07_hospital_main_diagnosis_incl_synthetic","Hospital main, incl. synth."),("h08_deaths_opioids","Deaths, opioids (EUDA)"),("h08_deaths_f11_underlying","Deaths, F11 underlying"),("h13_oxycodone_users","Oxycodone users")]
+
+PANELS={"cocaine":{"crime":_coc_crime,"use":_coc_use},"cannabis":{"crime":_can_crime,"use":_can_use},"mdma":{"crime":_mdma_crime,"use":_mdma_use},"amphetamine":{"crime":_amph_crime,"use":_amph_use},"heroin":{"crime":_her_crime,"use":_her_use}}
+CORR={"cocaine":{"crime":_coc_crime_corr,"use":_coc_use_corr},"cannabis":{"crime":_can_crime_corr,"use":_can_use_corr},"mdma":{"crime":_mdma_crime_corr,"use":_mdma_use_corr},"amphetamine":{"crime":_amph_crime_corr,"use":_amph_use_corr},"heroin":{"crime":_her_crime_corr,"use":_her_use_corr}}
 TEXT={
  "cocaine":{"crime_sub":"Enforcement, violence, recruitment, trade and market indicators, 2003–2025",
             "use_sub":"Prevalence, treatment, acute harm, mortality, consumption and product risk, 2003–2025",
@@ -167,4 +188,7 @@ TEXT={
          "sources":"CBS, Nationale Drug Monitor (Trimbos DIMS, LADIS, Politie, Douane, OM), Monitor Drugsincidenten","first":2003,"note":""},
  "amphetamine":{"crime_sub":"Synthetic-drug production, environmental crime, trade, enforcement and market indicators, 2003–2025",
          "use_sub":"Prevalence, treatment, hospital and acute harm, mortality, consumption and product purity, 2003–2025",
-         "sources":"CBS, Nationale Drug Monitor (Trimbos DIMS, LADIS, LBZ, Politie, Douane, OM), Monitor Drugsincidenten","first":2003,"note":""}}
+         "sources":"CBS, Nationale Drug Monitor (Trimbos DIMS, LADIS, LBZ, Politie, Douane, OM), Monitor Drugsincidenten","first":2003,"note":""},
+ "heroin":{"crime_sub":"Trade, enforcement and nuisance indicators, 2003–2025",
+         "use_sub":"Prevalence, high-risk use, treatment, hospital harm, mortality and supply context (heroin and other opioids), 2003–2025",
+         "sources":"CBS, Nationale Drug Monitor (Trimbos, LADIS, LBZ, GIP, Douane, OM)","first":2003,"note":""}}

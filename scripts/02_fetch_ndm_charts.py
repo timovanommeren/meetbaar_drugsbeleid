@@ -1,6 +1,6 @@
 """Download the chart data behind the Nationale Drug Monitor's pages for one drug.
 
-Usage: python scripts/02_fetch_ndm_charts.py cocaine|cannabis|mdma|amphetamine
+Usage: python scripts/02_fetch_ndm_charts.py cocaine|cannabis|mdma|amphetamine|heroin
 
 The NDM website draws its charts with everviz; each chart's data table is fetched
 from app.everviz.com. Writes data/raw/<drug>/ndm_charts.json:
@@ -11,13 +11,14 @@ import html, json, re, sys, urllib.request
 from _paths import RAW
 
 DRUG = sys.argv[1] if len(sys.argv) > 1 else "cocaine"
-SLUG = {"mdma": "ecstasy", "amphetamine": "amfetamine"}.get(DRUG, DRUG)      # NDM chapter name
+SLUG = {"mdma": "ecstasy", "amphetamine": "amfetamine", "heroin": "opiaten"}.get(DRUG, DRUG)      # NDM chapter name
 NDM = "https://www.nationaledrugmonitor.nl/"
 UA = {"User-Agent": "Mozilla/5.0"}
 fetch = lambda url: urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=90).read().decode("utf-8")
 # all pages of the drug's chapter, plus the justice chapter pages
 chapter = fetch(NDM + SLUG + "/")
 PAGES = sorted(set(re.findall(rf"{NDM}({SLUG}-[a-z0-9-]+)/", chapter)))
+PAGES += {"heroin": ["veranderingen-in-heroinegebruik-onder-volwassenen"]}.get(DRUG, [])
 PAGES += [f"illegale-handel-bezit-en-productie-{p}" for p in ["liquidaties", "georganiseerde-misdaad-en-drugshandel",
           "inbeslagnames-van-drugs-en-ontmantelingen-van-productielocaties", "opiumwetdelicten"]]
 clean = lambda s: html.unescape(re.sub(r"<[^>]+>", "", s)).strip() if isinstance(s, str) else s

@@ -29,8 +29,8 @@ for title in ("Cocaïnegebruik", "Cannabisgebruik", "Ecstasygebruik", "Amfetamin
             out["lsm_" + x["Key"]] = by_year(rows, x["Key"])
 
 # Deaths by underlying cause (ICD-10 F14 = mental/behavioural disorders due to cocaine)
-# (F12 = cannabinoids)
-for code, name in (("A011101", "death_f14"), ("A011099", "death_f12")):
+# (F12 = cannabinoids, F11 = opioids)
+for code, name in (("A011101", "death_f14"), ("A011099", "death_f12"), ("A011098", "death_f11")):
     rows = get("7233/TypedDataSet", f"DoodsoorzakenUitgebreideLijst eq '{code}' and Geslacht eq 'T001038' and Leeftijd eq '10000'")
     val = [k for k in rows[0] if k not in ("ID", "Geslacht", "Leeftijd", "DoodsoorzakenUitgebreideLijst", "Perioden")][0]
     out[name] = by_year(rows, val)
