@@ -11,11 +11,11 @@ The goal is to place the Netherlands, year by year and per drug, in the two-dime
 
 | Drug | Indicator columns | Values | Years |
 | --- | --- | --- | --- |
-| Cocaine | 59 | 504 | 2003–2025 |
-| Cannabis | 55 | 533 | 1999–2025 |
-| MDMA (ecstasy) | 39 | 373 | 2003–2025 |
-| Amphetamine (speed) | 39 | 346 | 2003–2025 |
-| Heroin (and other opioids) | 28 | 240 | 2003–2025 |
+| Cocaine | 61 | 511 | 2003–2025 |
+| Cannabis | 58 | 542 | 1999–2025 |
+| MDMA (ecstasy) | 42 | 382 | 2003–2025 |
+| Amphetamine (speed) | 42 | 355 | 2003–2025 |
+| Heroin (and other opioids) | 31 | 245 | 2003–2025 |
 
 Steps 5 (combining indicators per dimension) and 6 (plotting the two dimensions) are open. Alcohol and tobacco may follow.
 
@@ -100,7 +100,7 @@ The procedure, cross-cutting limitations, discussion points and future direction
 
 ## Main sources
 
-CBS StatLine (open data API); Nationale Drug Monitor (Trimbos/WODC/Regioplan) and its chart data; LADIS Kerncijfers Verslavingszorg (Stichting IVZ); Monitor Drugsincidenten, DIMS and the THC monitor (Trimbos); Politie (*Fenomeenbeeld Geweld* 2024; dismantled cannabis farms); Openbaar Ministerie and Douane (seizures, HARC team); Nationaal Overzicht Drugslocaties 2023–2025 editions (labs by drug type, dumpings, cannabis farms, heroin processing sites); Trimbos *Harm reduction in Nederland* 2026; WODC/Intraval (*Coffeeshops in Nederland*); GI-TOC Global Organized Crime Index; NFI; EUDA/SCORE wastewater data (via NDM).
+CBS StatLine (open data API); Nationale Drug Monitor (Trimbos/WODC/Regioplan) and its chart data; LADIS Kerncijfers Verslavingszorg (Stichting IVZ); Monitor Drugsincidenten, DIMS and the THC monitor (Trimbos); Politie (*Fenomeenbeeld Geweld* 2024; dismantled cannabis farms); Openbaar Ministerie and Douane (seizures, HARC team); Nationaal Overzicht Drugslocaties 2023–2025 editions (labs by drug type, dumpings, cannabis farms, heroin processing sites); Trimbos *Harm reduction in Nederland* 2026; NVIC yearly reports (poison-centre consultations); WODC/Intraval (*Coffeeshops in Nederland*); GI-TOC Global Organized Crime Index; NFI; EUDA/SCORE wastewater data (via NDM).
 
 ## Author
 

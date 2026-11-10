@@ -35,7 +35,8 @@ _coc_use=[("Last-year use",[("h01_lastyear_use_pct","CBS, 12+"),("h01b_lastyear_
 ("Purity",[("h12_purity_dims_pct","DIMS samples"),("h17_purity_nfi_pct","NFI police seizures")],"% cocaine"),
 ("Adulterated samples (DIMS)",[("h12_adulterated_share_pct","any cutting agent"),("h12_levamisole_share_pct","levamisole")],"% of samples"),
 ("Last-year use, nightlife-goers",[("h04_lastyear_use_nightlife_pct",None)],"% of nightlife-goers"),
-("Treatment per 100,000 inhabitants",[("h05_treatment_per100k_constant",None)],"clients (constant inst.)")]
+("Treatment per 100,000 inhabitants",[("h05_treatment_per100k_constant",None)],"clients (constant inst.)"),
+("Poison-centre consultations (NVIC)",[("h13_nvic_exposures","all ages"),("h13_nvic_exposures_13plus","13+")],"telephone consultations")]
 _coc_crime_corr=[("c09_harddrug_offences_registered","Hard-drug offences"),("c09_harddrug_suspect_registrations","Hard-drug suspects"),
 ("c07_murder_victims_total","Murder victims, total"),("c07_murder_victims_firearm","Murder victims, firearm"),
 ("c05_murders_criminal_milieu","Criminal-milieu murders"),("c06_liquidations","Liquidations"),("c08_explosive_attacks","Explosive attacks"),
@@ -77,7 +78,9 @@ _can_use=[("Last-year use",[("h01_lastyear_use_pct","CBS, 12+"),("h01_lastyear_u
 ("Cannabis share of drug incidents",[("h06_mdi_share_mdi_hospitals_pct","MDI hospitals"),("h06_mdi_share_lis_hospitals_pct","LIS hospitals"),("h06_mdi_share_ambulance_pct","ambulance")],"% of incidents"),
 ("Cannabis in wastewater",[("h11_wastewater_amsterdam","Amsterdam"),("h11_wastewater_eindhoven","Eindhoven"),("h11_wastewater_utrecht","Utrecht")],"mg THC-COOH/1,000 inh./day"),
 ("THC content, weed",[("h12_thc_nederwiet_pct","nederwiet"),("h12_thc_imported_weed_pct","imported")],"% THC"),
-("THC content, hashish",[("h12_thc_nederhasj_pct","nederhasj"),("h12_thc_imported_hash_pct","imported")],"% THC")]
+("THC content, hashish",[("h12_thc_nederhasj_pct","nederhasj"),("h12_thc_imported_hash_pct","imported")],"% THC"),
+("Poison-centre consultations (NVIC)",[("h15_nvic_exposures","all ages"),("h15_nvic_exposures_13plus","13+")],"telephone consultations"),
+("Drivers' blood samples for drugs (all drugs)",[("h14_drug_driving_blood_samples",None)],"samples")]
 _can_crime_corr=[("c09_softdrug_offences_registered","Soft-drug offences"),("c09_softdrug_suspect_registrations","Soft-drug suspects"),("c09b_softdrug_incidents_police","Soft-drug incidents (police)"),
 ("c20_cannabis_farms_dismantled","Cannabis farms dismantled"),("c10_investigations_cannabis_cultivation","OM investigations, cultivation"),
 ("c01_seized_douane_weed_kg","Seized, marijuana kg"),("c01_seized_douane_hash_kg","Seized, hashish kg"),("c01_seizures_douane_weed_n","Seizures, marijuana n"),("c01_seizures_douane_hash_n","Seizures, hashish n"),
@@ -113,7 +116,9 @@ _mdma_use=[("Last-year use",[("h01_lastyear_use_pct","CBS, 12+"),("h01_lastyear_
 ("MDMA in wastewater",[("h11_wastewater_amsterdam","Amsterdam"),("h11_wastewater_eindhoven","Eindhoven"),("h11_wastewater_utrecht","Utrecht")],"mg/1,000 inh./day"),
 ("MDMA per ecstasy pill",[("h12_mdma_per_pill_mg",None)],"mg (mean, DIMS)"),
 ("High-dose pills",[("h12_pills_over_140mg_pct",">140 mg"),("h12_pills_over_210mg_pct",">210 mg")],"% of pills tested"),
-("MDMA powder purity",[("h12_mdma_powder_purity_pct",None)],"% MDMA")]
+("MDMA powder purity",[("h12_mdma_powder_purity_pct",None)],"% MDMA"),
+("Poison-centre consultations (NVIC)",[("h15_nvic_exposures","all ages"),("h15_nvic_exposures_13plus","13+")],"telephone consultations"),
+("Drivers' blood samples for drugs (all drugs)",[("h14_drug_driving_blood_samples",None)],"samples")]
 _mdma_crime_corr=[("c20_synthetic_production_sites","Production sites"),("c20_synthetic_storage_sites","Storage sites"),("c22_drug_waste_dumpings","Drug waste dumpings"),
 ("c10_investigations_synthetic_drugs","OM investigations, synthetic"),("c23_precursors_all_kg","Pre-precursors, all kg"),("c23_precursors_pmk_kg","Pre-precursors, PMK kg"),
 ("c01_seized_douane_ecstasy_kg","Seized, ecstasy kg"),("c01_seizures_douane_ecstasy_n","Seizures, ecstasy n"),("c09_harddrug_offences_registered","Hard-drug offences"),
@@ -144,7 +149,9 @@ _amph_use=[("Last-year use",[("h01_lastyear_use_pct","CBS, 12+"),("h01_lastyear_
 ("Drug incidents involving amphetamine (MDI)",[("h06_share_ambulance_pct","ambulance"),("h06_share_mdi_hospitals_pct","MDI hospitals"),("h06_share_lis_hospitals_pct","LIS hospitals")],"% of drug incidents"),
 ("Deaths from psychostimulants",[("h08_deaths_psychostimulants",None)],"deaths (incl. MDMA)"),
 ("Amphetamine in wastewater",[("h11_wastewater_amsterdam","Amsterdam"),("h11_wastewater_eindhoven","Eindhoven"),("h11_wastewater_utrecht","Utrecht")],"mg/1,000 inh./day"),
-("Amphetamine content of speed",[("h12_amphetamine_purity_pct",None)],"% amphetamine (mean, DIMS)")]
+("Amphetamine content of speed",[("h12_amphetamine_purity_pct",None)],"% amphetamine (mean, DIMS)"),
+("Poison-centre consultations (NVIC)",[("h15_nvic_exposures","all ages"),("h15_nvic_exposures_13plus","13+")],"telephone consultations"),
+("Drivers' blood samples for drugs (all drugs)",[("h14_drug_driving_blood_samples",None)],"samples")]
 _amph_crime_corr=[("c20_synthetic_production_sites","Production sites"),("c20_amphetamine_labs_dismantled","Amphetamine labs"),("c20_synthetic_storage_sites","Storage sites"),("c20_meth_labs_dismantled","Meth labs"),("c22_drug_waste_dumpings","Drug waste dumpings"),
 ("c10_investigations_synthetic_drugs","OM investigations, synthetic"),("c23_precursors_all_kg","Pre-precursors, all kg"),("c23_precursors_bmk_kg","Pre-precursors, BMK kg"),
 ("c01_seized_douane_amphetamine_kg","Seized, amphetamine kg"),("c01_seizures_douane_amphetamine_n","Seizures, amphetamine n"),("c09_harddrug_offences_registered","Hard-drug offences"),("c18_price_eur_g","Price per gram")]
@@ -170,7 +177,8 @@ _her_use=[("Heroin use, adults 18+",[("h01_lifetime_use_18plus_pct","lifetime"),
 ("Drug deaths involving opioids",[("h08_deaths_opioids","opioids (EUDA def.)"),("h08_deaths_f11_underlying","F11 underlying cause")],"deaths"),
 ("People dispensed oxycodone (context)",[("h13_oxycodone_users",None)],"people"),
 ("People dispensed methadone (context)",[("h13_methadone_users",None)],"people"),
-("Heroin content of samples",[("h12_heroin_purity_pct",None)],"% heroin (mean, DIMS)")]
+("Heroin content of samples",[("h12_heroin_purity_pct",None)],"% heroin (mean, DIMS)"),
+("Harm-reduction facilities",[("h23_consumption_rooms","consumption rooms"),("h22_heroin_assisted_treatment_units","heroin-assisted treatment units")],"facilities")]
 _her_crime_corr=[("c01_seized_douane_heroin_kg","Seized, heroin kg"),("c01_seizures_douane_heroin_n","Seizures, heroin n"),("c10_investigations_cocaine_heroin","OM investigations, coc./her."),
 ("c09_harddrug_offences_registered","Hard-drug offences")]
 _her_use_corr=[("h01_lifetime_use_18plus_pct","Lifetime use 18+ (NDM)"),("h05_treatment_all_institutions","Treatment, all inst."),("h05_treatment_constant_institutions","Treatment, constant inst."),
