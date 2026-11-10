@@ -11,11 +11,11 @@ The goal is to place the Netherlands, year by year and per drug, in the two-dime
 
 | Drug | Indicator columns | Values | Years |
 | --- | --- | --- | --- |
-| Cocaine | 61 | 511 | 2003–2025 |
-| Cannabis | 58 | 542 | 1999–2025 |
-| MDMA (ecstasy) | 42 | 382 | 2003–2025 |
-| Amphetamine (speed) | 42 | 355 | 2003–2025 |
-| Heroin (and other opioids) | 31 | 245 | 2003–2025 |
+| Cocaine | 63 | 535 | 2003–2025 |
+| Cannabis | 62 | 572 | 1999–2025 |
+| MDMA (ecstasy) | 44 | 406 | 2003–2025 |
+| Amphetamine (speed) | 44 | 379 | 2003–2025 |
+| Heroin (and other opioids) | 33 | 268 | 2003–2025 |
 
 Steps 5 (combining indicators per dimension) and 6 (plotting the two dimensions) are open. Alcohol and tobacco may follow.
 
@@ -67,6 +67,7 @@ Value flags in the long files:
 | `exact` | as published by the source |
 | `exact (NDM chart data...)` | taken from the data table behind a Nationale Drug Monitor chart |
 | `derived (...)` | calculated from published figures (method in the flag text) |
+| `lower bound (...)` | summed over the regions, municipalities or operators that report; the national total is higher |
 | `approximate (...)` | rounded in the source ("ruim 40.000") or read from a garbled table |
 | `partial year (...)` | incomplete year |
 
@@ -79,6 +80,7 @@ Requires Python 3.10+ (`pip install -r requirements.txt`) and internet access to
 | `01_fetch_cbs.py` | downloads CBS StatLine series (cocaine, cannabis, ecstasy and amphetamine use, F11/F12/F14 deaths, hard- and soft-drug offences and suspects, murder victims, Veiligheidsmonitor) |
 | `02_fetch_ndm_charts.py <drug>` | downloads the chart tables behind the NDM pages of that drug (for checking the NDM values in `manual_values.csv`) |
 | `03_extract_mdi_services.py` | cocaine only: downloads the MDI 2024 report and reads cocaine incidents per service from its vector chart |
+| `07_fetch_google_trends.py` | Google Trends search interest in the Netherlands for the five drug topics, monthly 2004–2025, one shared 0–100 scale (needs `pytrends`) |
 | `04_build_dataset.py <drug>` | combines manual values, CBS series (and for cocaine the MDI counts) into the long and wide files |
 | `05_plot_indicators.py <drug>` | small-multiple time-series plots per dimension |
 | `06_plot_correlations.py <drug>` | correlation matrices per dimension (Pearson r, ≥5 shared years) |
@@ -96,7 +98,7 @@ To add or correct a value, edit `data/raw/<drug>/manual_values.csv` (one row per
 - Several sources measure the same thing differently (e.g. cocaine deaths: 61 in 2024 by the NDM definition vs 4 with F14 as underlying cause). Choosing one series per concept is an open step-5 decision.
 - Series are short (often 5–10 years), so correlations are fragile and partly reflect shared time trends.
 
-The procedure, cross-cutting limitations, discussion points and future directions are in the generic methods report (live: https://claude.ai/artifact/1c8ySyUMnzK6qrMtHMdzRG). Data, biases and discussion points per drug are in the drug reports: [cocaine](https://claude.ai/artifact/4xetkrZmXWykZsMcbr7HUR), [cannabis](https://claude.ai/artifact/7rEWZNSFcrYqbcvy9j7z7s), [MDMA](https://claude.ai/artifact/PuuUfdrtt2ZJVZDmhHMPEQ), [amphetamine](https://claude.ai/artifact/AQiDiSyayraJVQ6xsWwRMK), [heroin](https://claude.ai/artifact/8MFpiVJde3SBdZWtJz7unU). Per-indicator biases are in `data/sources/<drug>_harm_sources.csv` (cocaine 37, cannabis 33, MDMA 30, amphetamine 31, heroin 31 candidate measures). `docs/` holds an earlier Word export of the cocaine report.
+The procedure, cross-cutting limitations, discussion points and future directions are in the generic methods report (live: https://claude.ai/artifact/1c8ySyUMnzK6qrMtHMdzRG). Data, biases and discussion points per drug are in the drug reports: [cocaine](https://claude.ai/artifact/4xetkrZmXWykZsMcbr7HUR), [cannabis](https://claude.ai/artifact/7rEWZNSFcrYqbcvy9j7z7s), [MDMA](https://claude.ai/artifact/PuuUfdrtt2ZJVZDmhHMPEQ), [amphetamine](https://claude.ai/artifact/AQiDiSyayraJVQ6xsWwRMK), [heroin](https://claude.ai/artifact/8MFpiVJde3SBdZWtJz7unU). Per-indicator biases are in `data/sources/<drug>_harm_sources.csv` (cocaine 38, cannabis 33, MDMA 30, amphetamine 31, heroin 31 candidate measures). `docs/` holds an earlier Word export of the cocaine report.
 
 ## Main sources
 

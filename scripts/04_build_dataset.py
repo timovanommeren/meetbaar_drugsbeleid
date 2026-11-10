@@ -102,6 +102,20 @@ if DRUG == "cocaine":
     add("h06_incidents_hospital_ed_n", ED, 2019, d19["mdi_hospital"] + d19["lis_hospital"], F19, M23)
     for y, v in sorted(mdi.items()): add("h06_incidents_hospital_ed_n", ED, int(y), v["mdi_hospital"][1] + v["lis_hospital"][1], F24, M24)
 
+# --- Google Trends (scripts/07_fetch_google_trends.py): yearly mean of monthly search interest ---------
+gt = RAW / "trends" / "google_trends_nl.csv"
+if gt.exists():
+    tid = {"cocaine": "H18"}.get(DRUG, "H17")
+    months = {}
+    for r in csv.DictReader(open(gt)):
+        if r["topic"] == DRUG: months.setdefault(int(r["month"][:4]), []).append(int(r["value"]))
+    for y, v in sorted(months.items()):
+        if len(v) == 12:
+            rows.append(dict(indicator_id=tid, dimension="use", column=f"{tid.lower()}_google_trends_index",
+                             unit="Google Trends index, NL (0-100, shared scale across the five drug topics; yearly mean)",
+                             year=y, value=round(sum(v) / 12, 1), flag="derived (yearly mean of monthly Google Trends values)",
+                             source_url="https://trends.google.com/trends/explore?geo=NL"))
+
 # --- write -------------------------------------------------------------------
 fields = ["indicator_id", "dimension", "column", "unit", "year", "value", "flag", "source_url"]
 rows.sort(key=lambda r: (r["column"], int(r["year"])))

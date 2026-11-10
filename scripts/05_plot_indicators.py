@@ -53,7 +53,7 @@ def fig(panels,title,sub,out,dim):
     f.text(0.012,1-0.15/Hh,title,ha="left",va="top",fontsize=16,fontweight="bold",color=T1)
     f.text(0.012,1-0.48/Hh,sub,ha="left",va="top",fontsize=10,color=T2)
     f.tight_layout(rect=(0,0.45/Hh,1,1-0.8/Hh),h_pad=2.2,w_pad=2.5)
-    f.text(0.012,0.004,f"Filled dot: exact value. Open dot: approximate, derived, uncertain or partial-year value{T['note']}. Dashed line: years missing in between. Panel IDs (C1, U3b, ...) match the correlation matrices.\nEach panel has its own y-axis starting at zero. Source: {DRUG}_harm_long.csv ({T['sources']}).",fontsize=8.5,color=T2)
+    f.text(0.012,0.004,f"Filled dot: exact value. Open dot: approximate, derived, lower-bound, uncertain or partial-year value{T['note']}. Dashed line: years missing in between. Panel IDs (C1, U3b, ...) match the correlation matrices.\nEach panel has its own y-axis starting at zero. Source: {DRUG}_harm_long.csv ({T['sources']}).",fontsize=8.5,color=T2)
     FIGURES.mkdir(parents=True, exist_ok=True); TABLES.mkdir(parents=True, exist_ok=True)
     f.savefig(out,dpi=150,facecolor=SURF); print(out)
 fig(PANELS[DRUG]["crime"],f"Crime harm indicators, {NAME}, Netherlands",T["crime_sub"],FIGURES / f"{DRUG}_crime_indicators.png","crime")

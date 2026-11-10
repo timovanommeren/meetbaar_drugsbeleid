@@ -185,6 +185,19 @@ _her_use_corr=[("h01_lifetime_use_18plus_pct","Lifetime use 18+ (NDM)"),("h05_tr
 ("h05_treatment_secondary_all","Treatment secondary, all"),("h07_hospital_main_diagnosis","Hospital, main diagnosis"),("h07_hospital_secondary_diagnosis","Hospital, secondary diagnosis"),
 ("h07_hospital_main_diagnosis_incl_synthetic","Hospital main, incl. synth."),("h08_deaths_opioids","Deaths, opioids (EUDA)"),("h08_deaths_f11_underlying","Deaths, F11 underlying"),("h13_oxycodone_users","Oxycodone users")]
 
+# Lower-bound series summed from responding municipalities, provinces or operators (open dots in the plots)
+_13b=lambda c: ("Premises closed under Art. 13b (lower bound)",[(c,None)],"closures, all drugs")
+_coc_crime += [_13b("c12_premises_closed_13b")]
+_can_crime += [_13b("c26_premises_closed_13b"),
+  ("Fires in cannabis farms (lower bound)",[("c27_fires_cannabis_farms",None)],"Salvage reports"),
+  ("Cannabis farms found by grid operators (lower bound)",[("c22_farms_found_grid_operators",None)],"farms (Stedin + Liander)")]
+_mdma_crime += [("Clean-up costs of drug waste (lower bound)",[("c22b_cleanup_costs_eur",None)],"€, Noord-Brabant + Limburg")]
+_amph_crime += [("Clean-up costs of drug waste (lower bound)",[("c22b_cleanup_costs_eur",None)],"€, Noord-Brabant + Limburg")]
+# Google Trends (shared 0-100 scale across the five drug topics)
+_gt=lambda c: ("Google Trends search interest",[(c,None)],"index (0–100, shared scale)")
+_coc_use += [_gt("h18_google_trends_index")]
+for _u in (_can_use,_mdma_use,_amph_use,_her_use): _u.append(_gt("h17_google_trends_index"))
+
 PANELS={"cocaine":{"crime":_coc_crime,"use":_coc_use},"cannabis":{"crime":_can_crime,"use":_can_use},"mdma":{"crime":_mdma_crime,"use":_mdma_use},"amphetamine":{"crime":_amph_crime,"use":_amph_use},"heroin":{"crime":_her_crime,"use":_her_use}}
 CORR={"cocaine":{"crime":_coc_crime_corr,"use":_coc_use_corr},"cannabis":{"crime":_can_crime_corr,"use":_can_use_corr},"mdma":{"crime":_mdma_crime_corr,"use":_mdma_use_corr},"amphetamine":{"crime":_amph_crime_corr,"use":_amph_use_corr},"heroin":{"crime":_her_crime_corr,"use":_her_use_corr}}
 TEXT={
